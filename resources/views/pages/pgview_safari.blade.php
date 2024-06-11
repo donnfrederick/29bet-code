@@ -1,0 +1,1 @@
+<iframe style="min-height: 800px;width: 100%; height: 100%;" id="pg_iframe" onload="iframeReady(this)" scrolling="yes" allowTransparency="true" frameborder="0" srcdoc="{{ $htmlContent }}" sandbox="allow-same-origin allow-scripts"></iframe>

@@ -1,0 +1,48 @@
+*   Trying 172.67.214.101:443...
+* Connected to test.29bet.com (172.67.214.101) port 443 (#0)
+* ALPN: offers h2
+* ALPN: offers http/1.1
+*  CAfile: C:\xampp8\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Cloudflare, Inc.; CN=sni.cloudflaressl.com
+*  start date: Mar 10 00:00:00 2023 GMT
+*  expire date: Mar  8 23:59:59 2024 GMT
+*  subjectAltName: host "test.29bet.com" matched cert's "*.29bet.com"
+*  issuer: C=US; O=Cloudflare, Inc.; CN=Cloudflare Inc ECC CA-3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multiplexing
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* h2h3 [:method: POST]
+* h2h3 [:path: /VerifySession?trace_id=eb77630d-bf20-4066-807d-77f131b445d2]
+* h2h3 [:scheme: https]
+* h2h3 [:authority: test.29bet.com]
+* h2h3 [accept: */*]
+* h2h3 [content-length: 157]
+* h2h3 [content-type: application/x-www-form-urlencoded]
+* Using Stream ID: 1 (easy handle 0x14887b9f030)
+> POST /VerifySession?trace_id=eb77630d-bf20-4066-807d-77f131b445d2 HTTP/2
+Host: test.29bet.com
+accept: */*
+content-length: 157
+content-type: application/x-www-form-urlencoded
+
+* We are completely uploaded and fine
+* old SSL session ID is stale, removing
+* Connection state changed (MAX_CONCURRENT_STREAMS == 256)!
+< HTTP/2 419 
+< date: Wed, 02 Aug 2023 00:31:11 GMT
+< content-type: text/html; charset=UTF-8
+< x-powered-by: PHP/8.2.4
+< cache-control: no-cache, private
+< set-cookie: laravel_session=eyJpdiI6IkVzMUhNUnVWazlKdFhVQnhldzNEQVE9PSIsInZhbHVlIjoiVDlmd2ozTkpaT1hJb2JPTTBoWmR0bkZmN2dIYkhNZE5qSXk2RG5KREVhNWFjQ21lTG44VWZWMnZXT1ZxVXNvMndGS0REOCtSWDRXYnhyRkE0Y2VySHRYQUtPOUxSS0NQQnd6Z3dqSEJEOENRaC9iamVnM2VDZXdpekNLRGlMcmUiLCJtYWMiOiI2NDg0ZGE3ZDJkYzliN2E4Zjg1MzM0ZmZkYTM2OTA4NjkwMTRlMWM3NTBiMWU1YTQwNjZhZmQ3NWRiMzliNDU5IiwidGFnIjoiIn0%3D; expires=Wed, 02 Aug 2023 02:31:11 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+< cf-cache-status: DYNAMIC
+< report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TF1Eq2h022MV8Eo1%2BA%2Fbyr2CvYBW9nrDJJXSVFNZg3mGcUUR7wmUFZGYKHk2802tSzcY5uDfDmmhVtinLpqN0hTSW9PAUDasxQbi36uW20aNYSDJpO7PmOemDdKkzR3hwQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+< nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< server: cloudflare
+< cf-ray: 7f02376fed8920e3-HKG
+< alt-svc: h3=":443"; ma=86400
+< 
+* Connection #0 to host test.29bet.com left intact

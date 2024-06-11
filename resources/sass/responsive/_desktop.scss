@@ -1,0 +1,66 @@
+@import 'breakpoints';
+
+@include mediaQueryDesktop(Desktop1400px) {
+    // body {
+    //   background-color: rgb(166, 130, 0);
+    // }
+    .col-mines {
+        width: 57%;
+    }
+    .col-tower, .col-keno {
+        flex: 0 0 auto;
+        width: 58.33333333%;
+    }
+}
+
+@include mediaQueryDesktop(Desktop1350px) {
+    body {
+    }
+}
+
+@include mediaQueryDesktop(Desktop1200px) {
+    .new__banners__background__title {
+        h1 {
+            max-width: 440px;
+        }
+    }
+    .dice__options__content__low, .dice__options__content__high {
+        border-radius: 7px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .dice__options__content__statistic {
+        gap: 7px;
+    }
+    .dice__options__content__chance--title, .dice__options__content__multiplier--title {
+        font-size: 11px;
+    }
+    .col-dice {
+        width: 60%;
+    }
+
+    .col-mines {
+        // width: 68%;
+        max-width: 660px;
+    }
+    .col-double {
+        width: 68%;
+        max-width: 640px;
+    }
+    .preview-latest-box img {
+        max-width: 70%;
+        width: 70px;
+    }
+    .col-crash {
+        width: 55%!important;
+        max-width: 530px;
+    }
+}
+
+@include mediaQueryDesktop(Desktop1024px) {
+
+}
+
+@include mediaQueryDesktop(Desktop991px) {
+
+}

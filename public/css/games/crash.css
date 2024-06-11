@@ -1,0 +1,1567 @@
+.barratimer,
+.crash-main,
+.rastro {
+    overflow: hidden
+}
+
+
+.nitro::after,
+.nitro::before {
+    content: "";
+    width: 10px;
+    height: 200px;
+    rotate: 90deg;
+    filter: blur(20px)
+}
+
+.g_btn {
+    width: 100%;
+    outline: 0;
+    border: none
+}
+
+.g_btn:hover {
+    opacity: 1
+}
+
+.g_btn.disabled {
+    cursor: not-allowed;
+    opacity: .8
+}
+
+.container .col-3 {
+    background: 0 0
+}
+
+.crash-main {
+
+    max-width: 600px;
+    width: 100%;
+    max-height: 480px;
+    height: 450px;
+    position: relative;
+    margin: 0;
+    font-family: Montserrat, sans-serif;
+    text-shadow: 2px 2px 10px #00000052;
+    border-radius: 0
+}
+
+/* metor */
+
+.meteor_left {
+    top:56%;
+    z-index: 3;
+    width: 5%;
+    height: auto;
+    position: absolute;
+    animation: meteor_left_ani 10s cubic-bezier(0.79, 0.03, 0.58, 1) forwards;
+}
+
+/* :root {
+    --random: calc(0.8 + var(--random) * 3);
+} */
+@keyframes meteor_left_ani {
+    from {
+        transform: translate(170vw, -1285px) scale(0);
+
+    }
+    to {
+        transform: translate(-195%, 140%) scale(2);
+
+    }
+}
+
+
+.parallax_bg {
+
+    transform: translateY(-100%);
+    max-width: 850px;
+    width: auto;
+    height: 100%;
+
+}
+.parallax_bg_ani{
+
+    animation: parallaxbg 100s linear 1s forwards;
+}
+@keyframes parallaxbg {
+    0% {
+        transform: translateY(-100%);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+@keyframes parallax_bg_reverse{
+    0%{
+        transform: translateY(100%);
+    }
+    100%{
+        transform: translateY(-100%);
+    }
+}
+/* astroboy */
+.astroboy_floating{
+    z-index: 3;
+    width:5%;
+    height: auto;
+}
+
+/* class trigg er */
+.astroboy_animation_ID{
+    animation: astroby_animation_trigger 5s linear 2 forwards;
+}
+@keyframes astroboy_animation_trigger{
+    0%{
+        transform: translate(0) rotateX(0);
+    }
+    100%{
+        transform: translate(687px) rotate(360deg);
+    }
+}
+
+
+
+.bg__ceu span,
+.contador,
+.content-inf,
+.crash i,
+.moon,
+.nitro::after,
+.nitro::before,
+.popups,
+.rastro,
+.rocket,
+.rocketImg,
+.rocks,
+.sat,
+.shadow--ball,
+.sky,
+.vela--itens {
+    position: absolute
+}
+
+.hist_jogadas {
+    background: #130101;
+    border-radius: 10px;
+    margin: 0;
+    color: #fff;
+    width: 100%;
+    padding: 10px
+}
+
+.contador {
+    position: relative;
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    width: 100%;
+    top: 40%;
+    z-index: 5
+}
+
+.number-init {
+    font-size: clamp(40px, 4vw, 60px);
+    font-weight: 800
+}
+
+.btn--play,
+.coluna--titulo,
+.vela--item {
+    font-weight: 700
+}
+
+
+.barratimer {
+
+    position: relative;
+    top: 10px;
+    background: #2c2c2c;
+    border-radius: 40px;
+    height: 8px;
+    width: 150px;
+    margin: 0 auto;
+    box-shadow: 0 0 0 8px hsl(0deg 0% 100% / 5%);
+}
+
+.timer {
+    font-size: 12px;
+    margin-top: 10px
+}
+
+.barraprog {
+    background: #0bf532;
+    height: 8px;
+    width: 0;
+    border-radius: 40px
+}
+
+.game__wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+
+.box,
+.destruct .rocketContainer .rocketTurbina,
+.estouro .rocketContainer,
+.mobile {
+    display: none
+}
+
+
+
+@keyframes explosion {
+    0%{
+        transform: scale(20%);
+    }
+    50%{
+        transform: scale(50%);
+    }
+    100%{
+        transform: scale(100%);
+    }
+
+}
+
+
+@keyframes bar-animation {
+    from {
+        width: 150px
+    }
+
+    to {
+        width: 0
+    }
+}
+
+.rocket {
+    bottom: 25px;
+    left: 0;
+    width: 115px;
+    height: 55px;
+    z-index: 5
+}
+
+.rastro {
+    bottom: 7px;
+    left: 41px;
+    z-index: 4;
+    width: 0
+}
+
+.rastro img {
+    width: 452px !important;
+    max-width: initial !important
+}
+
+.rastro_anim {
+    animation: 1s linear forwards rastro_anim
+}
+
+.rocketContainer {
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+
+.nitro::before {
+    bottom: -71px;
+    left: -9px;
+    background: linear-gradient(#fff, transparent)
+}
+
+.nitro::after {
+    bottom: -39px;
+    left: -39px;
+    background: linear-gradient(#ffa000, transparent)
+}
+
+/* .rocketImg {
+    background: url('https://cdn.29bet.com/assets/img/crash/rocket.webp') top center/contain no-repeat;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    width: 125px;
+    height: 55px
+} */
+.rocketImg{
+    top: -63px;
+    contain-intrinsic-block-size: auto 100px;
+    z-index: 999;
+    width: 85px;
+    height: 168px;
+    transform: rotate(90deg);
+    left: 29px;
+}
+
+.painelInf,
+.rocks,
+.rocks img,
+.sky {
+    width: 100%
+}
+
+.painelInf {
+    background: #272d39;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    color: #d7d7d7
+}
+
+#rotuloVela {
+    display: inline
+}
+
+.rocks {
+    bottom: -4px;
+    left: 0;
+    z-index: 3
+}
+
+.partida {
+    animation: 2s linear 1s forwards partida
+}
+
+.satdescida {
+    animation: 8s ease-in 2s forwards satdescida
+}
+
+.rock1down {
+    animation: 4s linear 10s forwards rock1down
+}
+
+.rock2down {
+    animation: 8s linear 20s forwards rock2down
+}
+
+@keyframes partida {
+    from {
+        transform: translateY(0);
+        width: 100%
+    }
+
+    to {
+        transform: translateY(290px);
+        width: 110%
+    }
+}
+
+@keyframes satdescida {
+    from {
+        transform: translateY(0)
+    }
+
+    to {
+        transform: translateY(600px)
+    }
+}
+
+@keyframes rock1down {
+    from {
+        top: -315px;
+        left: 60px;
+        transform: translate(-50%, -50%);
+        filter:brightness(100%);
+
+    }
+
+    to {
+        top: 600px;
+        left: 60px;
+        transform: translate(-50%, 100%);
+        transform: rotate(45deg);
+        filter: brightness(50%);
+    }
+}
+
+@keyframes rock2down {
+    from {
+        top: -315px;
+        left: 350px;
+        transform: translate(-50%, -50%)
+    }
+
+    to {
+        top: 600px;
+        left: 350px;
+        transform: translate(-50%, 100%);
+        transform: rotate(95deg);
+
+    }
+}
+
+.sky {
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 98;
+    opacity: 0
+}
+
+.fadein {
+    animation: 5s 3s forwards fadein
+}
+
+.fadeout {
+    animation: 2s forwards fadeout
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0
+    }
+
+    100% {
+        opacity: 1
+    }
+}
+
+@keyframes fadeout {
+
+    0%,
+    100% {
+        opacity: 0
+    }
+}
+
+.cf-container {
+    box-sizing: content-box;
+    width: 178px;
+    height: 140px;
+    position: relative;
+    rotate: -90deg;
+    display: none
+}
+
+/* .rocketSmoke {
+    width: 123px;
+    height: 38px;
+    background: url('https://cdn.29bet.com/assets/img/crash/smoke.webp');
+    position: absolute;
+    bottom: 10px;
+    left: -55px;
+    z-index: 9;
+    animation: 1s steps(7) infinite smoke;
+    transform: translate(-10%, 0) scale(.5)
+} */
+
+@keyframes smoke {
+    to {
+        background-position: 1107px
+    }
+}
+
+.cf-container .cf-flame-container {
+    width: 50px;
+    height: 50px;
+    bottom: 20px;
+    position: absolute
+}
+
+.cf-container .cf-flame-container#base-fire .cf-flame:first-child {
+    background: #c63509;
+    opacity: .95
+}
+
+.cf-container .cf-flame-container#base-fire .cf-flame:nth-child(2) {
+    background: #cd4015;
+    width: 50px;
+    height: 50px;
+    opacity: .85;
+    left: 75px
+}
+
+.cf-container .cf-flame-container#base-fire .cf-flame:nth-child(3) {
+    background: #d73e0f;
+    width: 60px;
+    height: 60px;
+    opacity: .85;
+    left: 80px
+}
+
+.cf-container .cf-flame-container:nth-child(2) {
+    width: 50px;
+    height: 50px;
+    bottom: 30px;
+    position: absolute
+}
+
+.cf-container .cf-flame-container:nth-child(2) .cf-flame {
+    width: 50px;
+    height: 50px;
+    left: 75px
+}
+
+.cf-log {
+    background: #723830;
+    height: 30px;
+    transform-origin: center;
+    position: absolute;
+    bottom: 0;
+    border-radius: .5em;
+    box-shadow: 0 3px 10px #372113;
+    width: 100%
+}
+
+.cf-log:first-child {
+    transform: rotate(15deg)
+}
+
+.cf-log:nth-child(2) {
+    transform: rotate(-15deg)
+}
+
+.cf-flame:first-child {
+    background: #f5ed8f
+}
+
+.cf-flame:nth-child(2) {
+    background: #fde239
+}
+
+.cf-flame:nth-child(3) {
+    background: #ffdc01
+}
+
+.cf-flame:nth-child(4) {
+    background: #fdac01
+}
+
+.cf-flame:nth-child(5) {
+    background: #d73e0f
+}
+
+.cf-flame,
+.cf-flame:nth-child(6) {
+    background: #cd4015
+}
+
+.cf-flame:last-child,
+.cf-flame:nth-child(7) {
+    background: #c63509
+}
+
+.cf-flame {
+    width: 50px;
+    height: 50px;
+    border-radius: 1em;
+    position: absolute;
+    bottom: 50px;
+    left: 100px
+}
+
+.container--crash,
+.container--lateral {
+    position: relative
+}
+
+#fireNodes2 .cf-flame {
+    -webkit-animation: .5s ease-out infinite flameColor;
+    animation: .5s ease-out infinite flameColor
+}
+
+@-webkit-keyframes flameColor {
+    0% {
+        background: #c63509
+    }
+
+    20% {
+        background: #cd4015
+    }
+
+    30%,
+    60% {
+        background: #fdac01
+    }
+
+    50% {
+        background: #ffb401
+    }
+
+    70% {
+        background: #ffdc01
+    }
+
+    80% {
+        background: #fde239
+    }
+
+    100% {
+        background: #f5ed8f
+    }
+}
+
+@keyframes flameColor {
+    0% {
+        background: #c63509
+    }
+
+    20% {
+        background: #cd4015
+    }
+
+    30%,
+    60% {
+        background: #fdac01
+    }
+
+    50% {
+        background: #ffb401
+    }
+
+    70% {
+        background: #ffdc01
+    }
+
+    80% {
+        background: #fde239
+    }
+
+    100% {
+        background: #f5ed8f
+    }
+}
+
+.container--crash {
+    padding: 20px 30px;
+    margin-left: -180px
+}
+
+.btn--play {
+    background-color: #48e315;
+    padding: 30px;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: rgb(51 185 6) 0 5px;
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+    margin: 10px 0 0
+}
+
+.content-inf {
+    bottom: 20px;
+    left: 20px;
+    width: 90%
+}
+
+.btn--play:active {
+    margin-top: 3px
+}
+
+.lancado {
+    animation: 1s linear forwards lancado
+}
+
+.motor {
+    animation: .2s 1s infinite motor
+
+}
+
+.sb_crash .row {
+    padding: 0 !important;
+    margin: 0 !important
+}
+
+@keyframes motor {
+
+    0%,
+    100% {
+        transform: translateX(-1px)
+    }
+
+    100% {
+        transform: translateX(1px);
+
+
+    }
+}
+
+@keyframes lancado {
+
+    0%,
+    25% {
+        transform: translate(0, 0);
+        rotate: 0deg
+    }
+
+    50% {
+        transform: translate(0, -5px);
+        rotate: 0deg
+    }
+
+    75% {
+        transform: translate(190px, 100px);
+        rotate: -30deg
+    }
+
+    100% {
+        transform: translate(clamp(170px, 15vw, 225px), clamp(260px, 25vw, 425px));
+        rotate: -90deg;
+        filter: drop-shadow(-2px -2px 29px #962407)
+    }
+}
+
+@keyframes rastro_anim {
+
+    0%,
+    25% {
+        width: 0
+    }
+
+    50% {
+        width: 70px
+    }
+
+    75% {
+        width: 150px
+    }
+
+    100% {
+        width: 452px
+    }
+}
+
+.crash i {
+    top: -250px;
+    background: rgba(255, 255, 255, .5);
+    animation: linear infinite ceuestrelas
+}
+
+@keyframes ceuestrelas {
+    0% {
+        transform: translateY(0)
+    }
+
+    100% {
+        transform: translateY(200vh)
+    }
+}
+
+.nFinish {
+    color: red;
+    animation: 2s ease-out infinite pulse;
+    opacity: .5
+}
+
+.nFinishSuccess {
+    color: #ff0;
+    animation: .5s ease-out infinite pulse;
+    opacity: .5
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: .5
+    }
+
+    50% {
+        opacity: 1
+    }
+}
+
+.moon {
+    z-index:2;
+    position: absolute;
+    top: 40%;
+    right: 0;
+
+}
+
+.buwan{
+    animation: moonani 60s linear 1s forwards;
+}
+
+@keyframes moonani {
+    0% {
+        transform: translate(0) scale(1) rotate(0);
+        filter:brightness(100%);
+    }
+    100% {
+        transform:translate(-5%, 5%) scale(0) rotate(180deg);
+        filter:brightness(0%);
+    }
+}
+
+
+
+.sat {
+    z-index: 3;
+    top: 100px;
+    left: 60px;
+    width: 90px
+}
+
+.rock1,
+.rock2 {
+    top: -315px;
+    z-index: 3;
+    position: absolute
+}
+
+.float {
+    animation: 4s ease-in-out infinite float
+}
+
+.rock1 {
+    left: 60px;
+    width: 15%
+}
+
+.rock2 {
+    left: 350px;
+    width: 280px
+}
+
+@keyframes float {
+
+    0%,
+    100% {
+        transform: translatey(0)
+    }
+
+    50% {
+        transform: translatey(-20px)
+    }
+}
+
+.rocketsmall {
+    width: 10%;
+    height: auto;
+    position: absolute;
+    bottom: 300px;
+    right: -80px;
+    animation: 20s linear 10s infinite rota;
+    z-index: 8
+}
+
+.container--velas,
+.sb_crash,
+.velas {
+    position: relative
+}
+
+@keyframes rota {
+    from {
+        bottom: 300px;
+        right: -80px
+    }
+
+    to {
+        bottom: 700px;
+        right: 600px
+    }
+}
+
+.destruct .rocketContainer .rocketImg {
+    z-index: 888;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position:absolute;
+    background-image: url('https://cdn.29bet.com/assets/img/crash/4.webp');
+
+    /* width: auto; Add this line to set the width */
+    /* background-size: contain; */
+    animation: explosions 4s linear 1s infinite;
+}
+/* .destruct {
+    height: 115px;
+    position:absolute;
+
+    background: url('https://cdn.29bet.com/assets/img/crash/6.webp') top center no-repeat;
+    background-size: contain;
+    animation: explosions 4s linear 1s forwards;
+} */
+
+@keyframes explosions {
+    0%{
+        background-image: url('https://cdn.29bet.com/assets/img/crash/1.webp');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    25%{
+        background-image: url('https://cdn.29bet.com/assets/img/crash/2.webp');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    50%{
+        background-image: url('https://cdn.29bet.com/assets/img/crash/3.webp');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    75%{
+        background-image: url('https://cdn.29bet.com/assets/img/crash/4.webp');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    100%{
+        background-image: url('https://cdn.29bet.com/assets/img/crash/5.webp');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+}
+
+/* ejected alien section */
+.ejected_alien{
+    display: none;
+    z-index: 3;
+    position: absolute;
+    height: 100%;
+    top:100px;
+    left:70%;
+    overflow: hidden;
+
+    /* animation: ejected_alien_animation 10s linear 1s infinite; */
+
+}
+/* pang triger sa js */
+.ejected_alien_trigger{
+
+    animation: ejected_alien_animation 10s linear 1s forwards;
+    display: block;
+    /* animation: ejected_alien_animation 2s linear 1s forwards
+               ejected_alien_animation_reverse 5s linear 2s forwards; */
+}
+.ejected_alien_trigger_reverse{
+
+    animation-timing-function: linear;
+    animation: ejected_alien_animation_reverse 2s linear 1s forwards;
+}
+
+@keyframes ejected_alien_animation {
+    from {
+        transform: translate(0, -100%) scale(0);
+        filter: brightness(50%);
+    }
+    to {
+        transform: translate(-450px, 100%) scale(1.5);
+        filter: brightness(100%);
+    }
+}
+@keyframes ejected_alien_animation_reverse{
+    0%{
+        transform: translate(0) scale(0);
+    }
+    50%{
+        transform: translate(450) scale(1);
+        filter:brightness(50%);
+    }
+    100%{
+        transform: translate(1000) scale(1.5);
+        filter :brightness(100%);
+    }
+}
+
+.alien_chute{
+
+    height: auto;
+}
+.meteor_3 {
+    top:15%;
+    right: 10%;
+    z-index: 3;
+    position: absolute;
+    animation:meteor_3_animation 10s linear  infinite;
+}
+/* for scripting */
+/* .meteor_3_trigger{
+    animation:meteor_3_animation 2s linear 1s forwards;
+} */
+@keyframes meteor_3_animation {
+    0%{
+        transform: translate(170vw, -1285px) scale(0);
+    }
+    100%{
+        transform: translate(-195%, 140%) scale(0.18);
+    }
+}
+
+
+
+.box {
+    animation: 5s forwards estouro
+}
+
+.estouro .box {
+    display: block;
+    position: absolute;
+  left: 70%;
+    top: 200px;
+    z-index: 4
+}
+
+.sb_crash .b_input_btn {
+    font-size: .8em
+}
+
+@keyframes estouro {
+    0% {
+        right: 10px;
+        top: 200px;
+        rotate: 0deg
+    }
+
+    100% {
+        right: 10px;
+        top: 625px;
+        rotate: 20deg
+    }
+}
+
+.velas {
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9;
+    padding: 10px
+}
+
+.shadow--ball {
+    top: -175px;
+    left: -204px;
+    width: 350px;
+    height: 350px;
+    background: radial-gradient(#342a84 12%, transparent, transparent);
+    z-index: 11
+}
+
+.linegame,
+.vela--itens {
+    width: 100%;
+    display: flex
+}
+
+.vela--itens {
+    justify-content: center
+
+}
+
+.vela--item {
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin: 5px 2px;
+    text-shadow: none;
+    font-size: 12px;
+    color: #fff
+}
+
+.vela--item1 {
+    background-color: #da5e38;
+}
+
+.vela--item2 {
+    background-color: #03bcca
+}
+
+.vela--item3 {
+    background-color: #e08f44
+}
+
+.vela--item4,
+.vela--item5 {
+    background-color: #328fde
+}
+
+.vela--item6 {
+    background-color: #03bcca
+}
+
+.vela--item7 {
+    background-color: #e08f44
+}
+
+.crash img {
+    max-width: 100%
+}
+
+.linegame {
+    flex-wrap: wrap;
+    margin-bottom: 8px
+}
+
+.colHist0 {
+    width: 10%
+}
+
+.colHist1 {
+    width: 70%;
+    padding: 2px 5px
+}
+
+.colHist2,
+.colHist4 {
+    width: 30%;
+    padding: 2px 5px;
+    text-align: center
+}
+
+.colHist3 {
+    width: 60%;
+    padding: 2px 5px
+}
+
+.coluna--center {
+    color: #877878
+}
+
+main {
+    padding: 50px 0
+}
+
+.g_c {
+    background: 0 0 !important
+}
+
+.sb_crash {
+    margin-left: -170px;
+    width: 620px
+}
+
+.sb_crash .b_input_btns {
+    bottom: inherit !important;
+    top: 10px
+}
+
+.sb_crash .b_label {
+    line-height: 30px
+}
+
+.sb_crash .b_input {
+    padding: 14px 12px;
+    font-size: 18px
+}
+
+.sb_crash .g_btn #bet_btn {
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase
+}
+
+.sb_crash .g_btn {
+    margin-top: 10px;
+    padding: 27px;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700
+}
+
+.sb_crash .b_input_bottom div {
+    font-size: 1em
+}
+
+@media(max-width:1700px) {
+    .rocket {
+        left: 1px
+    }
+
+    .rastro {
+        left: 37px
+    }
+}
+@media(max-width:1640px){
+    .rastro{
+        left:25px;
+    }
+}
+@media(max-width:1620px){
+    .rastro {
+        left:16px;
+    }
+}
+
+@media(max-width:1600px) {
+    .rocket {
+        left: 33px
+    }
+
+    .rastro {
+        left: 28px
+    }
+}
+@media(max-width:1550px){
+    .rastro{
+        left:1px;
+    }
+}
+@media (max-width:1500px) {
+    .rastro img {
+        width: 400px !important
+    }
+
+    .rocket {
+        left: 72px
+    }
+
+    .rastro {
+        bottom: 20px;
+        left: 94px
+    }
+}
+
+@media (max-width:1380px) {
+    .rastro img {
+        width: 370px !important
+    }
+
+    .rastro {
+        bottom: 20px
+    }
+}
+
+@media (max-width:1400px) {
+    .rastro {
+        left: 104px
+    }
+
+    .rocket {
+        left: 74px
+    }
+}
+
+@media(max-width:1350px){
+    .rastrp{
+        left:1px;
+    }
+}
+
+@media (max-width:1300px) {
+    .rastro img {
+        width: 350px !important
+    }
+
+    .rastro {
+        bottom: 20px;
+        left: 106px;
+    }
+
+    .rocket {
+        left: 74px
+    }
+}
+
+@media(max-width:1250px) {
+    .rocket {
+        left: 114px
+    }
+
+    .rastro {
+        left: 128px
+    }
+}
+
+@media(max-width:1200px) {
+    .rocket {
+        left: 27px
+    }
+
+    .rastro {
+        left: 38px
+    }
+}
+
+@media(max-width:1170px) {
+
+    .rastro,
+    .rocket {
+        left: 12px
+    }
+}
+
+@media (max-width:1024px) {
+    .rocket {
+        left: 202px
+    }
+}
+
+@media (max-width:1100px) {
+    .rocket {
+        left: 66px
+    }
+
+    .rastro img {
+        width: 275px !important
+    }
+
+    .rastro {
+        left: 108px;
+        bottom: 20px;
+    }
+}
+
+@media (max-width:995px) {
+    .rocket {
+        left: 197px
+    }
+
+    .container--crash {
+        margin-left: 0
+    }
+
+    .sb_crash {
+        margin-left: 10px
+    }
+
+    .rastro img {
+        width: 381px !important
+    }
+
+    .rastro {
+        bottom: 0;
+        left: 144px
+    }
+
+    .g_c {
+        min-height: initial
+    }
+
+    .mobile {
+        display: block
+    }
+}
+
+@media (max-width:765px) {
+    .game__wrapper {
+        flex-wrap: wrap
+    }
+
+    .sb_crash {
+        width: 100%;
+        padding: 0 20px;
+        min-height: 450px
+    }
+
+    .crash-main {
+        height: 370px
+    }
+
+    .rocket {
+        left: 79px
+    }
+
+    .rastro img {
+        width: 323px !important
+    }
+
+    .rastro {
+        bottom: 23px;
+        left: 80px
+    }
+}
+
+@media (max-width:650px) {
+
+    .col-crash,
+    .sb_crash {
+        width: 100%
+    }
+
+    .game__wrapper {
+        flex-wrap: wrap
+    }
+
+    .sb_crash {
+        min-height: 450px
+    }
+}
+
+@media (max-width:500px) {
+    .rock1 {
+        width: 120px
+    }
+
+    .rock2 {
+        width: 140px
+    }
+}
+
+@media (max-width:440px) {
+    .rocket {
+        left: -2px;
+        top: 295px;
+    }
+
+    .sb_crash {
+        min-height: 450px
+    }
+
+    .rastro img {
+        width: 323px !important
+    }
+
+    .rastro {
+        bottom: 31px;
+        left: -5px;
+    }
+}
+
+
+@media (max-width:405px) {
+
+    .rastro img {
+        width: 320px !important;
+    }
+}
+@media(max-width:390px){
+    .rocket{
+        left: -3px;
+        top: 243px;
+    }
+    .rastro{
+        left:1px;
+        bottom: 1px;
+    }
+}
+
+@media(max-width:355px){
+    .rocket{
+        left: -21px;
+        top: 240px;
+    }
+    .rastro{
+        top:134px;
+
+    }
+    .rastro img{
+        width: 302px !important;
+    }
+}
+
+@media (max-width:320px) {
+    .rocket{
+        left:-51px;
+    }
+
+    .sb_crash {
+        min-height: 450px
+    }
+}
+@media (max-width:280px){
+    .rocket{
+        left:-85px;
+    }
+
+}
+
+
+.bg__ceu span {
+    top: 50%;
+    left: 50%;
+    width: 4px;
+    height: 4px;
+    background: #ffffff21;
+    border-radius: 50%;
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, .1), 0 0 0 4px rgba(255, 255, 255, .1), 0 0 10px rgba(255, 255, 255, .1);
+    animation: 3s linear infinite animate
+}
+
+.bg__ceu span::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 300px;
+    height: 1px;
+    background: linear-gradient(90deg, #ffffff1f, transparent)
+}
+
+@keyframes animate {
+    0% {
+        transform: rotate(315deg) translateX(0);
+        opacity: 1
+    }
+
+    70% {
+        opacity: 1
+    }
+
+    100% {
+        transform: rotate(315deg) translateX(-500px);
+        opacity: 0
+    }
+}
+
+.bg__ceu span:first-child {
+    top: 0;
+    right: 0;
+    left: initial;
+    animation-delay: 0s;
+    animation-duration: 1s
+}
+
+.bg__ceu span:nth-child(2) {
+    top: 0;
+    right: 80px;
+    left: initial;
+    animation-delay: .2s;
+    animation-duration: 3s
+}
+
+.bg__ceu span:nth-child(3) {
+    top: 80;
+    right: 0;
+    left: initial;
+    animation-delay: .4s;
+    animation-duration: 2s
+}
+
+.bg__ceu span:nth-child(4) {
+    top: 0;
+    right: 180px;
+    left: initial;
+    animation-delay: .6s;
+    animation-duration: 1.5s
+}
+
+.bg__ceu span:nth-child(5) {
+    top: 0;
+    right: 400px;
+    left: initial;
+    animation-delay: .8s;
+    animation-duration: 2.5s
+}
+
+.bg__ceu span:nth-child(6) {
+    top: 0;
+    right: 600px;
+    left: initial;
+    animation-delay: 1s;
+    animation-duration: 3s
+}
+
+.bg__ceu span:nth-child(7) {
+    top: 300px;
+    right: 0;
+    left: initial;
+    animation-delay: 1.2s;
+    animation-duration: 1.75s
+}
+
+.bg__ceu span:nth-child(8) {
+    top: 0;
+    right: 700px;
+    left: initial;
+    animation-delay: 1.4s;
+    animation-duration: 1.25s
+}
+
+.bg__ceu span:nth-child(9) {
+    top: 0;
+    right: 450px;
+    left: initial;
+    animation-delay: 2.75s;
+    animation-duration: 2.75s
+}
+
+.bet-self {
+    color: #d4d592
+}

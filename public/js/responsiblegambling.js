@@ -1,0 +1,1 @@
+$.on("/responsible-gambling",function(){});

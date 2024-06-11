@@ -1,0 +1,1 @@
+$.on("/promotions-details",function(){});

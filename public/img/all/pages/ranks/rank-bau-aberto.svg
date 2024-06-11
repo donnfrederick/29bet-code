@@ -1,0 +1,2626 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.114" height="46.319" viewBox="0 0 43.114 46.319">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_6621" data-name="矩形 6621" width="43.114" height="46.319" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="路径_23684" data-name="路径 23684" d="M17.2,16.669l2.928,1.713.752-1.152-3.035-1.774Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-5.961" y1="8.453" x2="-5.622" y2="8.453" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd612"/>
+      <stop offset="0.655" stop-color="#fa0"/>
+      <stop offset="1" stop-color="#fa0"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <rect id="矩形_6341" data-name="矩形 6341" width="43.114" height="46.319" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="矩形_6340" data-name="矩形 6340" width="3.68" height="2.416" transform="translate(17.201 15.966)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="路径_23686" data-name="路径 23686" d="M17.742,16.161l1.534.9,1.067.294-2.467-1.437Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-12.617" y1="11.875" x2="-11.928" y2="11.875" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff654"/>
+      <stop offset="0.655" stop-color="#ffd947"/>
+      <stop offset="1" stop-color="#ffd947"/>
+    </linearGradient>
+    <clipPath id="clip-path-6">
+      <path id="路径_23687" data-name="路径 23687" d="M31.524,23.393,28.49,21.618l-.644,1.214,2.927,1.713Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-9.57" y1="6.79" x2="-9.231" y2="6.79" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-8">
+      <rect id="矩形_6344" data-name="矩形 6344" width="3.679" height="2.416" transform="translate(27.846 22.129)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="路径_23689" data-name="路径 23689" d="M28.521,22.084l-.136.24,1.534.9,1.068.295Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="-19.934" y1="9.509" x2="-19.245" y2="9.509" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-10">
+      <path id="路径_23690" data-name="路径 23690" d="M17.247,16.686l2.938,1.7.745-1.156-3.044-1.758Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="-4.683" y1="10.587" x2="-4.411" y2="10.587" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-12">
+      <rect id="矩形_6348" data-name="矩形 6348" width="3.683" height="2.401" transform="translate(17.247 15.98)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <path id="路径_23692" data-name="路径 23692" d="M17.784,16.174l1.541.9,1.069.289-2.476-1.424Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-6" x1="-6.814" y1="21.338" x2="-6.431" y2="21.338" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-14">
+      <path id="路径_23693" data-name="路径 23693" d="M31.608,23.328,28.563,21.57l-.637,1.219,2.937,1.694Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-7" x1="-7.584" y1="8.496" x2="-7.313" y2="8.496" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-16">
+      <rect id="矩形_6352" data-name="矩形 6352" width="3.682" height="2.401" transform="translate(27.926 22.082)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="路径_23695" data-name="路径 23695" d="M28.6,22.037l-.136.239,1.541.9,1.069.288Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-8" x1="-10.905" y1="17.064" x2="-10.522" y2="17.064" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-18">
+      <path id="路径_23696" data-name="路径 23696" d="M30.394,2.441C29.237,2.6,28.8,3.75,28.441,4.694l0,.02a9.1,9.1,0,0,0,.99.633s.369-1.73,1.217-1.79c.732-.052,2.325.581,2.4,1.611a4.275,4.275,0,0,1-.571,1.911c.026.021.054.039.079.062s.163.133.1.092c.035.023.07.05.106.075.138.088.279.174.425.253.071.037.146.071.219.108a1.6,1.6,0,0,0,.273-.379c.872-1.943.644-3.041-.466-3.884a4.614,4.614,0,0,0-2.519-.984,2.189,2.189,0,0,0-.294.019" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-9" x1="-4.658" y1="8.366" x2="-4.494" y2="8.366" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-20">
+      <rect id="矩形_6356" data-name="矩形 6356" width="5.767" height="5.247" transform="translate(28.439 2.422)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <rect id="矩形_6357" data-name="矩形 6357" width="5.482" height="4.445" transform="translate(28.439 3.224)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-22">
+      <path id="路径_23700" data-name="路径 23700" d="M34.915,25.635c2.189.928,5.725.486,7.468-4.427,1.1-3.118.921-5.987-.313-7.741a6.6,6.6,0,0,0-1.449-1.286Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-10" x1="-4.073" y1="2.371" x2="-3.956" y2="2.371" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c67602"/>
+      <stop offset="0.655" stop-color="#dd9300"/>
+      <stop offset="1" stop-color="#dd9300"/>
+    </linearGradient>
+    <clipPath id="clip-path-24">
+      <path id="路径_23702" data-name="路径 23702" d="M19.519,0,13.824,13.46,34.946,25.653,40.64,12.194Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-11" x1="-0.516" y1="1.806" x2="-0.478" y2="1.806" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a1d7de"/>
+      <stop offset="0.655" stop-color="#77b4bd"/>
+      <stop offset="1" stop-color="#77b4bd"/>
+    </linearGradient>
+    <clipPath id="clip-path-25">
+      <path id="路径_23703" data-name="路径 23703" d="M13.824,13.46,34.946,25.653,33.673,22,16.884,12.447Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-12" x1="-0.488" y1="1.649" x2="-0.448" y2="1.649" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-27">
+      <rect id="矩形_6363" data-name="矩形 6363" width="19.515" height="9.365" transform="translate(13.824 12.448)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-28">
+      <rect id="矩形_6364" data-name="矩形 6364" width="5.286" height="1.295" transform="translate(13.824 12.448)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-29">
+      <rect id="矩形_6365" data-name="矩形 6365" width="3.54" height="1.012" transform="translate(13.824 12.448)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-30">
+      <path id="路径_23708" data-name="路径 23708" d="M37.452,13.46,33.673,22l1.273,3.65L40.64,12.194Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-13" x1="-4.833" y1="2.535" x2="-4.69" y2="2.535" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-32">
+      <rect id="矩形_6368" data-name="矩形 6368" width="6.212" height="11.835" transform="translate(33.672 12.494)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-33">
+      <path id="路径_23710" data-name="路径 23710" d="M19.519,0,13.824,13.46l3.06-1.013,3.787-8.755Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-14" x1="-2.019" y1="3.441" x2="-1.873" y2="3.441" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-35">
+      <rect id="矩形_6371" data-name="矩形 6371" width="5.615" height="6.895" transform="translate(14.285 5.477)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-36">
+      <path id="路径_23712" data-name="路径 23712" d="M19.519,0l1.152,3.692L37.452,13.46l3.188-1.266Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-15" x1="-0.924" y1="3.441" x2="-0.877" y2="3.441" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-38">
+      <rect id="矩形_6374" data-name="矩形 6374" width="12.438" height="4.459" transform="translate(23.022 5.062)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-39">
+      <rect id="矩形_6375" data-name="矩形 6375" width="20.568" height="11.403" transform="translate(16.884 3.692)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-40">
+      <rect id="矩形_6376" data-name="矩形 6376" width="17.792" height="11.003" transform="translate(19.66 3.692)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-41">
+      <rect id="矩形_6377" data-name="矩形 6377" width="4.778" height="7.957" transform="translate(17.763 5.074)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-42">
+      <rect id="矩形_6378" data-name="矩形 6378" width="4.728" height="7.886" transform="translate(17.763 5.074)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-43">
+      <path id="路径_23722" data-name="路径 23722" d="M34.946,25.653l1.561.533,5.487-12.972-1.354-1.02Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-16" x1="-1.956" y1="2.619" x2="-1.892" y2="2.619" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ce7b02"/>
+      <stop offset="0.655" stop-color="#e69900"/>
+      <stop offset="1" stop-color="#e69900"/>
+    </linearGradient>
+    <clipPath id="clip-path-44">
+      <path id="路径_23723" data-name="路径 23723" d="M27.912,4.71l5.832,3.368.3-.571L28.214,4.121Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-17" x1="-4.551" y1="10.664" x2="-4.388" y2="10.664" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f59d0f"/>
+      <stop offset="0.655" stop-color="#f57f00"/>
+      <stop offset="1" stop-color="#f57f00"/>
+    </linearGradient>
+    <clipPath id="clip-path-45">
+      <path id="路径_23724" data-name="路径 23724" d="M21.088,5.075l15.927,9.373.437-.988L20.671,3.692Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-18" x1="-1.232" y1="3.963" x2="-1.172" y2="3.963" xlink:href="#linear-gradient-16"/>
+    <clipPath id="clip-path-46">
+      <path id="路径_23725" data-name="路径 23725" d="M16.884,12.447l.879.5,3.325-7.873-.417-1.383Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-19" x1="-4.016" y1="4.605" x2="-3.778" y2="4.605" xlink:href="#linear-gradient-16"/>
+    <clipPath id="clip-path-48">
+      <path id="路径_23727" data-name="路径 23727" d="M38.244,23.632s1.638-.158,2.735-3,.364-4.517.364-4.517Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-20" x1="-9.996" y1="4.016" x2="-9.734" y2="4.016" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9f5c03"/>
+      <stop offset="0.248" stop-color="#9f5c03"/>
+      <stop offset="0.722" stop-color="#985409"/>
+      <stop offset="1" stop-color="#934d0f"/>
+    </linearGradient>
+    <clipPath id="clip-path-50">
+      <path id="路径_23729" data-name="路径 23729" d="M38.157,23.734s1.639-.146,2.753-2.988.391-4.514.391-4.514Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-21" x1="-4.828" y1="7.248" x2="-4.695" y2="7.248" xlink:href="#linear-gradient-20"/>
+    <clipPath id="clip-path-52">
+      <path id="路径_23731" data-name="路径 23731" d="M38.232,23.631s1.637-.157,2.734-3,.366-4.517.366-4.517Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-22" x1="-9.993" y1="4.017" x2="-9.731" y2="4.017" xlink:href="#linear-gradient-20"/>
+    <clipPath id="clip-path-54">
+      <path id="路径_23733" data-name="路径 23733" d="M13.6,17.236l16.388,9.226,4.512.111-21-12.125Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-23" x1="-0.642" y1="2.629" x2="-0.595" y2="2.629" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fae848"/>
+      <stop offset="0.655" stop-color="#facc3d"/>
+      <stop offset="1" stop-color="#facc3d"/>
+    </linearGradient>
+    <clipPath id="clip-path-56">
+      <path id="路径_23735" data-name="路径 23735" d="M.011,22.282H4.886L13.6,17.236l-.1-2.788Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-24" x1="0.059" y1="2.393" x2="0.124" y2="2.393" xlink:href="#linear-gradient-23"/>
+    <clipPath id="clip-path-58">
+      <rect id="矩形_6394" data-name="矩形 6394" width="10.747" height="10.449" transform="translate(4.886 17.236)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-59">
+      <rect id="矩形_6417" data-name="矩形 6417" width="25.834" height="22.527" transform="translate(5.664 18.5)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-61">
+      <rect id="矩形_6396" data-name="矩形 6396" width="24.988" height="21.789" transform="translate(6.087 18.869)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-62">
+      <rect id="矩形_6397" data-name="矩形 6397" width="24.141" height="21.052" transform="translate(6.51 19.237)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-63">
+      <rect id="矩形_6398" data-name="矩形 6398" width="23.295" height="20.314" transform="translate(6.933 19.606)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-64">
+      <rect id="矩形_6399" data-name="矩形 6399" width="22.449" height="19.576" transform="translate(7.357 19.975)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-65">
+      <rect id="矩形_6400" data-name="矩形 6400" width="21.602" height="18.838" transform="translate(7.78 20.344)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-66">
+      <rect id="矩形_6401" data-name="矩形 6401" width="20.756" height="18.099" transform="translate(8.203 20.714)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-67">
+      <rect id="矩形_6402" data-name="矩形 6402" width="19.91" height="17.361" transform="translate(8.626 21.083)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-68">
+      <rect id="矩形_6403" data-name="矩形 6403" width="19.064" height="16.623" transform="translate(9.049 21.452)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-69">
+      <rect id="矩形_6404" data-name="矩形 6404" width="18.217" height="15.885" transform="translate(9.473 21.821)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-70">
+      <rect id="矩形_6405" data-name="矩形 6405" width="17.371" height="15.148" transform="translate(9.896 22.189)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-71">
+      <rect id="矩形_6406" data-name="矩形 6406" width="16.525" height="14.41" transform="translate(10.319 22.558)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-72">
+      <rect id="矩形_6407" data-name="矩形 6407" width="15.678" height="13.672" transform="translate(10.742 22.927)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-73">
+      <rect id="矩形_6408" data-name="矩形 6408" width="14.832" height="12.934" transform="translate(11.165 23.296)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-74">
+      <rect id="矩形_6409" data-name="矩形 6409" width="13.986" height="12.196" transform="translate(11.588 23.665)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-75">
+      <rect id="矩形_6410" data-name="矩形 6410" width="13.14" height="11.458" transform="translate(12.011 24.034)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-76">
+      <rect id="矩形_6411" data-name="矩形 6411" width="12.294" height="10.72" transform="translate(12.434 24.404)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-77">
+      <rect id="矩形_6412" data-name="矩形 6412" width="11.447" height="9.982" transform="translate(12.858 24.773)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-78">
+      <rect id="矩形_6413" data-name="矩形 6413" width="10.601" height="9.244" transform="translate(13.281 25.141)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-79">
+      <rect id="矩形_6414" data-name="矩形 6414" width="9.754" height="8.506" transform="translate(13.704 25.51)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-80">
+      <rect id="矩形_6415" data-name="矩形 6415" width="8.908" height="7.768" transform="translate(14.127 25.879)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-81">
+      <rect id="矩形_6416" data-name="矩形 6416" width="8.062" height="7.03" transform="translate(14.55 26.248)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-82">
+      <rect id="矩形_6440" data-name="矩形 6440" width="10.943" height="27.688" transform="translate(14.649 4.879)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-83">
+      <rect id="矩形_6418" data-name="矩形 6418" width="10.943" height="27.37" transform="translate(14.649 4.879)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-84">
+      <rect id="矩形_6419" data-name="矩形 6419" width="10.631" height="27.093" transform="translate(14.805 5.172)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-85">
+      <rect id="矩形_6420" data-name="矩形 6420" width="10.32" height="26.814" transform="translate(14.96 5.465)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-86">
+      <rect id="矩形_6421" data-name="矩形 6421" width="10.008" height="26.537" transform="translate(15.116 5.758)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-87">
+      <rect id="矩形_6422" data-name="矩形 6422" width="9.697" height="26.259" transform="translate(15.272 6.051)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-88">
+      <rect id="矩形_6423" data-name="矩形 6423" width="9.385" height="25.982" transform="translate(15.428 6.344)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-89">
+      <rect id="矩形_6424" data-name="矩形 6424" width="9.074" height="25.704" transform="translate(15.583 6.636)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-90">
+      <rect id="矩形_6425" data-name="矩形 6425" width="8.762" height="25.427" transform="translate(15.739 6.929)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-91">
+      <rect id="矩形_6426" data-name="矩形 6426" width="8.451" height="25.148" transform="translate(15.895 7.222)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-92">
+      <rect id="矩形_6427" data-name="矩形 6427" width="8.139" height="24.871" transform="translate(16.051 7.515)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-93">
+      <rect id="矩形_6428" data-name="矩形 6428" width="7.828" height="24.593" transform="translate(16.206 7.808)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-94">
+      <rect id="矩形_6429" data-name="矩形 6429" width="7.515" height="24.315" transform="translate(16.363 8.101)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-95">
+      <rect id="矩形_6430" data-name="矩形 6430" width="7.204" height="24.037" transform="translate(16.518 8.394)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-96">
+      <rect id="矩形_6431" data-name="矩形 6431" width="6.892" height="23.76" transform="translate(16.674 8.687)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-97">
+      <rect id="矩形_6432" data-name="矩形 6432" width="6.581" height="23.481" transform="translate(16.83 8.98)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-98">
+      <rect id="矩形_6433" data-name="矩形 6433" width="6.269" height="23.204" transform="translate(16.986 9.272)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-99">
+      <rect id="矩形_6434" data-name="矩形 6434" width="5.958" height="22.927" transform="translate(17.142 9.564)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-100">
+      <rect id="矩形_6435" data-name="矩形 6435" width="5.646" height="22.649" transform="translate(17.297 9.857)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-101">
+      <rect id="矩形_6436" data-name="矩形 6436" width="5.334" height="22.371" transform="translate(17.453 10.15)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-102">
+      <rect id="矩形_6437" data-name="矩形 6437" width="5.023" height="22.094" transform="translate(17.609 10.443)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-103">
+      <rect id="矩形_6438" data-name="矩形 6438" width="4.711" height="21.815" transform="translate(17.765 10.736)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-104">
+      <rect id="矩形_6439" data-name="矩形 6439" width="4.4" height="21.538" transform="translate(17.92 11.029)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-105">
+      <rect id="矩形_6463" data-name="矩形 6463" width="8.134" height="18.183" transform="translate(24.876 12.176)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-106">
+      <rect id="矩形_6441" data-name="矩形 6441" width="8.134" height="18.055" transform="translate(24.876 12.176)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-107">
+      <rect id="矩形_6442" data-name="矩形 6442" width="7.982" height="17.865" transform="translate(24.9 12.371)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-108">
+      <rect id="矩形_6443" data-name="矩形 6443" width="7.828" height="17.676" transform="translate(24.923 12.566)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-109">
+      <rect id="矩形_6444" data-name="矩形 6444" width="7.676" height="17.489" transform="translate(24.947 12.761)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-110">
+      <rect id="矩形_6445" data-name="矩形 6445" width="7.522" height="17.299" transform="translate(24.971 12.956)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-111">
+      <rect id="矩形_6446" data-name="矩形 6446" width="7.37" height="17.11" transform="translate(24.995 13.151)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-112">
+      <rect id="矩形_6447" data-name="矩形 6447" width="7.216" height="16.921" transform="translate(25.018 13.346)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-113">
+      <rect id="矩形_6448" data-name="矩形 6448" width="7.064" height="16.733" transform="translate(25.042 13.541)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-114">
+      <rect id="矩形_6449" data-name="矩形 6449" width="6.91" height="16.544" transform="translate(25.066 13.736)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-115">
+      <rect id="矩形_6450" data-name="矩形 6450" width="6.757" height="16.355" transform="translate(25.09 13.93)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-116">
+      <rect id="矩形_6451" data-name="矩形 6451" width="6.605" height="16.165" transform="translate(25.113 14.126)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-117">
+      <rect id="矩形_6452" data-name="矩形 6452" width="6.452" height="15.977" transform="translate(25.137 14.32)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-118">
+      <rect id="矩形_6453" data-name="矩形 6453" width="6.299" height="15.788" transform="translate(25.161 14.516)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-119">
+      <rect id="矩形_6454" data-name="矩形 6454" width="6.146" height="15.599" transform="translate(25.184 14.711)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-120">
+      <rect id="矩形_6455" data-name="矩形 6455" width="5.993" height="15.41" transform="translate(25.208 14.905)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-121">
+      <rect id="矩形_6456" data-name="矩形 6456" width="5.84" height="15.222" transform="translate(25.232 15.1)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-122">
+      <rect id="矩形_6457" data-name="矩形 6457" width="5.687" height="15.033" transform="translate(25.256 15.295)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-123">
+      <rect id="矩形_6458" data-name="矩形 6458" width="5.534" height="14.844" transform="translate(25.28 15.491)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-124">
+      <rect id="矩形_6459" data-name="矩形 6459" width="5.382" height="14.654" transform="translate(25.303 15.685)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-125">
+      <rect id="矩形_6460" data-name="矩形 6460" width="5.228" height="14.467" transform="translate(25.327 15.88)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-126">
+      <rect id="矩形_6461" data-name="矩形 6461" width="5.076" height="14.278" transform="translate(25.351 16.075)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-127">
+      <rect id="矩形_6462" data-name="矩形 6462" width="4.923" height="14.088" transform="translate(25.375 16.27)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-128">
+      <rect id="矩形_6486" data-name="矩形 6486" width="8.132" height="18.182" transform="translate(6.193 12.708)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-129">
+      <rect id="矩形_6464" data-name="矩形 6464" width="8.132" height="18.054" transform="translate(6.193 12.708)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-130">
+      <rect id="矩形_6465" data-name="矩形 6465" width="7.979" height="17.865" transform="translate(6.323 12.903)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-131">
+      <rect id="矩形_6466" data-name="矩形 6466" width="7.825" height="17.676" transform="translate(6.452 13.098)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-132">
+      <rect id="矩形_6467" data-name="矩形 6467" width="7.673" height="17.488" transform="translate(6.581 13.292)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-133">
+      <rect id="矩形_6468" data-name="矩形 6468" width="7.519" height="17.299" transform="translate(6.711 13.487)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-134">
+      <rect id="矩形_6469" data-name="矩形 6469" width="7.367" height="17.109" transform="translate(6.84 13.683)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-135">
+      <rect id="矩形_6470" data-name="矩形 6470" width="7.214" height="16.92" transform="translate(6.969 13.877)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-136">
+      <rect id="矩形_6471" data-name="矩形 6471" width="7.061" height="16.732" transform="translate(7.098 14.073)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-137">
+      <rect id="矩形_6472" data-name="矩形 6472" width="6.909" height="16.543" transform="translate(7.227 14.267)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-138">
+      <rect id="矩形_6473" data-name="矩形 6473" width="6.756" height="16.354" transform="translate(7.356 14.462)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-139">
+      <rect id="矩形_6474" data-name="矩形 6474" width="6.603" height="16.165" transform="translate(7.485 14.657)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-140">
+      <rect id="矩形_6475" data-name="矩形 6475" width="6.452" height="15.977" transform="translate(7.613 14.852)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-141">
+      <rect id="矩形_6476" data-name="矩形 6476" width="6.299" height="15.787" transform="translate(7.742 15.048)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-142">
+      <rect id="矩形_6477" data-name="矩形 6477" width="6.146" height="15.598" transform="translate(7.872 15.243)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-143">
+      <rect id="矩形_6478" data-name="矩形 6478" width="5.993" height="15.41" transform="translate(8.001 15.437)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-144">
+      <rect id="矩形_6479" data-name="矩形 6479" width="5.84" height="15.221" transform="translate(8.13 15.632)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-145">
+      <rect id="矩形_6480" data-name="矩形 6480" width="5.687" height="15.032" transform="translate(8.259 15.827)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-146">
+      <rect id="矩形_6481" data-name="矩形 6481" width="5.535" height="14.843" transform="translate(8.388 16.022)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-147">
+      <rect id="矩形_6482" data-name="矩形 6482" width="5.382" height="14.654" transform="translate(8.517 16.217)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-148">
+      <rect id="矩形_6483" data-name="矩形 6483" width="5.229" height="14.466" transform="translate(8.646 16.412)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-149">
+      <rect id="矩形_6484" data-name="矩形 6484" width="5.076" height="14.277" transform="translate(8.776 16.607)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-150">
+      <rect id="矩形_6485" data-name="矩形 6485" width="4.923" height="14.088" transform="translate(8.905 16.802)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-151">
+      <path id="路径_23841" data-name="路径 23841" d="M.011,22.282l21,12.126V31.555L4.886,22.282Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-25" x1="-0.001" y1="1.982" x2="0.047" y2="1.982" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-153">
+      <path id="路径_23847" data-name="路径 23847" d="M21.011,31.555v2.853l13.484-7.835-4.512-.111Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-26" x1="-1.558" y1="2.499" x2="-1.484" y2="2.499" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-155">
+      <rect id="矩形_6491" data-name="矩形 6491" width="6.857" height="4.079" transform="translate(22.668 28.681)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-156">
+      <rect id="矩形_6492" data-name="矩形 6492" width="13.2" height="16.813" transform="translate(20.98 28.733)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-158">
+      <path id="路径_23854" data-name="路径 23854" d="M21.011,34.408,21,37.783l13.483-7.932.01-3.278Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-27" x1="-1.557" y1="1.761" x2="-1.482" y2="1.761" xlink:href="#linear-gradient-16"/>
+    <clipPath id="clip-path-160">
+      <rect id="矩形_6496" data-name="矩形 6496" width="13.493" height="11.21" transform="translate(21.002 26.573)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-162">
+      <path id="路径_23859" data-name="路径 23859" d="M34.18,29.692,21,37.783l13.483-7.932.01-3.278Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-28" x1="-1.557" y1="1.761" x2="-1.482" y2="1.761" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-164">
+      <path id="路径_23863" data-name="路径 23863" d="M0,25.671,21,37.783l.009-3.375-21-12.126Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-29" x1="0" y1="1.551" x2="0.048" y2="1.551" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-166">
+      <rect id="矩形_6503" data-name="矩形 6503" width="4.129" height="4.904" transform="translate(15.156 31.889)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-167">
+      <path id="路径_23864" data-name="路径 23864" d="M19.15,36.327c-.4-1.255-.885-2.476-1.274-3.731l-1.228-.708a5.569,5.569,0,0,1-1.492,2.524l4.13,2.381c-.044-.156-.087-.312-.136-.466" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-30" x1="-3.67" y1="2.942" x2="-3.428" y2="2.942" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-168">
+      <rect id="矩形_6505" data-name="矩形 6505" width="3.752" height="5.368" transform="translate(2.196 23.734)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-169">
+      <path id="路径_23865" data-name="路径 23865" d="M2.2,26.938,5.948,29.1A10.29,10.29,0,0,1,3.92,24.54l-1.394-.806c-.109,1.076-.243,2.143-.33,3.2" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-31" x1="-0.585" y1="4.207" x2="-0.319" y2="4.207" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-170">
+      <rect id="矩形_6507" data-name="矩形 6507" width="21.008" height="13.199" transform="translate(0 24.584)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-171">
+      <path id="路径_23866" data-name="路径 23866" d="M8.577,30.087C6.234,28.769,1.332,26.44,0,24.584l0,1.088L21,37.783l.006-1.789A106.1,106.1,0,0,1,8.577,30.087" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-32" x1="0" y1="1.647" x2="0.048" y2="1.647" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-172">
+      <path id="路径_23867" data-name="路径 23867" d="M0,25.671,21,37.783l-.046-.281L0,25.526Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-33" x1="0" y1="1.696" x2="0.048" y2="1.696" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-173">
+      <path id="路径_23868" data-name="路径 23868" d="M0,25.671l.254-3.048L20.471,34.5,21,37.783l.009-3.375-21-12.126Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-34" x1="0" y1="1.551" x2="0.048" y2="1.551" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-175">
+      <path id="路径_23873" data-name="路径 23873" d="M4.935,36.724l.038.616.962-.489-.559-.323Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-35" x1="-4.935" y1="12.058" x2="-3.935" y2="12.058" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b5601a"/>
+      <stop offset="0.655" stop-color="#e27e00"/>
+      <stop offset="1" stop-color="#e27e00"/>
+    </linearGradient>
+    <clipPath id="clip-path-176">
+      <path id="路径_23874" data-name="路径 23874" d="M3.546,36.528l1.427.812-.038-.616-1.43-.837Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-36" x1="-1.58" y1="5.253" x2="-1.089" y2="5.253" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-177">
+      <path id="路径_23875" data-name="路径 23875" d="M3.55,35.91l1.385.814-.411-4.477-1.572-.865Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-37" x1="-1.489" y1="2.796" x2="-0.984" y2="2.796" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9aa0b"/>
+      <stop offset="0.655" stop-color="#fa0"/>
+      <stop offset="1" stop-color="#fa0"/>
+    </linearGradient>
+    <clipPath id="clip-path-178">
+      <path id="路径_23876" data-name="路径 23876" d="M3.55,35.91l1.385.814L4.8,35.3a9.023,9.023,0,0,1-1.583-1.885Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-38" x1="-1.879" y1="3.9" x2="-1.296" y2="3.9" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-179">
+      <path id="路径_23877" data-name="路径 23877" d="M4.524,32.247l.411,4.477.441-.2-.32-4.474Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-39" x1="-5.31" y1="3.055" x2="-4.137" y2="3.055" xlink:href="#linear-gradient-35"/>
+    <clipPath id="clip-path-180">
+      <path id="路径_23878" data-name="路径 23878" d="M2.952,31.375l1.572.872.532-.193L3.475,31.2Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-40" x1="-1.403" y1="14.389" x2="-0.928" y2="14.389" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-182">
+      <path id="路径_23880" data-name="路径 23880" d="M3.5,32.151c-.26.087-.357.5-.218.925s.466.7.725.616.359-.5.219-.926c-.123-.373-.388-.63-.627-.63a.33.33,0,0,0-.1.015" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-183">
+      <rect id="矩形_6520" data-name="矩形 6520" width="1.223" height="1.642" transform="translate(3.142 32.136)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-185">
+      <path id="路径_23882" data-name="路径 23882" d="M.884,23.911c-.261.084-.358.5-.219.925s.466.7.726.616.359-.5.219-.927c-.124-.373-.388-.63-.627-.63a.3.3,0,0,0-.1.016" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-186">
+      <rect id="矩形_6523" data-name="矩形 6523" width="1.224" height="1.642" transform="translate(0.526 23.895)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-188">
+      <path id="路径_23884" data-name="路径 23884" d="M5.691,26.694c-.261.085-.358.5-.219.925s.466.7.726.615.359-.5.219-.926c-.124-.372-.389-.63-.628-.63a.3.3,0,0,0-.1.016" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-189">
+      <rect id="矩形_6526" data-name="矩形 6526" width="1.224" height="1.642" transform="translate(5.333 26.678)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-191">
+      <path id="路径_23886" data-name="路径 23886" d="M14.714,31.914c-.26.086-.359.5-.219.927s.465.7.727.614.358-.5.217-.925c-.122-.373-.388-.632-.627-.632a.3.3,0,0,0-.1.016" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-192">
+      <rect id="矩形_6529" data-name="矩形 6529" width="1.225" height="1.645" transform="translate(14.355 31.898)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-194">
+      <path id="路径_23888" data-name="路径 23888" d="M19.521,34.7c-.26.086-.357.5-.219.926s.466.7.727.616.358-.5.217-.926c-.123-.374-.388-.631-.627-.631a.328.328,0,0,0-.1.015" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-195">
+      <rect id="矩形_6532" data-name="矩形 6532" width="1.223" height="1.642" transform="translate(19.164 34.682)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-197">
+      <path id="路径_23890" data-name="路径 23890" d="M21.948,35.313c-.14.426-.042.84.218.926s.585-.191.725-.616.044-.84-.217-.926a.33.33,0,0,0-.1-.015c-.239,0-.5.257-.627.631" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-198">
+      <rect id="矩形_6535" data-name="矩形 6535" width="1.225" height="1.642" transform="translate(21.808 34.682)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-200">
+      <path id="路径_23892" data-name="路径 23892" d="M27.652,31.765c-.14.426-.042.841.218.927s.585-.191.727-.616.042-.84-.218-.926a.33.33,0,0,0-.1-.015c-.239,0-.5.258-.628.63" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-201">
+      <rect id="矩形_6538" data-name="矩形 6538" width="1.225" height="1.643" transform="translate(27.512 31.135)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-203">
+      <path id="路径_23894" data-name="路径 23894" d="M32.846,28.75c-.14.425-.043.84.218.925s.585-.189.725-.614.043-.841-.218-.926a.312.312,0,0,0-.1-.016c-.239,0-.5.258-.625.631" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-204">
+      <rect id="矩形_6541" data-name="矩形 6541" width="1.224" height="1.643" transform="translate(32.706 28.119)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-206">
+      <path id="路径_23896" data-name="路径 23896" d="M8.026,29.86s.167.867,2.031,1.855c1.984,1.051,2.378.541,2.378.541V30.445L8.063,27.921Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-41" x1="-1.82" y1="3.788" x2="-1.594" y2="3.788" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdd12"/>
+      <stop offset="0.655" stop-color="#ffb000"/>
+      <stop offset="1" stop-color="#ffb000"/>
+    </linearGradient>
+    <clipPath id="clip-path-208">
+      <rect id="矩形_6544" data-name="矩形 6544" width="1.146" height="2.558" transform="translate(11.29 29.784)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-209">
+      <rect id="矩形_6545" data-name="矩形 6545" width="2.106" height="3.831" transform="translate(8.026 27.922)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-210">
+      <rect id="矩形_6546" data-name="矩形 6546" width="1.91" height="3.699" transform="translate(8.293 28.054)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-211">
+      <path id="路径_23901" data-name="路径 23901" d="M8.063,27.921l4.372,2.524.445-.281L8.509,27.639Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-42" x1="-1.674" y1="6.657" x2="-1.466" y2="6.657" xlink:href="#linear-gradient-17"/>
+    <clipPath id="clip-path-212">
+      <path id="路径_23902" data-name="路径 23902" d="M8.474,29.043a1.22,1.22,0,0,0-1.032.872c-.116.53.513,1.031.852,1.244a3.654,3.654,0,0,0,2.772.606c.425-.1.977-.371.929-.734s-.792-.55-1.161-.373a1.856,1.856,0,0,1-1.408.09c-.371-.138-1.16-.582-.617-.943.177-.118.541-.175.452-.433a.661.661,0,0,0-.64-.339,1.089,1.089,0,0,0-.147.01" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-43" x1="-1.553" y1="5.885" x2="-1.341" y2="5.885" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-214">
+      <path id="路径_23908" data-name="路径 23908" d="M18.112,44.325l1.385.816-.2-4.388-1.381-.735Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-44" x1="-11.356" y1="1.23" x2="-10.722" y2="1.23" xlink:href="#linear-gradient-37"/>
+    <clipPath id="clip-path-215">
+      <path id="路径_23909" data-name="路径 23909" d="M18.112,44.325l1.385.816-.043-.979a21.42,21.42,0,0,1-1.43-1.81Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-45" x1="-12.236" y1="1.422" x2="-11.557" y2="1.422" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-216">
+      <path id="路径_23910" data-name="路径 23910" d="M19.3,40.753l.2,4.388.441-.2-.161-4.355Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-46" x1="-30.251" y1="1.259" x2="-28.683" y2="1.259" xlink:href="#linear-gradient-35"/>
+    <clipPath id="clip-path-217">
+      <path id="路径_23911" data-name="路径 23911" d="M17.919,40.018l1.364.752.494-.18-1.333-.75Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-47" x1="-9.644" y1="6.967" x2="-9.106" y2="6.967" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-219">
+      <path id="路径_23913" data-name="路径 23913" d="M18.328,40.734c-.261.085-.359.5-.218.925s.465.7.725.615.358-.5.219-.926c-.123-.372-.388-.63-.626-.63a.337.337,0,0,0-.1.016" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-220">
+      <rect id="矩形_6557" data-name="矩形 6557" width="1.224" height="1.642" transform="translate(17.969 40.718)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-221">
+      <path id="路径_23914" data-name="路径 23914" d="M19.49,45.136l.037.616.962-.49-.559-.322Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-48" x1="-19.509" y1="1.698" x2="-18.508" y2="1.698" xlink:href="#linear-gradient-35"/>
+    <clipPath id="clip-path-222">
+      <path id="路径_23915" data-name="路径 23915" d="M18.1,44.94l1.427.812-.037-.616L18.06,44.3Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-49" x1="-8.723" y1="1.134" x2="-8.232" y2="1.134" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-224">
+      <rect id="矩形_6574" data-name="矩形 6574" width="2.769" height="2.769" transform="translate(5.821 24.925)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-226">
+      <rect id="矩形_6561" data-name="矩形 6561" width="2.629" height="2.63" transform="translate(5.891 24.995)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-227">
+      <rect id="矩形_6562" data-name="矩形 6562" width="2.49" height="2.49" transform="translate(5.96 25.064)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-228">
+      <rect id="矩形_6563" data-name="矩形 6563" width="2.35" height="2.35" transform="translate(6.03 25.134)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-229">
+      <rect id="矩形_6564" data-name="矩形 6564" width="2.211" height="2.21" transform="translate(6.1 25.204)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-230">
+      <rect id="矩形_6565" data-name="矩形 6565" width="2.07" height="2.071" transform="translate(6.17 25.274)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-231">
+      <rect id="矩形_6566" data-name="矩形 6566" width="1.931" height="1.931" transform="translate(6.24 25.344)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-232">
+      <rect id="矩形_6567" data-name="矩形 6567" width="1.791" height="1.791" transform="translate(6.31 25.414)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-233">
+      <rect id="矩形_6568" data-name="矩形 6568" width="1.652" height="1.652" transform="translate(6.38 25.484)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-234">
+      <rect id="矩形_6569" data-name="矩形 6569" width="1.512" height="1.512" transform="translate(6.45 25.553)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-235">
+      <rect id="矩形_6570" data-name="矩形 6570" width="1.372" height="1.373" transform="translate(6.519 25.623)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-236">
+      <rect id="矩形_6571" data-name="矩形 6571" width="1.233" height="1.233" transform="translate(6.589 25.693)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-237">
+      <rect id="矩形_6572" data-name="矩形 6572" width="1.093" height="1.093" transform="translate(6.659 25.762)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-238">
+      <rect id="矩形_6573" data-name="矩形 6573" width="0.953" height="0.953" transform="translate(6.729 25.833)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-239">
+      <rect id="矩形_6589" data-name="矩形 6589" width="3.618" height="3.617" transform="translate(16.456 33.838)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-241">
+      <rect id="矩形_6576" data-name="矩形 6576" width="3.435" height="3.435" transform="translate(16.547 33.929)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-242">
+      <rect id="矩形_6577" data-name="矩形 6577" width="3.253" height="3.252" transform="translate(16.638 34.02)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-243">
+      <rect id="矩形_6578" data-name="矩形 6578" width="3.07" height="3.069" transform="translate(16.729 34.112)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-244">
+      <rect id="矩形_6579" data-name="矩形 6579" width="2.888" height="2.887" transform="translate(16.821 34.203)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-245">
+      <rect id="矩形_6580" data-name="矩形 6580" width="2.705" height="2.704" transform="translate(16.912 34.294)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-246">
+      <rect id="矩形_6581" data-name="矩形 6581" width="2.523" height="2.522" transform="translate(17.003 34.385)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-247">
+      <rect id="矩形_6582" data-name="矩形 6582" width="2.34" height="2.339" transform="translate(17.094 34.477)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-248">
+      <rect id="矩形_6583" data-name="矩形 6583" width="2.158" height="2.157" transform="translate(17.186 34.568)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-249">
+      <rect id="矩形_6584" data-name="矩形 6584" width="1.975" height="1.974" transform="translate(17.277 34.659)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-250">
+      <rect id="矩形_6585" data-name="矩形 6585" width="1.793" height="1.793" transform="translate(17.368 34.75)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-251">
+      <rect id="矩形_6586" data-name="矩形 6586" width="1.61" height="1.609" transform="translate(17.459 34.842)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-252">
+      <rect id="矩形_6587" data-name="矩形 6587" width="1.428" height="1.427" transform="translate(17.551 34.933)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-253">
+      <rect id="矩形_6588" data-name="矩形 6588" width="1.245" height="1.245" transform="translate(17.642 35.024)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-254">
+      <rect id="矩形_6604" data-name="矩形 6604" width="3.617" height="3.617" transform="translate(22.36 4.583)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-256">
+      <rect id="矩形_6591" data-name="矩形 6591" width="3.434" height="3.435" transform="translate(22.451 4.674)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-257">
+      <rect id="矩形_6592" data-name="矩形 6592" width="3.252" height="3.252" transform="translate(22.542 4.766)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-258">
+      <rect id="矩形_6593" data-name="矩形 6593" width="3.069" height="3.069" transform="translate(22.633 4.857)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-259">
+      <rect id="矩形_6594" data-name="矩形 6594" width="2.887" height="2.887" transform="translate(22.725 4.948)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-260">
+      <rect id="矩形_6595" data-name="矩形 6595" width="2.704" height="2.704" transform="translate(22.816 5.039)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-261">
+      <rect id="矩形_6596" data-name="矩形 6596" width="2.522" height="2.522" transform="translate(22.907 5.131)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-262">
+      <rect id="矩形_6597" data-name="矩形 6597" width="2.339" height="2.34" transform="translate(22.998 5.222)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-263">
+      <rect id="矩形_6598" data-name="矩形 6598" width="2.157" height="2.157" transform="translate(23.09 5.313)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-264">
+      <rect id="矩形_6599" data-name="矩形 6599" width="1.974" height="1.974" transform="translate(23.181 5.404)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-265">
+      <rect id="矩形_6600" data-name="矩形 6600" width="1.792" height="1.792" transform="translate(23.272 5.495)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-266">
+      <rect id="矩形_6601" data-name="矩形 6601" width="1.609" height="1.61" transform="translate(23.363 5.587)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-267">
+      <rect id="矩形_6602" data-name="矩形 6602" width="1.427" height="1.427" transform="translate(23.455 5.678)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-268">
+      <rect id="矩形_6603" data-name="矩形 6603" width="1.245" height="1.245" transform="translate(23.546 5.769)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-269">
+      <rect id="矩形_6619" data-name="矩形 6619" width="3.618" height="3.617" transform="translate(23.266 30.001)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-271">
+      <rect id="矩形_6606" data-name="矩形 6606" width="3.435" height="3.434" transform="translate(23.358 30.092)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-272">
+      <rect id="矩形_6607" data-name="矩形 6607" width="3.253" height="3.252" transform="translate(23.449 30.184)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-273">
+      <rect id="矩形_6608" data-name="矩形 6608" width="3.07" height="3.069" transform="translate(23.54 30.275)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-274">
+      <rect id="矩形_6609" data-name="矩形 6609" width="2.887" height="2.887" transform="translate(23.632 30.366)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-275">
+      <rect id="矩形_6610" data-name="矩形 6610" width="2.705" height="2.704" transform="translate(23.723 30.457)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-276">
+      <rect id="矩形_6611" data-name="矩形 6611" width="2.523" height="2.522" transform="translate(23.814 30.549)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-277">
+      <rect id="矩形_6612" data-name="矩形 6612" width="2.34" height="2.339" transform="translate(23.905 30.639)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-278">
+      <rect id="矩形_6613" data-name="矩形 6613" width="2.158" height="2.157" transform="translate(23.996 30.731)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-279">
+      <rect id="矩形_6614" data-name="矩形 6614" width="1.975" height="1.974" transform="translate(24.088 30.822)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-280">
+      <rect id="矩形_6615" data-name="矩形 6615" width="1.792" height="1.792" transform="translate(24.179 30.913)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-281">
+      <rect id="矩形_6616" data-name="矩形 6616" width="1.61" height="1.609" transform="translate(24.27 31.005)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-282">
+      <rect id="矩形_6617" data-name="矩形 6617" width="1.427" height="1.426" transform="translate(24.361 31.096)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-283">
+      <rect id="矩形_6618" data-name="矩形 6618" width="1.245" height="1.244" transform="translate(24.453 31.187)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bonus_01" opacity="0.2">
+    <g id="_14089" data-name=" 14089" clip-path="url(#clip-path)">
+      <g id="组_13337" data-name="组 13337">
+        <g id="组_13336" data-name="组 13336" clip-path="url(#clip-path-2)">
+          <rect id="矩形_6339" data-name="矩形 6339" width="2.947" height="3.697" transform="matrix(0.006, -1, 1, 0.006, 17.184, 18.382)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="组_13342" data-name="组 13342">
+        <g id="组_13341" data-name="组 13341" clip-path="url(#clip-path-3)">
+          <g id="组_13340" data-name="组 13340" opacity="0.41">
+            <g id="组_13339" data-name="组 13339">
+              <g id="组_13338" data-name="组 13338" clip-path="url(#clip-path-4)">
+                <path id="路径_23685" data-name="路径 23685" d="M20.37,17.617a.989.989,0,0,1-.866-.068c-.324-.156-.617-.367-.937-.533a2.626,2.626,0,0,1-.765-.527.871.871,0,0,1-.227-.523l-.374.7,2.929,1.713.751-1.152-.3-.175a.467.467,0,0,1-.212.562" fill="#934f21"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13344" data-name="组 13344">
+        <g id="组_13343" data-name="组 13343" clip-path="url(#clip-path-5)">
+          <rect id="矩形_6342" data-name="矩形 6342" width="1.452" height="2.609" transform="matrix(0.006, -1, 1, 0.006, 17.734, 17.359)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="组_13346" data-name="组 13346">
+        <g id="组_13345" data-name="组 13345" clip-path="url(#clip-path-6)">
+          <rect id="矩形_6343" data-name="矩形 6343" width="2.948" height="3.695" transform="translate(27.829 24.545) rotate(-89.673)" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+      <g id="组_13351" data-name="组 13351">
+        <g id="组_13350" data-name="组 13350" clip-path="url(#clip-path-3)">
+          <g id="组_13349" data-name="组 13349" opacity="0.41">
+            <g id="组_13348" data-name="组 13348">
+              <g id="组_13347" data-name="组 13347" clip-path="url(#clip-path-8)">
+                <path id="路径_23688" data-name="路径 23688" d="M31.014,23.78a1,1,0,0,1-.866-.068c-.324-.157-.617-.368-.937-.533a2.62,2.62,0,0,1-.766-.528.873.873,0,0,1-.226-.522l-.373.7,2.927,1.713.752-1.152-.3-.175a.467.467,0,0,1-.211.562" fill="#934f21"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13353" data-name="组 13353">
+        <g id="组_13352" data-name="组 13352" clip-path="url(#clip-path-9)">
+          <rect id="矩形_6346" data-name="矩形 6346" width="1.453" height="2.61" transform="translate(28.377 23.522) rotate(-89.673)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+      <g id="组_13355" data-name="组 13355">
+        <g id="组_13354" data-name="组 13354" clip-path="url(#clip-path-10)">
+          <rect id="矩形_6347" data-name="矩形 6347" width="3.683" height="2.914" transform="translate(17.247 15.468)" fill="url(#linear-gradient-5)"/>
+        </g>
+      </g>
+      <g id="组_13360" data-name="组 13360">
+        <g id="组_13359" data-name="组 13359" clip-path="url(#clip-path-3)">
+          <g id="组_13358" data-name="组 13358" opacity="0.41">
+            <g id="组_13357" data-name="组 13357">
+              <g id="组_13356" data-name="组 13356" clip-path="url(#clip-path-12)">
+                <path id="路径_23691" data-name="路径 23691" d="M20.421,17.615a.99.99,0,0,1-.867-.063c-.325-.154-.619-.362-.94-.526a2.665,2.665,0,0,1-.769-.525.876.876,0,0,1-.229-.521l-.369.706,2.937,1.7.746-1.156-.3-.173a.466.466,0,0,1-.208.562" fill="#934f21"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13362" data-name="组 13362">
+        <g id="组_13361" data-name="组 13361" clip-path="url(#clip-path-13)">
+          <rect id="矩形_6350" data-name="矩形 6350" width="2.61" height="1.424" transform="translate(17.784 15.934)" fill="url(#linear-gradient-6)"/>
+        </g>
+      </g>
+      <g id="组_13364" data-name="组 13364">
+        <g id="组_13363" data-name="组 13363" clip-path="url(#clip-path-14)">
+          <rect id="矩形_6351" data-name="矩形 6351" width="3.682" height="2.913" transform="translate(27.926 21.57)" fill="url(#linear-gradient-7)"/>
+        </g>
+      </g>
+      <g id="组_13369" data-name="组 13369">
+        <g id="组_13368" data-name="组 13368" clip-path="url(#clip-path-3)">
+          <g id="组_13367" data-name="组 13367" opacity="0.41">
+            <g id="组_13366" data-name="组 13366">
+              <g id="组_13365" data-name="组 13365" clip-path="url(#clip-path-16)">
+                <path id="路径_23694" data-name="路径 23694" d="M31.1,23.717a.982.982,0,0,1-.866-.062c-.325-.155-.619-.364-.94-.527a2.656,2.656,0,0,1-.77-.523.877.877,0,0,1-.227-.523l-.37.707,2.937,1.695.745-1.156-.3-.173a.467.467,0,0,1-.209.562" fill="#934f21"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13371" data-name="组 13371">
+        <g id="组_13370" data-name="组 13370" clip-path="url(#clip-path-17)">
+          <rect id="矩形_6354" data-name="矩形 6354" width="2.61" height="1.423" transform="translate(28.462 22.037)" fill="url(#linear-gradient-8)"/>
+        </g>
+      </g>
+      <g id="组_13373" data-name="组 13373">
+        <g id="组_13372" data-name="组 13372" clip-path="url(#clip-path-18)">
+          <rect id="矩形_6355" data-name="矩形 6355" width="6.106" height="5.247" transform="translate(28.439 2.422)" fill="url(#linear-gradient-9)"/>
+        </g>
+      </g>
+      <g id="组_13381" data-name="组 13381">
+        <g id="组_13380" data-name="组 13380" clip-path="url(#clip-path-3)">
+          <g id="组_13376" data-name="组 13376" opacity="0.5">
+            <g id="组_13375" data-name="组 13375">
+              <g id="组_13374" data-name="组 13374" clip-path="url(#clip-path-20)">
+                <path id="路径_23697" data-name="路径 23697" d="M32.756,7.308c.138.089.279.175.425.253.071.038.146.072.219.108a1.545,1.545,0,0,0,.272-.378c.872-1.943.645-3.041-.465-3.884a4.283,4.283,0,0,0-2.813-.965C29.237,2.6,28.8,3.75,28.441,4.7l0,.019a3.062,3.062,0,0,0,.28.2c.005-.024.01-.046.017-.071a3.065,3.065,0,0,1,.164-.707,1.769,1.769,0,0,1,1.262-1.392,1.589,1.589,0,0,1,.391-.083,2.191,2.191,0,0,1,.5.026,3.47,3.47,0,0,1,1.6.653,2.472,2.472,0,0,1,.986,1.127c.359,1.035.1,2.433-1.159,2.6l-.008.016c.027.021.055.04.08.063s.163.133.1.092c.035.023.07.05.106.074" fill="#f49c1c"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13379" data-name="组 13379" opacity="0.5">
+            <g id="组_13378" data-name="组 13378">
+              <g id="组_13377" data-name="组 13377" clip-path="url(#clip-path-21)">
+                <path id="路径_23698" data-name="路径 23698" d="M33.051,4.322A3.1,3.1,0,0,0,31.411,3.3c-1.491-.345-1.3.614-2.22.887A.373.373,0,0,1,28.72,4c-.1.232-.193.469-.279.695l0,.02a9.174,9.174,0,0,0,.989.633s.37-1.73,1.217-1.79c.732-.051,2.326.581,2.4,1.612a4.237,4.237,0,0,1-.571,1.91.95.95,0,0,1,.08.062c.018.018.163.133.1.092.035.024.07.05.106.074.138.089.279.175.425.253.071.038.146.073.219.109a1.565,1.565,0,0,0,.272-.378c.1-.217.18-.424.249-.62A.617.617,0,0,1,33.8,6.7c-.433.024-.677-.207-.661-.6.018-.458.381-1.054-.088-1.777" fill="#f49c1c"/>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23699" data-name="路径 23699" d="M33.966,7.629,28.148,4.25l-.3.589L33.666,8.2Z" fill="#602609"/>
+        </g>
+      </g>
+      <g id="组_13383" data-name="组 13383">
+        <g id="组_13382" data-name="组 13382" clip-path="url(#clip-path-22)">
+          <rect id="矩形_6359" data-name="矩形 6359" width="8.573" height="14.382" transform="translate(34.915 12.181)" fill="url(#linear-gradient-10)"/>
+        </g>
+      </g>
+      <g id="组_13385" data-name="组 13385">
+        <g id="组_13384" data-name="组 13384" clip-path="url(#clip-path-3)">
+          <path id="路径_23701" data-name="路径 23701" d="M40.621,12.182l-5.7,13.454a4.984,4.984,0,0,0,1.845.391L42.07,13.468c-.384-.545-1.15-.641-1.449-1.286" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13387" data-name="组 13387">
+        <g id="组_13386" data-name="组 13386" clip-path="url(#clip-path-24)">
+          <rect id="矩形_6361" data-name="矩形 6361" width="26.816" height="25.653" transform="translate(13.824 0)" fill="url(#linear-gradient-11)"/>
+        </g>
+      </g>
+      <g id="组_13389" data-name="组 13389">
+        <g id="组_13388" data-name="组 13388" clip-path="url(#clip-path-25)">
+          <rect id="矩形_6362" data-name="矩形 6362" width="24.669" height="23.693" transform="matrix(0.766, -0.643, 0.643, 0.766, 7.321, 17.904)" fill="url(#linear-gradient-12)"/>
+        </g>
+      </g>
+      <g id="组_13400" data-name="组 13400">
+        <g id="组_13399" data-name="组 13399" clip-path="url(#clip-path-3)">
+          <path id="路径_23704" data-name="路径 23704" d="M34.009,24.06c.315.51.641,1,.913,1.526L33.672,22l-.705-.4a17.149,17.149,0,0,0,1.042,2.458" fill="#fff"/>
+          <g id="组_13392" data-name="组 13392" opacity="0.48">
+            <g id="组_13391" data-name="组 13391">
+              <g id="组_13390" data-name="组 13390" clip-path="url(#clip-path-27)">
+                <path id="路径_23705" data-name="路径 23705" d="M33.339,21.814,16.884,12.449l-3.06,1.011,5.76,3.327a76.929,76.929,0,0,1,13.755,5.027" fill="#fffde1"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13395" data-name="组 13395" opacity="0.75">
+            <g id="组_13394" data-name="组 13394">
+              <g id="组_13393" data-name="组 13393" clip-path="url(#clip-path-28)">
+                <path id="路径_23706" data-name="路径 23706" d="M19.11,13.715l-2.226-1.267-3.06,1.012.461.267c.247.013,3.556.033,4.825-.012" fill="#fffde1"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13398" data-name="组 13398" opacity="0.75">
+            <g id="组_13397" data-name="组 13397">
+              <g id="组_13396" data-name="组 13396" clip-path="url(#clip-path-29)">
+                <path id="路径_23707" data-name="路径 23707" d="M17.364,12.722l-.48-.274-3.06,1.012Z" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13402" data-name="组 13402">
+        <g id="组_13401" data-name="组 13401" clip-path="url(#clip-path-30)">
+          <rect id="矩形_6367" data-name="矩形 6367" width="6.967" height="13.459" transform="translate(33.673 12.194)" fill="url(#linear-gradient-13)"/>
+        </g>
+      </g>
+      <g id="组_13407" data-name="组 13407">
+        <g id="组_13406" data-name="组 13406" clip-path="url(#clip-path-3)">
+          <g id="组_13405" data-name="组 13405" opacity="0.45">
+            <g id="组_13404" data-name="组 13404">
+              <g id="组_13403" data-name="组 13403" clip-path="url(#clip-path-32)">
+                <path id="路径_23709" data-name="路径 23709" d="M39.884,12.494l-2.432.966L33.672,22l.812,2.326c.675-4.411,2.172-8.636,5.4-11.835" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13409" data-name="组 13409">
+        <g id="组_13408" data-name="组 13408" clip-path="url(#clip-path-33)">
+          <rect id="矩形_6370" data-name="矩形 6370" width="6.847" height="13.46" transform="translate(13.824 0)" fill="url(#linear-gradient-14)"/>
+        </g>
+      </g>
+      <g id="组_13414" data-name="组 13414">
+        <g id="组_13413" data-name="组 13413" clip-path="url(#clip-path-3)">
+          <g id="组_13412" data-name="组 13412" opacity="0.64">
+            <g id="组_13411" data-name="组 13411">
+              <g id="组_13410" data-name="组 13410" clip-path="url(#clip-path-35)">
+                <path id="路径_23711" data-name="路径 23711" d="M16.714,6.628l-2.429,5.743A17.6,17.6,0,0,1,18.028,9.8L19.9,5.477a23.587,23.587,0,0,0-3.186,1.151" fill="#fff8d4"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13416" data-name="组 13416">
+        <g id="组_13415" data-name="组 13415" clip-path="url(#clip-path-36)">
+          <rect id="矩形_6373" data-name="矩形 6373" width="21.121" height="13.46" transform="translate(19.519 0)" fill="url(#linear-gradient-15)"/>
+        </g>
+      </g>
+      <g id="组_13433" data-name="组 13433">
+        <g id="组_13432" data-name="组 13432" clip-path="url(#clip-path-3)">
+          <path id="路径_23713" data-name="路径 23713" d="M19.519,0l1.152,3.692.417.244A31.694,31.694,0,0,0,19.519,0" fill="#fff"/>
+          <path id="路径_23714" data-name="路径 23714" d="M37.031,13.216l.421.244,3.188-1.265-.242-.141c-.688.194-2.925.97-3.367,1.162" fill="#fff"/>
+          <g id="组_13419" data-name="组 13419" opacity="0.64">
+            <g id="组_13418" data-name="组 13418">
+              <g id="组_13417" data-name="组 13417" clip-path="url(#clip-path-38)">
+                <path id="路径_23715" data-name="路径 23715" d="M31.788,7.084c-2.875-.736-5.832-1.806-8.767-2.022l7.662,4.459A16.523,16.523,0,0,1,35.459,9.2Z" fill="#fff8d4"/>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23716" data-name="路径 23716" d="M33.672,22l3.78-8.543L20.671,3.692l-3.787,8.756Z" fill="#db854b"/>
+          <path id="路径_23717" data-name="路径 23717" d="M35.671,17.485a19.63,19.63,0,0,0-3.6-1.263,13.673,13.673,0,0,0-6.416-.2c-.533.155-1.06.339-1.587.512L33.672,22Z" fill="#e89054"/>
+          <g id="组_13422" data-name="组 13422" opacity="0.25">
+            <g id="组_13421" data-name="组 13421">
+              <g id="组_13420" data-name="组 13420" clip-path="url(#clip-path-39)">
+                <path id="路径_23718" data-name="路径 23718" d="M20.671,14.6c1.2-3.214,3.739-4.334,7.538-3.608,2.594.5,6.176,2.824,8.52,4.1l.723-1.636L20.671,3.693l-3.788,8.756Z" fill="#6b340e"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13425" data-name="组 13425" opacity="0.25">
+            <g id="组_13424" data-name="组 13424">
+              <g id="组_13423" data-name="组 13423" clip-path="url(#clip-path-40)">
+                <path id="路径_23719" data-name="路径 23719" d="M19.676,6.036a14.937,14.937,0,0,1,4.762,1.6c2,.956,3.985,1.945,5.915,3.034,1.7.959,3.381,1.979,4.991,3.1q.795.444,1.562.927l.546-1.235L20.672,3.692,19.66,6.03l.016.006" fill="#592a0a"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13428" data-name="组 13428" opacity="0.41">
+            <g id="组_13427" data-name="组 13427">
+              <g id="组_13426" data-name="组 13426" clip-path="url(#clip-path-41)">
+                <path id="路径_23720" data-name="路径 23720" d="M22.142,10.644a5.114,5.114,0,0,0-1.036-5.569l-3.342,7.874a3.787,3.787,0,0,0,4.378-2.305" fill="#592a0a"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13431" data-name="组 13431" opacity="0.41">
+            <g id="组_13430" data-name="组 13430">
+              <g id="组_13429" data-name="组 13429" clip-path="url(#clip-path-42)">
+                <path id="路径_23721" data-name="路径 23721" d="M17.83,12.96A49.689,49.689,0,0,1,20.422,8.1c.612-.86,1.308-1.365,2.069-.156a4.977,4.977,0,0,0-1.385-2.866l-3.343,7.874c.022.006.045.008.067.012" fill="#592a0a"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13435" data-name="组 13435">
+        <g id="组_13434" data-name="组 13434" clip-path="url(#clip-path-43)">
+          <rect id="矩形_6380" data-name="矩形 6380" width="15.663" height="12.792" transform="matrix(0.469, -0.883, 0.883, 0.469, 29.146, 23.102)" fill="url(#linear-gradient-16)"/>
+        </g>
+      </g>
+      <g id="组_13437" data-name="组 13437">
+        <g id="组_13436" data-name="组 13436" clip-path="url(#clip-path-44)">
+          <rect id="矩形_6381" data-name="矩形 6381" width="6.133" height="3.957" transform="translate(27.912 4.121)" fill="url(#linear-gradient-17)"/>
+        </g>
+      </g>
+      <g id="组_13439" data-name="组 13439">
+        <g id="组_13438" data-name="组 13438" clip-path="url(#clip-path-45)">
+          <rect id="矩形_6382" data-name="矩形 6382" width="16.781" height="10.756" transform="translate(20.671 3.692)" fill="url(#linear-gradient-18)"/>
+        </g>
+      </g>
+      <g id="组_13441" data-name="组 13441">
+        <g id="组_13440" data-name="组 13440" clip-path="url(#clip-path-46)">
+          <rect id="矩形_6383" data-name="矩形 6383" width="4.204" height="9.256" transform="translate(16.884 3.692)" fill="url(#linear-gradient-19)"/>
+        </g>
+      </g>
+      <g id="组_13443" data-name="组 13443">
+        <g id="组_13442" data-name="组 13442" clip-path="url(#clip-path-3)">
+          <path id="路径_23726" data-name="路径 23726" d="M29.942,3.264a2,2,0,0,1,1.772-.04c.34.154,1.043.624,1.139.492.113-.138-1.086-.852-1.743-.939a1.619,1.619,0,0,0-1.794.68c-.252.517.173.157.626-.193" fill="#fff8d4"/>
+        </g>
+      </g>
+      <g id="组_13445" data-name="组 13445">
+        <g id="组_13444" data-name="组 13444" clip-path="url(#clip-path-48)">
+          <rect id="矩形_6385" data-name="矩形 6385" width="3.826" height="7.521" transform="translate(38.244 16.111)" fill="url(#linear-gradient-20)"/>
+        </g>
+      </g>
+      <g id="组_13447" data-name="组 13447">
+        <g id="组_13446" data-name="组 13446" clip-path="url(#clip-path-3)">
+          <path id="路径_23728" data-name="路径 23728" d="M40.365,21.883a7.686,7.686,0,0,0,.613-1.254c1.092-2.833.366-4.517.366-4.517l-.492,1.195c.356.232.274,1.222.26,1.506a11.042,11.042,0,0,1-.747,3.07" fill="#7a4315"/>
+        </g>
+      </g>
+      <g id="组_13449" data-name="组 13449">
+        <g id="组_13448" data-name="组 13448" clip-path="url(#clip-path-50)">
+          <rect id="矩形_6387" data-name="矩形 6387" width="7.524" height="3.903" transform="translate(38.114 23.734) rotate(-89.673)" fill="url(#linear-gradient-21)"/>
+        </g>
+      </g>
+      <g id="组_13451" data-name="组 13451">
+        <g id="组_13450" data-name="组 13450" clip-path="url(#clip-path-3)">
+          <path id="路径_23730" data-name="路径 23730" d="M40.289,22a7.759,7.759,0,0,0,.622-1.252c1.106-2.827.39-4.515.39-4.515l-.5,1.192c.356.234.268,1.224.25,1.509A10.97,10.97,0,0,1,40.289,22" fill="#7a4315"/>
+        </g>
+      </g>
+      <g id="组_13453" data-name="组 13453">
+        <g id="组_13452" data-name="组 13452" clip-path="url(#clip-path-52)">
+          <rect id="矩形_6389" data-name="矩形 6389" width="3.826" height="7.52" transform="translate(38.232 16.111)" fill="url(#linear-gradient-22)"/>
+        </g>
+      </g>
+      <g id="组_13455" data-name="组 13455">
+        <g id="组_13454" data-name="组 13454" clip-path="url(#clip-path-3)">
+          <path id="路径_23732" data-name="路径 23732" d="M40.353,21.883a7.647,7.647,0,0,0,.612-1.254c1.093-2.833.366-4.517.366-4.517l-.491,1.194c.357.232.274,1.223.26,1.507a11.05,11.05,0,0,1-.747,3.07" fill="#7a4315"/>
+        </g>
+      </g>
+      <g id="组_13457" data-name="组 13457">
+        <g id="组_13456" data-name="组 13456" clip-path="url(#clip-path-54)">
+          <rect id="矩形_6391" data-name="矩形 6391" width="21.002" height="12.125" transform="translate(13.493 14.448)" fill="url(#linear-gradient-23)"/>
+        </g>
+      </g>
+      <g id="组_13459" data-name="组 13459">
+        <g id="组_13458" data-name="组 13458" clip-path="url(#clip-path-3)">
+          <path id="路径_23734" data-name="路径 23734" d="M29.983,26.463l4.512.11-4.006-.561L13.6,17.236Z" fill="#ffb206"/>
+        </g>
+      </g>
+      <g id="组_13461" data-name="组 13461">
+        <g id="组_13460" data-name="组 13460" clip-path="url(#clip-path-56)">
+          <rect id="矩形_6393" data-name="矩形 6393" width="15.442" height="14.733" transform="matrix(0.766, -0.643, 0.643, 0.766, -3.846, 17.685)" fill="url(#linear-gradient-24)"/>
+        </g>
+      </g>
+      <g id="组_13742" data-name="组 13742">
+        <g id="组_13741" data-name="组 13741" clip-path="url(#clip-path-3)">
+          <path id="路径_23736" data-name="路径 23736" d="M.011,22.282H4.886l8.71-5.046L4.525,21.819l-3.3.085L3.06,20.511Z" fill="#eda507"/>
+          <path id="路径_23737" data-name="路径 23737" d="M4.886,22.282l16.126,9.272,8.971-5.091L13.6,17.236Z" fill="#b96a42"/>
+          <path id="路径_23738" data-name="路径 23738" d="M13.46,25.586l.135-8.35L4.886,22.282,12.053,26.4Z" fill="#a06335"/>
+          <path id="路径_23739" data-name="路径 23739" d="M13.464,25.586l8.955,5.171,7.564-4.294L13.6,17.236Z" fill="#db854b"/>
+          <g id="组_13464" data-name="组 13464" opacity="0.41">
+            <g id="组_13463" data-name="组 13463">
+              <g id="组_13462" data-name="组 13462" clip-path="url(#clip-path-58)">
+                <path id="路径_23740" data-name="路径 23740" d="M14.283,27.686l1.35-.839s-2-8.642-2.037-9.61l-8.71,5.046Z" fill="#592a0a"/>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23741" data-name="路径 23741" d="M13.549,19.591l8.358,5.168,5.521,3.155.363-.207L21.223,23.86l-7.66-4.624Z" fill="#93561b"/>
+          <path id="路径_23742" data-name="路径 23742" d="M13.514,22.561l11.451,6.751.516-.293L13.514,22.283Z" fill="#93561b"/>
+          <path id="路径_23743" data-name="路径 23743" d="M13.549,19.591l.014-.355-6.9,4.07.289.167Z" fill="#602609"/>
+          <path id="路径_23744" data-name="路径 23744" d="M13.514,22.561v-.278l-4.272,2.5.3.146Z" fill="#602609"/>
+          <g id="组_13533" data-name="组 13533" opacity="0.9">
+            <g id="组_13532" data-name="组 13532">
+              <g id="组_13531" data-name="组 13531" clip-path="url(#clip-path-59)">
+                <g id="组_13467" data-name="组 13467" opacity="0">
+                  <g id="组_13466" data-name="组 13466">
+                    <g id="组_13465" data-name="组 13465" clip-path="url(#clip-path-59)">
+                      <path id="路径_23745" data-name="路径 23745" d="M6.342,24.772C4.068,30.347,7.7,37.1,14.465,39.858s14.083.473,16.356-5.1S29.458,22.427,22.7,19.669,8.615,19.2,6.342,24.772" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13470" data-name="组 13470" opacity="0.048">
+                  <g id="组_13469" data-name="组 13469">
+                    <g id="组_13468" data-name="组 13468" clip-path="url(#clip-path-61)">
+                      <path id="路径_23746" data-name="路径 23746" d="M6.743,24.935c-2.2,5.393,1.318,11.926,7.857,14.592s13.621.458,15.82-4.934S29.1,22.667,22.564,20,8.942,19.542,6.743,24.935" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13473" data-name="组 13473" opacity="0.095">
+                  <g id="组_13472" data-name="组 13472">
+                    <g id="组_13471" data-name="组 13471" clip-path="url(#clip-path-62)">
+                      <path id="路径_23747" data-name="路径 23747" d="M7.143,25.1c-2.125,5.21,1.274,11.521,7.591,14.1s13.16.441,15.285-4.768-1.274-11.521-7.591-14.1S9.268,19.889,7.143,25.1" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13476" data-name="组 13476" opacity="0.143">
+                  <g id="组_13475" data-name="组 13475">
+                    <g id="组_13474" data-name="组 13474" clip-path="url(#clip-path-63)">
+                      <path id="路径_23748" data-name="路径 23748" d="M7.544,25.262c-2.051,5.027,1.229,11.118,7.325,13.6s12.7.426,14.749-4.6-1.229-11.118-7.325-13.6-12.7-.426-14.749,4.6" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13479" data-name="组 13479" opacity="0.19">
+                  <g id="组_13478" data-name="组 13478">
+                    <g id="组_13477" data-name="组 13477" clip-path="url(#clip-path-64)">
+                      <path id="路径_23749" data-name="路径 23749" d="M7.946,25.426C5.969,30.271,9.13,36.139,15,38.535s12.238.411,14.213-4.433-1.184-10.714-7.058-13.111-12.238-.41-14.213,4.435" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13482" data-name="组 13482" opacity="0.238">
+                  <g id="组_13481" data-name="组 13481">
+                    <g id="组_13480" data-name="组 13480" clip-path="url(#clip-path-65)">
+                      <path id="路径_23750" data-name="路径 23750" d="M8.347,25.589c-1.9,4.662,1.14,10.31,6.792,12.615s11.776.4,13.677-4.265-1.14-10.311-6.792-12.617-11.776-.4-13.677,4.267" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13485" data-name="组 13485" opacity="0.286">
+                  <g id="组_13484" data-name="组 13484">
+                    <g id="组_13483" data-name="组 13483" clip-path="url(#clip-path-66)">
+                      <path id="路径_23751" data-name="路径 23751" d="M8.748,25.753c-1.827,4.48,1.094,9.905,6.526,12.121s11.314.379,13.14-4.1-1.094-9.9-6.525-12.121-11.314-.379-13.141,4.1" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13488" data-name="组 13488" opacity="0.333">
+                  <g id="组_13487" data-name="组 13487">
+                    <g id="组_13486" data-name="组 13486" clip-path="url(#clip-path-67)">
+                      <path id="路径_23752" data-name="路径 23752" d="M9.148,25.916c-1.753,4.3,1.05,9.5,6.26,11.627s10.854.364,12.606-3.932-1.051-9.5-6.26-11.628S10.9,21.619,9.148,25.916" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13491" data-name="组 13491" opacity="0.381">
+                  <g id="组_13490" data-name="组 13490">
+                    <g id="组_13489" data-name="组 13489" clip-path="url(#clip-path-68)">
+                      <path id="路径_23753" data-name="路径 23753" d="M9.549,26.079c-1.678,4.114,1.006,9.1,5.994,11.133s10.392.348,12.07-3.765-1.006-9.1-5.994-11.133-10.392-.349-12.07,3.765" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13494" data-name="组 13494" opacity="0.429">
+                  <g id="组_13493" data-name="组 13493">
+                    <g id="组_13492" data-name="组 13492" clip-path="url(#clip-path-69)">
+                      <path id="路径_23754" data-name="路径 23754" d="M9.95,26.243c-1.6,3.932.961,8.694,5.728,10.639s9.931.333,11.534-3.6-.961-8.694-5.728-10.639-9.93-.334-11.534,3.6" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13497" data-name="组 13497" opacity="0.476">
+                  <g id="组_13496" data-name="组 13496">
+                    <g id="组_13495" data-name="组 13495" clip-path="url(#clip-path-70)">
+                      <path id="路径_23755" data-name="路径 23755" d="M10.351,26.406c-1.529,3.749.917,8.291,5.462,10.145s9.47.317,11-3.431S25.9,24.83,21.35,22.975s-9.47-.318-11,3.431" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13500" data-name="组 13500" opacity="0.524">
+                  <g id="组_13499" data-name="组 13499">
+                    <g id="组_13498" data-name="组 13498" clip-path="url(#clip-path-71)">
+                      <path id="路径_23756" data-name="路径 23756" d="M10.752,26.57c-1.455,3.566.872,7.886,5.195,9.65s9.009.3,10.463-3.263-.872-7.887-5.2-9.651S12.206,23,10.752,26.57" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13503" data-name="组 13503" opacity="0.571">
+                  <g id="组_13502" data-name="组 13502">
+                    <g id="组_13501" data-name="组 13501" clip-path="url(#clip-path-72)">
+                      <path id="路径_23757" data-name="路径 23757" d="M11.153,26.733c-1.38,3.384.827,7.482,4.929,9.156s8.548.286,9.927-3.1-.827-7.483-4.929-9.157-8.548-.287-9.927,3.1" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13506" data-name="组 13506" opacity="0.619">
+                  <g id="组_13505" data-name="组 13505">
+                    <g id="组_13504" data-name="组 13504" clip-path="url(#clip-path-73)">
+                      <path id="路径_23758" data-name="路径 23758" d="M11.554,26.9c-1.306,3.2.782,7.078,4.663,8.662s8.086.271,9.391-2.93-.782-7.079-4.663-8.662-8.086-.271-9.391,2.93" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13509" data-name="组 13509" opacity="0.667">
+                  <g id="组_13508" data-name="组 13508">
+                    <g id="组_13507" data-name="组 13507" clip-path="url(#clip-path-74)">
+                      <path id="路径_23759" data-name="路径 23759" d="M11.955,27.061c-1.231,3.019.738,6.675,4.4,8.168s7.625.255,8.856-2.763-.738-6.675-4.4-8.167-7.624-.256-8.855,2.762" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13512" data-name="组 13512" opacity="0.714">
+                  <g id="组_13511" data-name="组 13511">
+                    <g id="组_13510" data-name="组 13510" clip-path="url(#clip-path-75)">
+                      <path id="路径_23760" data-name="路径 23760" d="M12.356,27.224c-1.157,2.836.693,6.271,4.131,7.674s7.164.24,8.32-2.595-.694-6.271-4.132-7.674-7.163-.241-8.319,2.6" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13515" data-name="组 13515" opacity="0.762">
+                  <g id="组_13514" data-name="组 13514">
+                    <g id="组_13513" data-name="组 13513" clip-path="url(#clip-path-76)">
+                      <path id="路径_23761" data-name="路径 23761" d="M12.757,27.388c-1.082,2.653.648,5.867,3.865,7.18s6.7.223,7.784-2.429-.649-5.866-3.865-7.179-6.7-.225-7.784,2.428" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13518" data-name="组 13518" opacity="0.81">
+                  <g id="组_13517" data-name="组 13517">
+                    <g id="组_13516" data-name="组 13516" clip-path="url(#clip-path-77)">
+                      <path id="路径_23762" data-name="路径 23762" d="M13.158,27.551c-1.007,2.471.6,5.464,3.6,6.685S23,34.446,24,31.976s-.6-5.463-3.6-6.685-6.24-.211-7.248,2.26" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13521" data-name="组 13521" opacity="0.857">
+                  <g id="组_13520" data-name="组 13520">
+                    <g id="组_13519" data-name="组 13519" clip-path="url(#clip-path-78)">
+                      <path id="路径_23763" data-name="路径 23763" d="M13.559,27.715c-.933,2.288.559,5.059,3.333,6.191s5.779.193,6.711-2.094-.559-5.059-3.332-6.191-5.779-.194-6.712,2.094" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13524" data-name="组 13524" opacity="0.905">
+                  <g id="组_13523" data-name="组 13523">
+                    <g id="组_13522" data-name="组 13522" clip-path="url(#clip-path-79)">
+                      <path id="路径_23764" data-name="路径 23764" d="M13.96,27.878c-.859,2.1.515,4.655,3.066,5.7s5.319.178,6.177-1.926-.515-4.656-3.067-5.7-5.318-.179-6.176,1.926" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13527" data-name="组 13527" opacity="0.952">
+                  <g id="组_13526" data-name="组 13526">
+                    <g id="组_13525" data-name="组 13525" clip-path="url(#clip-path-80)">
+                      <path id="路径_23765" data-name="路径 23765" d="M14.361,28.042c-.784,1.923.47,4.251,2.8,5.2s4.858.161,5.641-1.761-.47-4.251-2.8-5.2-4.856-.163-5.64,1.76" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13530" data-name="组 13530">
+                  <g id="组_13529" data-name="组 13529">
+                    <g id="组_13528" data-name="组 13528" clip-path="url(#clip-path-81)">
+                      <path id="路径_23766" data-name="路径 23766" d="M14.762,28.2c-.71,1.74.425,3.848,2.534,4.709s4.4.146,5.1-1.593-.425-3.848-2.535-4.708-4.394-.148-5.1,1.592" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="组_13602" data-name="组 13602" opacity="0.54">
+            <g id="组_13601" data-name="组 13601">
+              <g id="组_13600" data-name="组 13600" clip-path="url(#clip-path-82)">
+                <g id="组_13536" data-name="组 13536" opacity="0">
+                  <g id="组_13535" data-name="组 13535">
+                    <g id="组_13534" data-name="组 13534" clip-path="url(#clip-path-83)">
+                      <path id="路径_23767" data-name="路径 23767" d="M20.12,4.879a5.1,5.1,0,0,0-5.471,4.856,1.446,1.446,0,0,0,.082.456L18.706,32.23l2.241.019L25.476,10.3a1.455,1.455,0,0,0,.116-.56A5.4,5.4,0,0,0,20.12,4.879" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13539" data-name="组 13539" opacity="0.048">
+                  <g id="组_13538" data-name="组 13538">
+                    <g id="组_13537" data-name="组 13537" clip-path="url(#clip-path-84)">
+                      <path id="路径_23768" data-name="路径 23768" d="M14.805,9.908a1.487,1.487,0,0,0,.079.453l3.862,21.884,2.178.019,4.4-21.8a1.514,1.514,0,0,0,.111-.556A5.244,5.244,0,0,0,20.12,5.172a4.96,4.96,0,0,0-5.315,4.736" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13542" data-name="组 13542" opacity="0.095">
+                  <g id="组_13541" data-name="组 13541">
+                    <g id="组_13540" data-name="组 13540" clip-path="url(#clip-path-85)">
+                      <path id="路径_23769" data-name="路径 23769" d="M14.96,10.081a1.461,1.461,0,0,0,.078.449l3.748,21.73,2.114.019,4.271-21.646a1.512,1.512,0,0,0,.109-.552,5.094,5.094,0,0,0-5.16-4.616,4.826,4.826,0,0,0-5.16,4.616" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13545" data-name="组 13545" opacity="0.143">
+                  <g id="组_13544" data-name="组 13544">
+                    <g id="组_13543" data-name="组 13543" clip-path="url(#clip-path-86)">
+                      <path id="路径_23770" data-name="路径 23770" d="M15.116,10.254a1.506,1.506,0,0,0,.075.446l3.635,21.575,2.05.02L25.019,10.8a1.532,1.532,0,0,0,.105-.548,4.943,4.943,0,0,0-5-4.5,4.691,4.691,0,0,0-5,4.5" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13548" data-name="组 13548" opacity="0.19">
+                  <g id="组_13547" data-name="组 13547">
+                    <g id="组_13546" data-name="组 13546" clip-path="url(#clip-path-87)">
+                      <path id="路径_23771" data-name="路径 23771" d="M15.272,10.426a1.518,1.518,0,0,0,.073.444l3.522,21.421,1.986.019,4.013-21.34a1.536,1.536,0,0,0,.1-.544A4.794,4.794,0,0,0,20.12,6.051a4.556,4.556,0,0,0-4.848,4.375" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13551" data-name="组 13551" opacity="0.238">
+                  <g id="组_13550" data-name="组 13550">
+                    <g id="组_13549" data-name="组 13549" clip-path="url(#clip-path-88)">
+                      <path id="路径_23772" data-name="路径 23772" d="M15.428,10.6a1.523,1.523,0,0,0,.071.44l3.408,21.267,1.923.02,3.884-21.187a1.559,1.559,0,0,0,.1-.54A4.644,4.644,0,0,0,20.12,6.344,4.421,4.421,0,0,0,15.428,10.6" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13554" data-name="组 13554" opacity="0.286">
+                  <g id="组_13553" data-name="组 13553">
+                    <g id="组_13552" data-name="组 13552" clip-path="url(#clip-path-89)">
+                      <path id="路径_23773" data-name="路径 23773" d="M15.583,10.772a1.57,1.57,0,0,0,.068.437l3.3,21.113,1.859.018,3.755-21.032a1.581,1.581,0,0,0,.1-.536A4.5,4.5,0,0,0,20.12,6.636a4.287,4.287,0,0,0-4.537,4.136" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13557" data-name="组 13557" opacity="0.333">
+                  <g id="组_13556" data-name="组 13556">
+                    <g id="组_13555" data-name="组 13555" clip-path="url(#clip-path-90)">
+                      <path id="路径_23774" data-name="路径 23774" d="M15.739,10.944a1.6,1.6,0,0,0,.066.435l3.183,20.958,1.8.018,3.626-20.879a1.635,1.635,0,0,0,.092-.532A4.344,4.344,0,0,0,20.12,6.928a4.152,4.152,0,0,0-4.381,4.016" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13560" data-name="组 13560" opacity="0.381">
+                  <g id="组_13559" data-name="组 13559">
+                    <g id="组_13558" data-name="组 13558" clip-path="url(#clip-path-91)">
+                      <path id="路径_23775" data-name="路径 23775" d="M15.9,11.117a1.611,1.611,0,0,0,.064.431l3.069,20.8,1.731.019,3.5-20.725a1.636,1.636,0,0,0,.09-.528A4.2,4.2,0,0,0,20.12,7.222,4.017,4.017,0,0,0,15.9,11.117" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13563" data-name="组 13563" opacity="0.429">
+                  <g id="组_13562" data-name="组 13562">
+                    <g id="组_13561" data-name="组 13561" clip-path="url(#clip-path-92)">
+                      <path id="路径_23776" data-name="路径 23776" d="M16.051,11.29a1.628,1.628,0,0,0,.062.428l2.956,20.649,1.667.019L24.1,11.814a1.7,1.7,0,0,0,.086-.524,4.045,4.045,0,0,0-4.07-3.775,3.882,3.882,0,0,0-4.069,3.775" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13566" data-name="组 13566" opacity="0.476">
+                  <g id="组_13565" data-name="组 13565">
+                    <g id="组_13564" data-name="组 13564" clip-path="url(#clip-path-93)">
+                      <path id="路径_23777" data-name="路径 23777" d="M16.206,11.463a1.689,1.689,0,0,0,.059.425l2.843,20.495,1.6.017,3.24-20.417a1.725,1.725,0,0,0,.083-.52A3.9,3.9,0,0,0,20.12,7.808a3.747,3.747,0,0,0-3.914,3.655" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13569" data-name="组 13569" opacity="0.524">
+                  <g id="组_13568" data-name="组 13568">
+                    <g id="组_13567" data-name="组 13567" clip-path="url(#clip-path-94)">
+                      <path id="路径_23778" data-name="路径 23778" d="M16.363,11.635a1.7,1.7,0,0,0,.057.422L19.149,32.4l1.54.018L23.8,12.152a1.761,1.761,0,0,0,.079-.517A3.746,3.746,0,0,0,20.12,8.1a3.613,3.613,0,0,0-3.757,3.534" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13572" data-name="组 13572" opacity="0.571">
+                  <g id="组_13571" data-name="组 13571">
+                    <g id="组_13570" data-name="组 13570" clip-path="url(#clip-path-95)">
+                      <path id="路径_23779" data-name="路径 23779" d="M16.518,11.808a1.776,1.776,0,0,0,.054.419l2.616,20.186,1.476.018,2.982-20.11a1.8,1.8,0,0,0,.076-.513,3.6,3.6,0,0,0-3.6-3.414,3.478,3.478,0,0,0-3.6,3.414" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13575" data-name="组 13575" opacity="0.619">
+                  <g id="组_13574" data-name="组 13574">
+                    <g id="组_13573" data-name="组 13573" clip-path="url(#clip-path-96)">
+                      <path id="路径_23780" data-name="路径 23780" d="M16.674,11.98a1.8,1.8,0,0,0,.052.416l2.5,20.032,1.412.018,2.852-19.957a1.847,1.847,0,0,0,.073-.509A3.448,3.448,0,0,0,20.12,8.686a3.343,3.343,0,0,0-3.446,3.294" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13578" data-name="组 13578" opacity="0.667">
+                  <g id="组_13577" data-name="组 13577">
+                    <g id="组_13576" data-name="组 13576" clip-path="url(#clip-path-97)">
+                      <path id="路径_23781" data-name="路径 23781" d="M16.83,12.153a1.881,1.881,0,0,0,.05.412l2.389,19.878,1.349.018,2.723-19.8a1.894,1.894,0,0,0,.07-.505A3.3,3.3,0,0,0,20.12,8.979a3.208,3.208,0,0,0-3.29,3.174" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13581" data-name="组 13581" opacity="0.714">
+                  <g id="组_13580" data-name="组 13580">
+                    <g id="组_13579" data-name="组 13579" clip-path="url(#clip-path-98)">
+                      <path id="路径_23782" data-name="路径 23782" d="M16.986,12.326a1.987,1.987,0,0,0,.047.409L19.31,32.459l1.284.017,2.595-19.649a1.951,1.951,0,0,0,.066-.5A3.152,3.152,0,0,0,20.12,9.272a3.074,3.074,0,0,0-3.134,3.054" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13584" data-name="组 13584" opacity="0.762">
+                  <g id="组_13583" data-name="组 13583">
+                    <g id="组_13582" data-name="组 13582" clip-path="url(#clip-path-99)">
+                      <path id="路径_23783" data-name="路径 23783" d="M17.142,12.5a2.028,2.028,0,0,0,.045.406l2.163,19.57,1.221.016L23.037,13a2.057,2.057,0,0,0,.063-.5,3.005,3.005,0,0,0-2.979-2.935A2.94,2.94,0,0,0,17.142,12.5" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13587" data-name="组 13587" opacity="0.81">
+                  <g id="组_13586" data-name="组 13586">
+                    <g id="组_13585" data-name="组 13585" clip-path="url(#clip-path-100)">
+                      <path id="路径_23784" data-name="路径 23784" d="M17.3,12.672a2.062,2.062,0,0,0,.043.4l2.05,19.415,1.157.018,2.337-19.342a2.132,2.132,0,0,0,.059-.493A2.856,2.856,0,0,0,20.12,9.858,2.806,2.806,0,0,0,17.3,12.672" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13590" data-name="组 13590" opacity="0.857">
+                  <g id="组_13589" data-name="组 13589">
+                    <g id="组_13588" data-name="组 13588" clip-path="url(#clip-path-101)">
+                      <path id="路径_23785" data-name="路径 23785" d="M17.453,12.844a2.1,2.1,0,0,0,.041.4l1.937,19.261,1.093.017,2.207-19.189a2.188,2.188,0,0,0,.057-.489,2.71,2.71,0,0,0-2.668-2.693,2.672,2.672,0,0,0-2.667,2.693" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13593" data-name="组 13593" opacity="0.905">
+                  <g id="组_13592" data-name="组 13592">
+                    <g id="组_13591" data-name="组 13591" clip-path="url(#clip-path-102)">
+                      <path id="路径_23786" data-name="路径 23786" d="M17.609,13.017a2.254,2.254,0,0,0,.038.4l1.824,19.107,1.029.017L22.579,13.5a2.281,2.281,0,0,0,.053-.485,2.512,2.512,0,1,0-5.023,0" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13596" data-name="组 13596" opacity="0.952">
+                  <g id="组_13595" data-name="组 13595">
+                    <g id="组_13594" data-name="组 13594" clip-path="url(#clip-path-103)">
+                      <path id="路径_23787" data-name="路径 23787" d="M17.765,13.189a2.328,2.328,0,0,0,.036.394l1.711,18.952.965.016L22.426,13.67a2.309,2.309,0,0,0,.05-.481,2.357,2.357,0,1,0-4.711,0" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13599" data-name="组 13599">
+                  <g id="组_13598" data-name="组 13598">
+                    <g id="组_13597" data-name="组 13597" clip-path="url(#clip-path-104)">
+                      <path id="路径_23788" data-name="路径 23788" d="M17.92,13.362a2.4,2.4,0,0,0,.034.391l1.6,18.8.9.016,1.82-18.728a2.5,2.5,0,0,0,.047-.477,2.2,2.2,0,1,0-4.4,0" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="组_13671" data-name="组 13671" opacity="0.54">
+            <g id="组_13670" data-name="组 13670">
+              <g id="组_13669" data-name="组 13669" clip-path="url(#clip-path-105)">
+                <g id="组_13605" data-name="组 13605" opacity="0">
+                  <g id="组_13604" data-name="组 13604">
+                    <g id="组_13603" data-name="组 13603" clip-path="url(#clip-path-106)">
+                      <path id="路径_23789" data-name="路径 23789" d="M26.329,30.23l6.463-13.537a1,1,0,0,0,.164-.346,3.611,3.611,0,0,0-2.776-4.032,3.411,3.411,0,0,0-4.333,2.278.927.927,0,0,0-.02.311l-.951,14.954Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13608" data-name="组 13608" opacity="0.048">
+                  <g id="组_13607" data-name="组 13607">
+                    <g id="组_13606" data-name="组 13606" clip-path="url(#clip-path-107)">
+                      <path id="路径_23790" data-name="路径 23790" d="M26.311,30.236l6.355-13.458a1.013,1.013,0,0,0,.161-.344,3.506,3.506,0,0,0-2.695-3.928A3.32,3.32,0,0,0,25.92,14.73a.943.943,0,0,0-.021.309l-1,14.836Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13611" data-name="组 13611" opacity="0.095">
+                  <g id="组_13610" data-name="组 13610">
+                    <g id="组_13609" data-name="组 13609" clip-path="url(#clip-path-108)">
+                      <path id="路径_23791" data-name="路径 23791" d="M26.293,30.242,32.54,16.863a1.011,1.011,0,0,0,.158-.341A3.408,3.408,0,0,0,30.085,12.7a3.23,3.23,0,0,0-4.092,2.172.953.953,0,0,0-.021.306L24.923,29.891Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13614" data-name="组 13614" opacity="0.143">
+                  <g id="组_13613" data-name="组 13613">
+                    <g id="组_13612" data-name="组 13612" clip-path="url(#clip-path-109)">
+                      <path id="路径_23792" data-name="路径 23792" d="M26.275,30.249l6.138-13.3a1.039,1.039,0,0,0,.156-.34,3.307,3.307,0,0,0-2.531-3.723,3.141,3.141,0,0,0-3.972,2.119,1,1,0,0,0-.022.3l-1.1,14.6Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13617" data-name="组 13617" opacity="0.19">
+                  <g id="组_13616" data-name="组 13616">
+                    <g id="组_13615" data-name="组 13615" clip-path="url(#clip-path-110)">
+                      <path id="路径_23793" data-name="路径 23793" d="M26.258,30.255l6.029-13.221a1.057,1.057,0,0,0,.154-.338,3.209,3.209,0,0,0-2.45-3.62,3.051,3.051,0,0,0-3.851,2.067,1.007,1.007,0,0,0-.023.3L24.971,29.924Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13620" data-name="组 13620" opacity="0.238">
+                  <g id="组_13619" data-name="组 13619">
+                    <g id="组_13618" data-name="组 13618" clip-path="url(#clip-path-111)">
+                      <path id="路径_23794" data-name="路径 23794" d="M26.24,30.261l5.921-13.142a1.032,1.032,0,0,0,.15-.335,3.106,3.106,0,0,0-2.367-3.517,2.958,2.958,0,0,0-3.73,2.013.966.966,0,0,0-.025.3L24.994,29.941Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13623" data-name="组 13623" opacity="0.286">
+                  <g id="组_13622" data-name="组 13622">
+                    <g id="组_13621" data-name="组 13621" clip-path="url(#clip-path-112)">
+                      <path id="路径_23795" data-name="路径 23795" d="M26.222,30.267,32.034,17.2a1.033,1.033,0,0,0,.148-.332A3.008,3.008,0,0,0,29.9,13.457a2.87,2.87,0,0,0-3.61,1.96,1.02,1.02,0,0,0-.025.3L25.018,29.957Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13626" data-name="组 13626" opacity="0.333">
+                  <g id="组_13625" data-name="组 13625">
+                    <g id="组_13624" data-name="组 13624" clip-path="url(#clip-path-113)">
+                      <path id="路径_23796" data-name="路径 23796" d="M26.2,30.273l5.7-12.983a1.129,1.129,0,0,0,.145-.332,2.908,2.908,0,0,0-2.2-3.311,2.779,2.779,0,0,0-3.49,1.906,1.043,1.043,0,0,0-.026.294L25.042,29.973Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13629" data-name="组 13629" opacity="0.381">
+                  <g id="组_13628" data-name="组 13628">
+                    <g id="组_13627" data-name="组 13627" clip-path="url(#clip-path-114)">
+                      <path id="路径_23797" data-name="路径 23797" d="M26.187,30.279l5.6-12.9a1.143,1.143,0,0,0,.142-.329A2.81,2.81,0,0,0,29.8,13.837a2.691,2.691,0,0,0-3.37,1.854,1.1,1.1,0,0,0-.027.291L25.066,29.989Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13632" data-name="组 13632" opacity="0.429">
+                  <g id="组_13631" data-name="组 13631">
+                    <g id="组_13630" data-name="组 13630" clip-path="url(#clip-path-115)">
+                      <path id="路径_23798" data-name="路径 23798" d="M26.169,30.285,31.656,17.46a1.142,1.142,0,0,0,.14-.327,2.709,2.709,0,0,0-2.039-3.106,2.6,2.6,0,0,0-3.249,1.8,1.047,1.047,0,0,0-.028.289L25.09,30.006Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13635" data-name="组 13635" opacity="0.476">
+                  <g id="组_13634" data-name="组 13634">
+                    <g id="组_13633" data-name="组 13633" clip-path="url(#clip-path-116)">
+                      <path id="路径_23799" data-name="路径 23799" d="M26.151,30.291,31.53,17.545a1.181,1.181,0,0,0,.137-.325,2.609,2.609,0,0,0-1.957-3,2.51,2.51,0,0,0-3.129,1.748,1.154,1.154,0,0,0-.03.286l-1.438,13.77Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13638" data-name="组 13638" opacity="0.524">
+                  <g id="组_13637" data-name="组 13637">
+                    <g id="组_13636" data-name="组 13636" clip-path="url(#clip-path-117)">
+                      <path id="路径_23800" data-name="路径 23800" d="M26.134,30.3,31.4,17.631a1.253,1.253,0,0,0,.134-.323,2.51,2.51,0,0,0-1.875-2.9,2.417,2.417,0,0,0-3.008,1.7,1.126,1.126,0,0,0-.03.283L25.137,30.039Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13641" data-name="组 13641" opacity="0.571">
+                  <g id="组_13640" data-name="组 13640">
+                    <g id="组_13639" data-name="组 13639" clip-path="url(#clip-path-118)">
+                      <path id="路径_23801" data-name="路径 23801" d="M26.116,30.3l5.162-12.588a1.232,1.232,0,0,0,.131-.321,2.409,2.409,0,0,0-1.793-2.8,2.328,2.328,0,0,0-2.888,1.641,1.216,1.216,0,0,0-.031.281L25.16,30.056Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13644" data-name="组 13644" opacity="0.619">
+                  <g id="组_13643" data-name="组 13643">
+                    <g id="组_13642" data-name="组 13642" clip-path="url(#clip-path-119)">
+                      <path id="路径_23802" data-name="路径 23802" d="M26.1,30.31,31.151,17.8a1.22,1.22,0,0,0,.129-.319,2.309,2.309,0,0,0-1.711-2.693A2.236,2.236,0,0,0,26.8,16.377a1.208,1.208,0,0,0-.033.279L25.184,30.073Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13647" data-name="组 13647" opacity="0.667">
+                  <g id="组_13646" data-name="组 13646">
+                    <g id="组_13645" data-name="组 13645" clip-path="url(#clip-path-120)">
+                      <path id="路径_23803" data-name="路径 23803" d="M26.08,30.315l4.945-12.43a1.32,1.32,0,0,0,.126-.316,2.211,2.211,0,0,0-1.63-2.591,2.147,2.147,0,0,0-2.646,1.536,1.241,1.241,0,0,0-.034.276l-1.633,13.3Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13650" data-name="组 13650" opacity="0.714">
+                  <g id="组_13649" data-name="组 13649">
+                    <g id="组_13648" data-name="组 13648" clip-path="url(#clip-path-121)">
+                      <path id="路径_23804" data-name="路径 23804" d="M26.063,30.322,30.9,17.972a1.32,1.32,0,0,0,.123-.316,2.11,2.11,0,0,0-1.547-2.487,2.057,2.057,0,0,0-2.526,1.482,1.284,1.284,0,0,0-.034.274L25.232,30.1Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13653" data-name="组 13653" opacity="0.762">
+                  <g id="组_13652" data-name="组 13652">
+                    <g id="组_13651" data-name="组 13651" clip-path="url(#clip-path-122)">
+                      <path id="路径_23805" data-name="路径 23805" d="M26.045,30.328l4.728-12.271a1.418,1.418,0,0,0,.121-.314,2.013,2.013,0,0,0-1.466-2.384,1.968,1.968,0,0,0-2.406,1.43,1.4,1.4,0,0,0-.035.27L25.256,30.121Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13656" data-name="组 13656" opacity="0.81">
+                  <g id="组_13655" data-name="组 13655">
+                    <g id="组_13654" data-name="组 13654" clip-path="url(#clip-path-123)">
+                      <path id="路径_23806" data-name="路径 23806" d="M26.027,30.334l4.62-12.192a1.509,1.509,0,0,0,.117-.311,1.913,1.913,0,0,0-1.383-2.281A1.877,1.877,0,0,0,27.1,16.926a1.382,1.382,0,0,0-.037.268L25.28,30.138Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13659" data-name="组 13659" opacity="0.857">
+                  <g id="组_13658" data-name="组 13658">
+                    <g id="组_13657" data-name="组 13657" clip-path="url(#clip-path-124)">
+                      <path id="路径_23807" data-name="路径 23807" d="M26.01,30.34l4.511-12.113a1.465,1.465,0,0,0,.115-.309,1.815,1.815,0,0,0-1.3-2.178,1.785,1.785,0,0,0-2.164,1.324,1.423,1.423,0,0,0-.038.265L25.3,30.154Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13662" data-name="组 13662" opacity="0.905">
+                  <g id="组_13661" data-name="组 13661">
+                    <g id="组_13660" data-name="组 13660" clip-path="url(#clip-path-125)">
+                      <path id="路径_23808" data-name="路径 23808" d="M25.992,30.347l4.4-12.034A1.594,1.594,0,0,0,30.507,18a1.717,1.717,0,0,0-1.22-2.075A1.7,1.7,0,0,0,27.243,17.2a1.492,1.492,0,0,0-.039.263L25.327,30.17Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13665" data-name="组 13665" opacity="0.952">
+                  <g id="组_13664" data-name="组 13664">
+                    <g id="组_13663" data-name="组 13663" clip-path="url(#clip-path-126)">
+                      <path id="路径_23809" data-name="路径 23809" d="M25.974,30.353,30.268,18.4a1.635,1.635,0,0,0-1.028-2.277,1.608,1.608,0,0,0-1.924,1.217,1.583,1.583,0,0,0-.039.261L25.35,30.187Z" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13668" data-name="组 13668">
+                  <g id="组_13667" data-name="组 13667">
+                    <g id="组_13666" data-name="组 13666" clip-path="url(#clip-path-127)">
+                      <path id="路径_23810" data-name="路径 23810" d="M27.39,17.475a1.7,1.7,0,0,0-.041.259L25.374,30.2l.582.155,4.186-11.876a1.781,1.781,0,0,0,.107-.3,1.475,1.475,0,1,0-2.859-.7" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="组_13740" data-name="组 13740" opacity="0.54">
+            <g id="组_13739" data-name="组 13739">
+              <g id="组_13738" data-name="组 13738" clip-path="url(#clip-path-128)">
+                <g id="组_13674" data-name="组 13674" opacity="0">
+                  <g id="组_13673" data-name="组 13673">
+                    <g id="组_13672" data-name="组 13672" clip-path="url(#clip-path-129)">
+                      <path id="路径_23811" data-name="路径 23811" d="M13.356,15.125a3.41,3.41,0,0,0-4.333-2.277,3.607,3.607,0,0,0-2.776,4.031.917.917,0,0,0,.165.345l6.461,13.538,1.452-.371-.949-14.955a.953.953,0,0,0-.02-.311" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13677" data-name="组 13677" opacity="0.048">
+                  <g id="组_13676" data-name="组 13676">
+                    <g id="组_13675" data-name="组 13675" clip-path="url(#clip-path-130)">
+                      <path id="路径_23812" data-name="路径 23812" d="M9.069,13.038a3.511,3.511,0,0,0-2.694,3.928.966.966,0,0,0,.162.343L12.89,30.768l1.411-.361-1-14.837a.937.937,0,0,0-.02-.308,3.322,3.322,0,0,0-4.213-2.224" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13680" data-name="组 13680" opacity="0.095">
+                  <g id="组_13679" data-name="组 13679">
+                    <g id="组_13678" data-name="组 13678" clip-path="url(#clip-path-131)">
+                      <path id="路径_23813" data-name="路径 23813" d="M9.116,13.229A3.411,3.411,0,0,0,6.5,17.054a.961.961,0,0,0,.16.341l6.245,13.379,1.369-.351L13.23,15.706a.953.953,0,0,0-.021-.306,3.229,3.229,0,0,0-4.093-2.171" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13683" data-name="组 13683" opacity="0.143">
+                  <g id="组_13682" data-name="组 13682">
+                    <g id="组_13681" data-name="组 13681" clip-path="url(#clip-path-132)">
+                      <path id="路径_23814" data-name="路径 23814" d="M9.163,13.418a3.31,3.31,0,0,0-2.53,3.723,1,1,0,0,0,.156.339l6.137,13.3,1.328-.341-1.1-14.6a1,1,0,0,0-.022-.3,3.143,3.143,0,0,0-3.972-2.118" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13686" data-name="组 13686" opacity="0.19">
+                  <g id="组_13685" data-name="组 13685">
+                    <g id="组_13684" data-name="组 13684" clip-path="url(#clip-path-133)">
+                      <path id="路径_23815" data-name="路径 23815" d="M9.21,13.608a3.211,3.211,0,0,0-2.448,3.619.974.974,0,0,0,.154.337l6.027,13.222,1.287-.33L13.085,15.974a1.013,1.013,0,0,0-.023-.3A3.049,3.049,0,0,0,9.21,13.608" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13689" data-name="组 13689" opacity="0.238">
+                  <g id="组_13688" data-name="组 13688">
+                    <g id="组_13687" data-name="组 13687" clip-path="url(#clip-path-134)">
+                      <path id="路径_23816" data-name="路径 23816" d="M9.257,13.8a3.109,3.109,0,0,0-2.366,3.517.989.989,0,0,0,.151.334l5.92,13.142,1.245-.319L13.012,16.11a1,1,0,0,0-.024-.3A2.958,2.958,0,0,0,9.257,13.8" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13692" data-name="组 13692" opacity="0.286">
+                  <g id="组_13691" data-name="组 13691">
+                    <g id="组_13690" data-name="组 13690" clip-path="url(#clip-path-135)">
+                      <path id="路径_23817" data-name="路径 23817" d="M9.3,13.989A3.009,3.009,0,0,0,7.02,17.4a1.008,1.008,0,0,0,.148.333L12.979,30.8l1.2-.31L12.94,16.244a1.015,1.015,0,0,0-.025-.3A2.869,2.869,0,0,0,9.3,13.989" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13695" data-name="组 13695" opacity="0.333">
+                  <g id="组_13694" data-name="组 13694">
+                    <g id="组_13693" data-name="组 13693" clip-path="url(#clip-path-136)">
+                      <path id="路径_23818" data-name="路径 23818" d="M9.351,14.18a2.91,2.91,0,0,0-2.2,3.31,1.056,1.056,0,0,0,.146.331L13,30.805l1.163-.3L12.867,16.379a1.043,1.043,0,0,0-.026-.294,2.779,2.779,0,0,0-3.49-1.9" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13698" data-name="组 13698" opacity="0.381">
+                  <g id="组_13697" data-name="组 13697">
+                    <g id="组_13696" data-name="组 13696" clip-path="url(#clip-path-137)">
+                      <path id="路径_23819" data-name="路径 23819" d="M9.4,14.369a2.809,2.809,0,0,0-2.121,3.208,1.08,1.08,0,0,0,.143.328l5.6,12.9,1.12-.289L12.794,16.514a1.046,1.046,0,0,0-.026-.291A2.689,2.689,0,0,0,9.4,14.369" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13701" data-name="组 13701" opacity="0.429">
+                  <g id="组_13700" data-name="组 13700">
+                    <g id="组_13699" data-name="组 13699" clip-path="url(#clip-path-138)">
+                      <path id="路径_23820" data-name="路径 23820" d="M9.445,14.56a2.709,2.709,0,0,0-2.039,3.1,1.1,1.1,0,0,0,.141.328l5.485,12.825,1.08-.279-1.39-13.889a1.079,1.079,0,0,0-.028-.289,2.6,2.6,0,0,0-3.249-1.8" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13704" data-name="组 13704" opacity="0.476">
+                  <g id="组_13703" data-name="组 13703">
+                    <g id="组_13702" data-name="组 13702" clip-path="url(#clip-path-139)">
+                      <path id="路径_23821" data-name="路径 23821" d="M9.492,14.75a2.609,2.609,0,0,0-1.957,3,1.129,1.129,0,0,0,.138.325L13.05,30.822l1.038-.268L12.65,16.783a1.1,1.1,0,0,0-.029-.286A2.509,2.509,0,0,0,9.492,14.75" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13707" data-name="组 13707" opacity="0.524">
+                  <g id="组_13706" data-name="组 13706">
+                    <g id="组_13705" data-name="组 13705" clip-path="url(#clip-path-140)">
+                      <path id="路径_23822" data-name="路径 23822" d="M9.54,14.94a2.51,2.51,0,0,0-1.877,2.9,1.215,1.215,0,0,0,.136.323l5.269,12.668,1-.259L12.578,16.917a1.189,1.189,0,0,0-.031-.284A2.417,2.417,0,0,0,9.54,14.94" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13710" data-name="组 13710" opacity="0.571">
+                  <g id="组_13709" data-name="组 13709">
+                    <g id="组_13708" data-name="组 13708" clip-path="url(#clip-path-141)">
+                      <path id="路径_23823" data-name="路径 23823" d="M9.586,15.131a2.409,2.409,0,0,0-1.794,2.8,1.187,1.187,0,0,0,.132.32l5.162,12.589.955-.248L12.505,17.052a1.151,1.151,0,0,0-.031-.28,2.327,2.327,0,0,0-2.888-1.641" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13713" data-name="组 13713" opacity="0.619">
+                  <g id="组_13712" data-name="组 13712">
+                    <g id="组_13711" data-name="组 13711" clip-path="url(#clip-path-142)">
+                      <path id="路径_23824" data-name="路径 23824" d="M9.633,15.321a2.308,2.308,0,0,0-1.712,2.691,1.215,1.215,0,0,0,.13.32L13.1,30.841l.914-.239L12.432,17.186a1.147,1.147,0,0,0-.032-.278,2.237,2.237,0,0,0-2.767-1.587" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13716" data-name="组 13716" opacity="0.667">
+                  <g id="组_13715" data-name="组 13715">
+                    <g id="组_13714" data-name="组 13714" clip-path="url(#clip-path-143)">
+                      <path id="路径_23825" data-name="路径 23825" d="M9.68,15.511A2.209,2.209,0,0,0,8.051,18.1a1.193,1.193,0,0,0,.126.316l4.944,12.43.873-.228-1.634-13.3a1.225,1.225,0,0,0-.033-.276A2.148,2.148,0,0,0,9.68,15.511" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13719" data-name="组 13719" opacity="0.714">
+                  <g id="组_13718" data-name="组 13718">
+                    <g id="组_13717" data-name="组 13717" clip-path="url(#clip-path-144)">
+                      <path id="路径_23826" data-name="路径 23826" d="M9.727,15.7a2.109,2.109,0,0,0-1.548,2.486A1.308,1.308,0,0,0,8.3,18.5l4.836,12.351.831-.217-1.683-13.18a1.276,1.276,0,0,0-.034-.274A2.058,2.058,0,0,0,9.727,15.7" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13722" data-name="组 13722" opacity="0.762">
+                  <g id="组_13721" data-name="组 13721">
+                    <g id="组_13720" data-name="组 13720" clip-path="url(#clip-path-145)">
+                      <path id="路径_23827" data-name="路径 23827" d="M9.774,15.892a2.011,2.011,0,0,0-1.466,2.383,1.373,1.373,0,0,0,.121.313L13.156,30.86l.79-.208L12.214,17.591a1.24,1.24,0,0,0-.034-.27,1.968,1.968,0,0,0-2.406-1.429" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13725" data-name="组 13725" opacity="0.81">
+                  <g id="组_13724" data-name="组 13724">
+                    <g id="组_13723" data-name="组 13723" clip-path="url(#clip-path-146)">
+                      <path id="路径_23828" data-name="路径 23828" d="M9.821,16.082a1.911,1.911,0,0,0-1.384,2.28,1.417,1.417,0,0,0,.118.311l4.62,12.192.748-.2L12.142,17.726a1.307,1.307,0,0,0-.036-.269,1.878,1.878,0,0,0-2.285-1.375" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13728" data-name="组 13728" opacity="0.857">
+                  <g id="组_13727" data-name="组 13727">
+                    <g id="组_13726" data-name="组 13726" clip-path="url(#clip-path-147)">
+                      <path id="路径_23829" data-name="路径 23829" d="M9.868,16.272a1.813,1.813,0,0,0-1.3,2.177,1.471,1.471,0,0,0,.115.308l4.511,12.114.707-.187L12.07,17.86a1.352,1.352,0,0,0-.037-.266,1.785,1.785,0,0,0-2.165-1.322" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13731" data-name="组 13731" opacity="0.905">
+                  <g id="组_13730" data-name="组 13730">
+                    <g id="组_13729" data-name="组 13729" clip-path="url(#clip-path-148)">
+                      <path id="路径_23830" data-name="路径 23830" d="M9.915,16.462a1.714,1.714,0,0,0-1.22,2.074,1.536,1.536,0,0,0,.112.307l4.4,12.035.666-.177L12,18a1.377,1.377,0,0,0-.037-.263,1.7,1.7,0,0,0-2.044-1.27" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13734" data-name="组 13734" opacity="0.952">
+                  <g id="组_13733" data-name="组 13733">
+                    <g id="组_13732" data-name="组 13732" clip-path="url(#clip-path-149)">
+                      <path id="路径_23831" data-name="路径 23831" d="M9.962,16.652a1.617,1.617,0,0,0-1.138,1.972,1.526,1.526,0,0,0,.11.3l4.294,11.956.623-.167L11.924,18.13a1.454,1.454,0,0,0-.038-.261,1.607,1.607,0,0,0-1.924-1.217" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13737" data-name="组 13737">
+                  <g id="组_13736" data-name="组 13736">
+                    <g id="组_13735" data-name="组 13735" clip-path="url(#clip-path-150)">
+                      <path id="路径_23832" data-name="路径 23832" d="M10.009,16.843a1.518,1.518,0,0,0-1.056,1.868,1.645,1.645,0,0,0,.107.3L13.245,30.89l.583-.156L11.852,18.265a1.547,1.547,0,0,0-.04-.259,1.519,1.519,0,0,0-1.8-1.163" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23833" data-name="路径 23833" d="M29.877,41.96l.875-.574.272-1.723-1.147.385Z" fill="#542708"/>
+          <path id="路径_23834" data-name="路径 23834" d="M28.789,41.386l1.088.574V40.048l-1.222.354Z" fill="#703208"/>
+          <path id="路径_23835" data-name="路径 23835" d="M22.5,46.319l.874-.574.272-1.724-1.146.386Z" fill="#542708"/>
+          <path id="路径_23836" data-name="路径 23836" d="M21.41,45.745l1.088.574V44.407l-1.223.355Z" fill="#703208"/>
+          <path id="路径_23837" data-name="路径 23837" d="M29.826,41.96l.875-.574.271-1.723-1.146.384Z" fill="#542708"/>
+          <path id="路径_23838" data-name="路径 23838" d="M28.739,41.386l1.087.574V40.047L28.6,40.4Z" fill="#703208"/>
+          <path id="路径_23839" data-name="路径 23839" d="M22.447,46.319l.874-.573.271-1.725-1.145.386Z" fill="#542708"/>
+          <path id="路径_23840" data-name="路径 23840" d="M21.359,45.746l1.088.573V44.407l-1.223.354Z" fill="#703208"/>
+        </g>
+      </g>
+      <g id="组_13744" data-name="组 13744">
+        <g id="组_13743" data-name="组 13743" clip-path="url(#clip-path-151)">
+          <rect id="矩形_6488" data-name="矩形 6488" width="21" height="12.126" transform="translate(0.011 22.282)" fill="url(#linear-gradient-25)"/>
+        </g>
+      </g>
+      <g id="组_13746" data-name="组 13746">
+        <g id="组_13745" data-name="组 13745" clip-path="url(#clip-path-3)">
+          <path id="路径_23842" data-name="路径 23842" d="M5.73,22.769l-.844-.486H.01l2.249,1.3a6.5,6.5,0,0,1,3.471-.812" fill="#fffde1"/>
+          <path id="路径_23843" data-name="路径 23843" d="M12.942,28.763a4.048,4.048,0,0,1,1.035-1.254l-5-2.872a37.922,37.922,0,0,1-3.948.545l7.629,4.4a3.314,3.314,0,0,1,.282-.823" fill="#fff7ab"/>
+          <path id="路径_23844" data-name="路径 23844" d="M19.621,30.755a6.764,6.764,0,0,1-.291,2.683l1.682.97V31.555Z" fill="#fffde1"/>
+          <path id="路径_23845" data-name="路径 23845" d="M.011,22.282l4.875.27,16.126,9.374v-.372L4.886,22.282Z" fill="#fff8bb"/>
+          <path id="路径_23846" data-name="路径 23846" d="M21.012,34.408V31.554L20.5,33.537.011,22.282Z" fill="#fffde1"/>
+        </g>
+      </g>
+      <g id="组_13748" data-name="组 13748">
+        <g id="组_13747" data-name="组 13747" clip-path="url(#clip-path-153)">
+          <rect id="矩形_6490" data-name="矩形 6490" width="13.484" height="7.946" transform="translate(21.011 26.462)" fill="url(#linear-gradient-26)"/>
+        </g>
+      </g>
+      <g id="组_13759" data-name="组 13759">
+        <g id="组_13758" data-name="组 13758" clip-path="url(#clip-path-3)">
+          <path id="路径_23848" data-name="路径 23848" d="M33.915,26.559l-3.932-.1-1.168.662c1.689-.273,3.406-.428,5.1-.566" fill="#fffde1"/>
+          <g id="组_13751" data-name="组 13751" opacity="0.6">
+            <g id="组_13750" data-name="组 13750">
+              <g id="组_13749" data-name="组 13749" clip-path="url(#clip-path-155)">
+                <path id="路径_23849" data-name="路径 23849" d="M26.075,28.681l-3.406,1.933a7.724,7.724,0,0,1,1.18,2.146l5.677-3.3a26.172,26.172,0,0,0-3.451-.779" fill="#fffde1"/>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23850" data-name="路径 23850" d="M29.983,26.463l-8.971,5.092v2.853l13.483-7.835L21.724,33.346V31.555Z" fill="#ffce00"/>
+          <path id="路径_23851" data-name="路径 23851" d="M31.868,39.22,34.18,28.734,21.012,34.408,20.98,45.547Z" fill="#a06335"/>
+          <g id="组_13754" data-name="组 13754" opacity="0.28">
+            <g id="组_13753" data-name="组 13753">
+              <g id="组_13752" data-name="组 13752" clip-path="url(#clip-path-156)">
+                <path id="路径_23852" data-name="路径 23852" d="M25.481,42.332c-1.262.869-2.9,2.268-4.5,2.271l0,.944L31.868,39.22,34.18,28.733l-1.1.472A12.83,12.83,0,0,1,29.662,38.6a25.527,25.527,0,0,1-4.181,3.732" fill="#592a0a"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13757" data-name="组 13757" opacity="0.41">
+            <g id="组_13756" data-name="组 13756">
+              <g id="组_13755" data-name="组 13755" clip-path="url(#clip-path-156)">
+                <path id="路径_23853" data-name="路径 23853" d="M22.107,44.893a.925.925,0,0,1,.01-.1,23.983,23.983,0,0,1,1.136-5.156,9.838,9.838,0,0,1,3.073-3.712,23.354,23.354,0,0,1,7.136-3.934l.718-3.255L21.012,34.409l-.031,11.138Z" fill="#592a0a"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13761" data-name="组 13761">
+        <g id="组_13760" data-name="组 13760" clip-path="url(#clip-path-158)">
+          <rect id="矩形_6495" data-name="矩形 6495" width="13.493" height="11.21" transform="translate(21.002 26.573)" fill="url(#linear-gradient-27)"/>
+        </g>
+      </g>
+      <g id="组_13769" data-name="组 13769">
+        <g id="组_13768" data-name="组 13768" clip-path="url(#clip-path-3)">
+          <g id="组_13764" data-name="组 13764" opacity="0.24">
+            <g id="组_13763" data-name="组 13763">
+              <g id="组_13762" data-name="组 13762" clip-path="url(#clip-path-160)">
+                <path id="路径_23855" data-name="路径 23855" d="M23,33.251l-1.989,1.157L21,37.783,23.525,36.3A19.518,19.518,0,0,1,23,33.251" fill="#824216"/>
+                <path id="路径_23856" data-name="路径 23856" d="M30.728,28.762a18.491,18.491,0,0,1-1.053,3.92l4.81-2.83.01-3.278Z" fill="#824216"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13767" data-name="组 13767" opacity="0.28">
+            <g id="组_13766" data-name="组 13766">
+              <g id="组_13765" data-name="组 13765" clip-path="url(#clip-path-160)">
+                <path id="路径_23857" data-name="路径 23857" d="M28.643,30.983a37.954,37.954,0,0,1,5.845-2.252l.007-2.158L24.329,32.479c.016.028.026.06.04.09,1.419-.589,2.842-1.109,4.274-1.586" fill="#592a0a"/>
+                <path id="路径_23858" data-name="路径 23858" d="M22.054,33.8l-1.042.6L21,37.783l.307-.181a28.652,28.652,0,0,1,.744-3.8" fill="#592a0a"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13771" data-name="组 13771">
+        <g id="组_13770" data-name="组 13770" clip-path="url(#clip-path-162)">
+          <rect id="矩形_6499" data-name="矩形 6499" width="13.493" height="11.21" transform="translate(21.002 26.573)" fill="url(#linear-gradient-28)"/>
+        </g>
+      </g>
+      <g id="组_13773" data-name="组 13773">
+        <g id="组_13772" data-name="组 13772" clip-path="url(#clip-path-3)">
+          <path id="路径_23860" data-name="路径 23860" d="M2.862,35.086,20.98,45.547l.031-11.139L.334,24.4Z" fill="#db854b"/>
+          <path id="路径_23861" data-name="路径 23861" d="M.334,24.4l2.528,10.69L20.98,45.547l.01-3.174a18.509,18.509,0,0,1-4.356-.726c-2.171-.6-8.011-3.866-8.216-3.961-1.861-.86-4.211-2.061-5.245-3.94C1.965,31.554,1.122,27.7,2.8,25.591Z" fill="#c9753d"/>
+          <path id="路径_23862" data-name="路径 23862" d="M1.1,27.647c3.347,1.087,8.641,4.774,9.806,5.7a26.793,26.793,0,0,1,6.453,6.961,29.891,29.891,0,0,1,2,4.307l1.621.935.031-11.138L.333,24.4Z" fill="#c9753d"/>
+        </g>
+      </g>
+      <g id="组_13775" data-name="组 13775">
+        <g id="组_13774" data-name="组 13774" clip-path="url(#clip-path-164)">
+          <rect id="矩形_6501" data-name="矩形 6501" width="21.011" height="15.501" transform="translate(0 22.282)" fill="url(#linear-gradient-29)"/>
+        </g>
+      </g>
+      <g id="组_13792" data-name="组 13792">
+        <g id="组_13791" data-name="组 13791" clip-path="url(#clip-path-3)">
+          <g id="组_13780" data-name="组 13780" opacity="0.65">
+            <g id="组_13779" data-name="组 13779">
+              <g id="组_13778" data-name="组 13778" clip-path="url(#clip-path-166)">
+                <g id="组_13777" data-name="组 13777">
+                  <g id="组_13776" data-name="组 13776" clip-path="url(#clip-path-167)">
+                    <rect id="矩形_6502" data-name="矩形 6502" width="4.13" height="4.905" transform="translate(15.156 31.888)" fill="url(#linear-gradient-30)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="组_13785" data-name="组 13785" opacity="0.67">
+            <g id="组_13784" data-name="组 13784">
+              <g id="组_13783" data-name="组 13783" clip-path="url(#clip-path-168)">
+                <g id="组_13782" data-name="组 13782">
+                  <g id="组_13781" data-name="组 13781" clip-path="url(#clip-path-169)">
+                    <rect id="矩形_6504" data-name="矩形 6504" width="3.752" height="5.368" transform="translate(2.196 23.734)" fill="url(#linear-gradient-31)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="组_13790" data-name="组 13790" opacity="0.51">
+            <g id="组_13789" data-name="组 13789">
+              <g id="组_13788" data-name="组 13788" clip-path="url(#clip-path-170)">
+                <g id="组_13787" data-name="组 13787">
+                  <g id="组_13786" data-name="组 13786" clip-path="url(#clip-path-171)">
+                    <rect id="矩形_6506" data-name="矩形 6506" width="21.008" height="13.199" transform="translate(0 24.584)" fill="url(#linear-gradient-32)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13794" data-name="组 13794">
+        <g id="组_13793" data-name="组 13793" clip-path="url(#clip-path-172)">
+          <rect id="矩形_6509" data-name="矩形 6509" width="21.002" height="12.257" transform="translate(0 25.526)" fill="url(#linear-gradient-33)"/>
+        </g>
+      </g>
+      <g id="组_13796" data-name="组 13796">
+        <g id="组_13795" data-name="组 13795" clip-path="url(#clip-path-173)">
+          <rect id="矩形_6510" data-name="矩形 6510" width="21.011" height="15.501" transform="translate(0 22.282)" fill="url(#linear-gradient-34)"/>
+        </g>
+      </g>
+      <g id="组_13798" data-name="组 13798">
+        <g id="组_13797" data-name="组 13797" clip-path="url(#clip-path-3)">
+          <path id="路径_23869" data-name="路径 23869" d="M1.081,27.555l.084.355,8.357,5.167L21,39.634l-.016-.342L8.839,32.178Z" fill="#93561b"/>
+          <path id="路径_23870" data-name="路径 23870" d="M2.026,31.555l14.5,8.557L21,42.23l-.017-.274L1.961,31.278Z" fill="#93561b"/>
+          <path id="路径_23871" data-name="路径 23871" d="M33.386,32.335l.066-.3L20.98,39.292l.017.342Z" fill="#602609"/>
+          <path id="路径_23872" data-name="路径 23872" d="M23.988,40.516l8.762-5.3.054-.247L20.98,41.956,21,42.23Z" fill="#602609"/>
+        </g>
+      </g>
+      <g id="组_13800" data-name="组 13800">
+        <g id="组_13799" data-name="组 13799" clip-path="url(#clip-path-175)">
+          <rect id="矩形_6512" data-name="矩形 6512" width="1" height="0.812" transform="translate(4.935 36.528)" fill="url(#linear-gradient-35)"/>
+        </g>
+      </g>
+      <g id="组_13802" data-name="组 13802">
+        <g id="组_13801" data-name="组 13801" clip-path="url(#clip-path-176)">
+          <rect id="矩形_6513" data-name="矩形 6513" width="2.038" height="2.042" transform="translate(2.814 36.838) rotate(-54)" fill="url(#linear-gradient-36)"/>
+        </g>
+      </g>
+      <g id="组_13804" data-name="组 13804">
+        <g id="组_13803" data-name="组 13803" clip-path="url(#clip-path-177)">
+          <rect id="矩形_6514" data-name="矩形 6514" width="1.983" height="5.342" transform="translate(2.952 31.382)" fill="url(#linear-gradient-37)"/>
+        </g>
+      </g>
+      <g id="组_13806" data-name="组 13806">
+        <g id="组_13805" data-name="组 13805" clip-path="url(#clip-path-178)">
+          <rect id="矩形_6515" data-name="矩形 6515" width="1.714" height="3.309" transform="translate(3.221 33.415)" fill="url(#linear-gradient-38)"/>
+        </g>
+      </g>
+      <g id="组_13808" data-name="组 13808">
+        <g id="组_13807" data-name="组 13807" clip-path="url(#clip-path-179)">
+          <rect id="矩形_6516" data-name="矩形 6516" width="0.852" height="4.67" transform="translate(4.524 32.054)" fill="url(#linear-gradient-39)"/>
+        </g>
+      </g>
+      <g id="组_13810" data-name="组 13810">
+        <g id="组_13809" data-name="组 13809" clip-path="url(#clip-path-180)">
+          <rect id="矩形_6517" data-name="矩形 6517" width="2.104" height="1.051" transform="translate(2.952 31.196)" fill="url(#linear-gradient-40)"/>
+        </g>
+      </g>
+      <g id="组_13812" data-name="组 13812">
+        <g id="组_13811" data-name="组 13811" clip-path="url(#clip-path-3)">
+          <path id="路径_23879" data-name="路径 23879" d="M3.538,32.052c-.313.1-.442.566-.289,1.035s.534.764.848.66.442-.566.288-1.035-.534-.764-.847-.66" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13817" data-name="组 13817">
+        <g id="组_13816" data-name="组 13816" clip-path="url(#clip-path-182)">
+          <g id="组_13815" data-name="组 13815">
+            <g id="组_13814" data-name="组 13814">
+              <g id="组_13813" data-name="组 13813" clip-path="url(#clip-path-183)">
+                <image id="矩形_6519" data-name="矩形 6519" width="1.44" height="1.92" transform="translate(3.12 31.919)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABhSURBVBhXY/z/ZjEDMuDUY/x/0x3KgQDhGCYQxczIwMnCwMIIFmMACf0XkfkvZsfAxw7mgQnGv+8Yfl9h+P8fyIQKMXz8zvjhPcOX3wz/gKIQod//GL79BpFgABZCBgwMAHO1G2I6EiA1AAAAAElFTkSuQmCC"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13819" data-name="组 13819">
+        <g id="组_13818" data-name="组 13818" clip-path="url(#clip-path-3)">
+          <path id="路径_23881" data-name="路径 23881" d="M.922,23.811c-.313.1-.442.567-.289,1.035s.534.764.847.66.443-.566.289-1.034-.534-.765-.847-.661" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13824" data-name="组 13824">
+        <g id="组_13823" data-name="组 13823" clip-path="url(#clip-path-185)">
+          <g id="组_13822" data-name="组 13822">
+            <g id="组_13821" data-name="组 13821">
+              <g id="组_13820" data-name="组 13820" clip-path="url(#clip-path-186)">
+                <image id="矩形_6522" data-name="矩形 6522" width="1.44" height="1.92" transform="translate(0.48 23.759)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABhSURBVBhXY/z/ZjEDMuDUY/x/0x3KgQDhGCYQxcHMIMLHwMUCFmMACf3nE/7H7cTAzcrAzAgVYvz+nun7LoZffxn+w1QxfPnN8O4Hw+ffDP9AYmAhIOPPPwgfCDAcwakHAL2GHiana9a1AAAAAElFTkSuQmCC"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13826" data-name="组 13826">
+        <g id="组_13825" data-name="组 13825" clip-path="url(#clip-path-3)">
+          <path id="路径_23883" data-name="路径 23883" d="M5.729,26.594c-.314.1-.443.567-.288,1.035s.533.764.846.66.442-.565.289-1.034-.534-.765-.847-.661" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13831" data-name="组 13831">
+        <g id="组_13830" data-name="组 13830" clip-path="url(#clip-path-188)">
+          <g id="组_13829" data-name="组 13829">
+            <g id="组_13828" data-name="组 13828">
+              <g id="组_13827" data-name="组 13827" clip-path="url(#clip-path-189)">
+                <image id="矩形_6525" data-name="矩形 6525" width="1.44" height="1.92" transform="translate(5.28 26.639)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABaSURBVBhXY/x/050BGQjHMEFZLEwMjFAmWIif+7+kBYMgBwMjSBgsxApU8oGBiRHCAxOfvjF+vMvw7TfDv/8woV9/GT7+ZPj2hwEkAhFCBYz/3yyGMiGAUw8A4icWYjn5dKYAAAAASUVORK5CYII="/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13833" data-name="组 13833">
+        <g id="组_13832" data-name="组 13832" clip-path="url(#clip-path-3)">
+          <path id="路径_23885" data-name="路径 23885" d="M14.752,31.815c-.314.1-.442.565-.289,1.033s.534.765.848.661.441-.566.287-1.035-.533-.763-.846-.659" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13838" data-name="组 13838">
+        <g id="组_13837" data-name="组 13837" clip-path="url(#clip-path-191)">
+          <g id="组_13836" data-name="组 13836">
+            <g id="组_13835" data-name="组 13835">
+              <g id="组_13834" data-name="组 13834" clip-path="url(#clip-path-192)">
+                <image id="矩形_6528" data-name="矩形 6528" width="1.44" height="1.92" transform="translate(14.16 31.679)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABfSURBVBhXTYlRDkAwEAXfNiUS3+IA7uDCXIhvN0AaEhrRWlWtmJ+dN0u8ddA9fhBPDeY2LI8INxXIJOhRnyRxWXNRIU9ict9zgBm9v8lcpBQtK7SJyXFY7AaWncb0Adyl4By87AePHAAAAABJRU5ErkJggg=="/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13840" data-name="组 13840">
+        <g id="组_13839" data-name="组 13839" clip-path="url(#clip-path-3)">
+          <path id="路径_23887" data-name="路径 23887" d="M19.559,34.6c-.313.1-.443.567-.289,1.035s.534.764.847.66.443-.566.289-1.034-.534-.764-.847-.661" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13845" data-name="组 13845">
+        <g id="组_13844" data-name="组 13844" clip-path="url(#clip-path-194)">
+          <g id="组_13843" data-name="组 13843">
+            <g id="组_13842" data-name="组 13842">
+              <g id="组_13841" data-name="组 13841" clip-path="url(#clip-path-195)">
+                <image id="矩形_6531" data-name="矩形 6531" width="1.44" height="1.92" transform="translate(18.96 34.559)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABiSURBVBhXY/z/9SLD90sMSIDx/5vFDG+XQHlgwASh/gvwMojwMbAxw4RYmRh4tf9zSTNwsMCE/v5j/HqB8dsDhj9/YUL/GBg+/GR4/4Ph+x+YEBD8+8/w9z/DfxATwxEMDAC+cSNJ6rVU8QAAAABJRU5ErkJggg=="/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13847" data-name="组 13847">
+        <g id="组_13846" data-name="组 13846" clip-path="url(#clip-path-3)">
+          <path id="路径_23889" data-name="路径 23889" d="M21.789,35.259c-.154.468-.024.931.289,1.034s.693-.193.847-.66.024-.931-.29-1.035-.692.193-.846.661" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13852" data-name="组 13852">
+        <g id="组_13851" data-name="组 13851" clip-path="url(#clip-path-197)">
+          <g id="组_13850" data-name="组 13850">
+            <g id="组_13849" data-name="组 13849">
+              <g id="组_13848" data-name="组 13848" clip-path="url(#clip-path-198)">
+                <image id="矩形_6534" data-name="矩形 6534" width="1.44" height="1.92" transform="translate(21.6 34.559)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABjSURBVBhXY/z/9SLD90sMSIDx/5vFDG+XQHlgwASl+XkYRPgY2JiBTLAQC9N/Pq3/XHIMnCwwob//GL9cZPx2l+H3X5jQfwaGD78Y3v9g+P4HJgQE//8z/P0PkgPZiOYIBgYAqyUjSTsw+kEAAAAASUVORK5CYII="/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13854" data-name="组 13854">
+        <g id="组_13853" data-name="组 13853" clip-path="url(#clip-path-3)">
+          <path id="路径_23891" data-name="路径 23891" d="M28.629,32.085c.154-.467.024-.93-.29-1.033s-.692.192-.846.659-.025.933.289,1.035.692-.193.847-.661" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13859" data-name="组 13859">
+        <g id="组_13858" data-name="组 13858" clip-path="url(#clip-path-200)">
+          <g id="组_13857" data-name="组 13857">
+            <g id="组_13856" data-name="组 13856">
+              <g id="组_13855" data-name="组 13855" clip-path="url(#clip-path-201)">
+                <image id="矩形_6537" data-name="矩形 6537" width="1.44" height="1.92" transform="translate(27.36 30.959)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABfSURBVBhXY/z/9SLD90sMSIDx/5vFDG+XQHlgwASleVhBiIkRyAQLcTD/E/b6zy8JZMCE/v1n+rGP8fdrhn8gHljo1z+Gd18ZPvxk+PkHJgQEv/+BJP6DmDAhOGBgAABZ3B68vMpWkQAAAABJRU5ErkJggg=="/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13861" data-name="组 13861">
+        <g id="组_13860" data-name="组 13860" clip-path="url(#clip-path-3)">
+          <path id="路径_23893" data-name="路径 23893" d="M33.822,29.07c.154-.469.024-.932-.288-1.035s-.694.192-.848.66-.025.932.289,1.035.693-.192.847-.66" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13866" data-name="组 13866">
+        <g id="组_13865" data-name="组 13865" clip-path="url(#clip-path-203)">
+          <g id="组_13864" data-name="组 13864">
+            <g id="组_13863" data-name="组 13863">
+              <g id="组_13862" data-name="组 13862" clip-path="url(#clip-path-204)">
+                <image id="矩形_6540" data-name="矩形 6540" width="1.44" height="1.92" transform="translate(32.64 28.079)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABYSURBVBhXY/x/050BGQjHMEFZLEwMTIwQJliIj+2/pDWDIDtEFCzEyszA+B7ERwh9/sn48TbDt98Mf//BhH79Y/j4k+HrH4b/IB7MeCTA+P/NYigTAjj1AOI6FmI68reqAAAAAElFTkSuQmCC"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13868" data-name="组 13868">
+        <g id="组_13867" data-name="组 13867" clip-path="url(#clip-path-3)">
+          <path id="路径_23895" data-name="路径 23895" d="M10.29,31.825c1.984,1.051,2.589.149,2.589.149v-1.81L8.508,27.639l-.037,1.939s-.045,1.258,1.819,2.247" fill="#845203"/>
+        </g>
+      </g>
+      <g id="组_13870" data-name="组 13870">
+        <g id="组_13869" data-name="组 13869" clip-path="url(#clip-path-206)">
+          <rect id="矩形_6543" data-name="矩形 6543" width="4.409" height="4.845" transform="translate(8.026 27.921)" fill="url(#linear-gradient-41)"/>
+        </g>
+      </g>
+      <g id="组_13881" data-name="组 13881">
+        <g id="组_13880" data-name="组 13880" clip-path="url(#clip-path-3)">
+          <g id="组_13873" data-name="组 13873" opacity="0.32">
+            <g id="组_13872" data-name="组 13872">
+              <g id="组_13871" data-name="组 13871" clip-path="url(#clip-path-208)">
+                <path id="路径_23897" data-name="路径 23897" d="M11.29,29.784a7.649,7.649,0,0,1,.99,2.558.325.325,0,0,0,.154-.086V30.445Z" fill="#fff7ab"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13876" data-name="组 13876" opacity="0.22">
+            <g id="组_13875" data-name="组 13875">
+              <g id="组_13874" data-name="组 13874" clip-path="url(#clip-path-209)">
+                <path id="路径_23898" data-name="路径 23898" d="M9.914,30.18a5.487,5.487,0,0,0-1.136-1.845l-.715-.413-.037,1.939s.166.866,2.031,1.854c.026.015.049.026.075.038a4.583,4.583,0,0,0-.218-1.573" fill="#fff7ab"/>
+              </g>
+            </g>
+          </g>
+          <g id="组_13879" data-name="组 13879" opacity="0.32">
+            <g id="组_13878" data-name="组 13878">
+              <g id="组_13877" data-name="组 13877" clip-path="url(#clip-path-210)">
+                <path id="路径_23899" data-name="路径 23899" d="M10.038,30.087a3.284,3.284,0,0,0-1.261-1.752l-.485-.281a5.391,5.391,0,0,1,1.115,1.992,3.841,3.841,0,0,1,.044,1.316c.179.115.379.233.606.353.026.015.049.025.074.038a3.135,3.135,0,0,0-.093-1.666" fill="#fff7ab"/>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23900" data-name="路径 23900" d="M10.375,29.452a7.18,7.18,0,0,1,1.882,1.123,3.7,3.7,0,0,1,.178.408v-.538L8.063,27.922,8.026,29.86a1.259,1.259,0,0,0,.2.406A3.428,3.428,0,0,1,8.3,28.4c.178-.3,1.485.7,2.072,1.051" fill="#fff8d4"/>
+        </g>
+      </g>
+      <g id="组_13883" data-name="组 13883">
+        <g id="组_13882" data-name="组 13882" clip-path="url(#clip-path-211)">
+          <rect id="矩形_6548" data-name="矩形 6548" width="4.817" height="2.806" transform="translate(8.063 27.639)" fill="url(#linear-gradient-42)"/>
+        </g>
+      </g>
+      <g id="组_13885" data-name="组 13885">
+        <g id="组_13884" data-name="组 13884" clip-path="url(#clip-path-212)">
+          <rect id="矩形_6549" data-name="矩形 6549" width="4.717" height="2.935" transform="translate(7.326 29.033)" fill="url(#linear-gradient-43)"/>
+        </g>
+      </g>
+      <g id="组_13887" data-name="组 13887">
+        <g id="组_13886" data-name="组 13886" clip-path="url(#clip-path-3)">
+          <path id="路径_23903" data-name="路径 23903" d="M9.125,31.277c-.653-.246-1.378-.693-1.513-1.226s.6-.866,1.139-1.007a1.015,1.015,0,0,0-.276,0,1.22,1.22,0,0,0-1.033.872c-.116.53.514,1.031.852,1.245a3.658,3.658,0,0,0,2.772.6c.376-.086.849-.311.921-.611-.092-.236-.247-.163-.311-.106a3.455,3.455,0,0,1-2.551.229" fill="#f49c1c"/>
+          <path id="路径_23904" data-name="路径 23904" d="M10.037,31.577a3.214,3.214,0,0,1-2.594-1.4,1.885,1.885,0,0,0,.851.98,3.663,3.663,0,0,0,2.772.606c.425-.1.976-.372.93-.735-.032-.242-.377-.405-.713-.434.043.029.054.093.107.116.584.245.286.944-1.353.864" fill="#f49c1c"/>
+          <path id="路径_23905" data-name="路径 23905" d="M8.6,29.7c-.684.488.6,1.2.982,1.282a1.779,1.779,0,0,0,1.124-.057,3,3,0,0,1,.972-.234,1.11,1.11,0,0,0-.842-.037,1.856,1.856,0,0,1-1.408.09c-.37-.138-1.159-.582-.616-.942.177-.119.541-.175.452-.434a.509.509,0,0,0-.248-.247c0,.011-.008.025,0,.035.166.212-.168.366-.417.544" fill="#f49c1c"/>
+          <path id="路径_23906" data-name="路径 23906" d="M8.344,29.565c.082-.066.578-.434.233-.425v.018c-.489.064-1.087.672-.783,1.149a2.161,2.161,0,0,0,.64.554,1.32,1.32,0,0,0,.817.288,3.592,3.592,0,0,0-.578-.453,2.39,2.39,0,0,1-.494-.495c-.169-.27-.062-.455.165-.636" fill="#fff8d4"/>
+          <path id="路径_23907" data-name="路径 23907" d="M9.444,31.52a2.817,2.817,0,0,1-2-1.34,1.885,1.885,0,0,0,.852.981,3.661,3.661,0,0,0,2.772.605c.425-.1.976-.371.929-.734-.031-.242-.376-.4-.712-.435.012.008.7.16.47.561-.274.478-1.292.575-2.309.362" fill="#845203"/>
+        </g>
+      </g>
+      <g id="组_13889" data-name="组 13889">
+        <g id="组_13888" data-name="组 13888" clip-path="url(#clip-path-214)">
+          <rect id="矩形_6551" data-name="矩形 6551" width="1.578" height="5.123" transform="translate(17.919 40.018)" fill="url(#linear-gradient-44)"/>
+        </g>
+      </g>
+      <g id="组_13891" data-name="组 13891">
+        <g id="组_13890" data-name="组 13890" clip-path="url(#clip-path-215)">
+          <rect id="矩形_6552" data-name="矩形 6552" width="1.473" height="2.789" transform="translate(18.024 42.352)" fill="url(#linear-gradient-45)"/>
+        </g>
+      </g>
+      <g id="组_13893" data-name="组 13893">
+        <g id="组_13892" data-name="组 13892" clip-path="url(#clip-path-216)">
+          <rect id="矩形_6553" data-name="矩形 6553" width="0.638" height="4.551" transform="translate(19.3 40.59)" fill="url(#linear-gradient-46)"/>
+        </g>
+      </g>
+      <g id="组_13895" data-name="组 13895">
+        <g id="组_13894" data-name="组 13894" clip-path="url(#clip-path-217)">
+          <rect id="矩形_6554" data-name="矩形 6554" width="1.858" height="0.93" transform="translate(17.919 39.84)" fill="url(#linear-gradient-47)"/>
+        </g>
+      </g>
+      <g id="组_13897" data-name="组 13897">
+        <g id="组_13896" data-name="组 13896" clip-path="url(#clip-path-3)">
+          <path id="路径_23912" data-name="路径 23912" d="M18.366,40.634c-.313.1-.442.566-.288,1.034s.532.765.847.661.442-.566.288-1.034-.533-.765-.847-.661" fill="#93561b"/>
+        </g>
+      </g>
+      <g id="组_13902" data-name="组 13902">
+        <g id="组_13901" data-name="组 13901" clip-path="url(#clip-path-219)">
+          <g id="组_13900" data-name="组 13900">
+            <g id="组_13899" data-name="组 13899">
+              <g id="组_13898" data-name="组 13898" clip-path="url(#clip-path-220)">
+                <image id="矩形_6556" data-name="矩形 6556" width="1.44" height="1.92" transform="translate(17.76 40.559)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAIAAABVpBlvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABgSURBVBhXY/z/9SLD90sMSIDx/5vFDG+XQHlgwASluVkZBNkZWEFcsBAL038h8/+86gxcLDChf/8Zv59l/HGH4c9/hBDD+x8MH34wfPsNEwKCv/8Zfv1jACmCC8EBAwMAlu8fvMZtU6IAAAAASUVORK5CYII="/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_13904" data-name="组 13904">
+        <g id="组_13903" data-name="组 13903" clip-path="url(#clip-path-221)">
+          <rect id="矩形_6558" data-name="矩形 6558" width="0.999" height="0.812" transform="translate(19.49 44.94)" fill="url(#linear-gradient-48)"/>
+        </g>
+      </g>
+      <g id="组_13906" data-name="组 13906">
+        <g id="组_13905" data-name="组 13905" clip-path="url(#clip-path-222)">
+          <rect id="矩形_6559" data-name="矩形 6559" width="2.038" height="2.041" transform="matrix(0.588, -0.809, 0.809, 0.588, 17.369, 45.25)" fill="url(#linear-gradient-49)"/>
+        </g>
+      </g>
+      <g id="组_14088" data-name="组 14088">
+        <g id="组_14087" data-name="组 14087" clip-path="url(#clip-path-3)">
+          <g id="组_13951" data-name="组 13951">
+            <g id="组_13950" data-name="组 13950">
+              <g id="组_13949" data-name="组 13949" clip-path="url(#clip-path-224)">
+                <g id="组_13909" data-name="组 13909" opacity="0">
+                  <g id="组_13908" data-name="组 13908">
+                    <g id="组_13907" data-name="组 13907" clip-path="url(#clip-path-224)">
+                      <path id="路径_23916" data-name="路径 23916" d="M8.354,27.082a1.384,1.384,0,1,1-.376-1.921,1.383,1.383,0,0,1,.376,1.921" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13912" data-name="组 13912" opacity="0.077">
+                  <g id="组_13911" data-name="组 13911">
+                    <g id="组_13910" data-name="组 13910" clip-path="url(#clip-path-226)">
+                      <path id="路径_23917" data-name="路径 23917" d="M8.3,27.043a1.315,1.315,0,1,1-.356-1.824A1.312,1.312,0,0,1,8.3,27.043" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13915" data-name="组 13915" opacity="0.154">
+                  <g id="组_13914" data-name="组 13914">
+                    <g id="组_13913" data-name="组 13913" clip-path="url(#clip-path-227)">
+                      <path id="路径_23918" data-name="路径 23918" d="M8.238,27A1.245,1.245,0,1,1,7.9,25.276,1.244,1.244,0,0,1,8.238,27" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13918" data-name="组 13918" opacity="0.231">
+                  <g id="组_13917" data-name="组 13917">
+                    <g id="组_13916" data-name="组 13916" clip-path="url(#clip-path-228)">
+                      <path id="路径_23919" data-name="路径 23919" d="M8.18,26.965a1.174,1.174,0,1,1-.318-1.63,1.172,1.172,0,0,1,.318,1.63" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13921" data-name="组 13921" opacity="0.308">
+                  <g id="组_13920" data-name="组 13920">
+                    <g id="组_13919" data-name="组 13919" clip-path="url(#clip-path-229)">
+                      <path id="路径_23920" data-name="路径 23920" d="M8.123,26.926a1.1,1.1,0,1,1-.3-1.533,1.1,1.1,0,0,1,.3,1.533" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13924" data-name="组 13924" opacity="0.385">
+                  <g id="组_13923" data-name="组 13923">
+                    <g id="组_13922" data-name="组 13922" clip-path="url(#clip-path-230)">
+                      <path id="路径_23921" data-name="路径 23921" d="M8.064,26.887a1.035,1.035,0,1,1-.281-1.436,1.032,1.032,0,0,1,.281,1.436" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13927" data-name="组 13927" opacity="0.462">
+                  <g id="组_13926" data-name="组 13926">
+                    <g id="组_13925" data-name="组 13925" clip-path="url(#clip-path-231)">
+                      <path id="路径_23922" data-name="路径 23922" d="M8.006,26.848a.965.965,0,1,1-.262-1.34.964.964,0,0,1,.262,1.34" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13930" data-name="组 13930" opacity="0.538">
+                  <g id="组_13929" data-name="组 13929">
+                    <g id="组_13928" data-name="组 13928" clip-path="url(#clip-path-232)">
+                      <path id="路径_23923" data-name="路径 23923" d="M7.949,26.81a.9.9,0,1,1-.243-1.243.9.9,0,0,1,.243,1.243" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13933" data-name="组 13933" opacity="0.615">
+                  <g id="组_13932" data-name="组 13932">
+                    <g id="组_13931" data-name="组 13931" clip-path="url(#clip-path-233)">
+                      <path id="路径_23924" data-name="路径 23924" d="M7.891,26.771a.826.826,0,1,1-.224-1.146.826.826,0,0,1,.224,1.146" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13936" data-name="组 13936" opacity="0.692">
+                  <g id="组_13935" data-name="组 13935">
+                    <g id="组_13934" data-name="组 13934" clip-path="url(#clip-path-234)">
+                      <path id="路径_23925" data-name="路径 23925" d="M7.832,26.731a.756.756,0,1,1-.2-1.05.755.755,0,0,1,.2,1.05" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13939" data-name="组 13939" opacity="0.769">
+                  <g id="组_13938" data-name="组 13938">
+                    <g id="组_13937" data-name="组 13937" clip-path="url(#clip-path-235)">
+                      <path id="路径_23926" data-name="路径 23926" d="M7.775,26.692a.686.686,0,1,1-.186-.953.688.688,0,0,1,.186.953" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13942" data-name="组 13942" opacity="0.846">
+                  <g id="组_13941" data-name="组 13941">
+                    <g id="组_13940" data-name="组 13940" clip-path="url(#clip-path-236)">
+                      <path id="路径_23927" data-name="路径 23927" d="M7.717,26.653A.616.616,0,1,1,7.55,25.8a.616.616,0,0,1,.167.855" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13945" data-name="组 13945" opacity="0.923">
+                  <g id="组_13944" data-name="组 13944">
+                    <g id="组_13943" data-name="组 13943" clip-path="url(#clip-path-237)">
+                      <path id="路径_23928" data-name="路径 23928" d="M7.659,26.614a.547.547,0,1,1-.148-.759.546.546,0,0,1,.148.759" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13948" data-name="组 13948">
+                  <g id="组_13947" data-name="组 13947">
+                    <g id="组_13946" data-name="组 13946" clip-path="url(#clip-path-238)">
+                      <path id="路径_23929" data-name="路径 23929" d="M7.6,26.575a.476.476,0,1,1-.129-.662.477.477,0,0,1,.129.662" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23930" data-name="路径 23930" d="M7.331,25.922c-.113.2-1.023,0-1.023,0a5.127,5.127,0,0,1,.893.429c.16.139-.258,1.746-.258,1.746s.461-1.367.569-1.654a6.469,6.469,0,0,1,1.523.177s-.955-.409-1.418-.6a11.114,11.114,0,0,1,.231-1.3s-.407.994-.517,1.2" fill="#fff"/>
+          <g id="组_13996" data-name="组 13996">
+            <g id="组_13995" data-name="组 13995">
+              <g id="组_13994" data-name="组 13994" clip-path="url(#clip-path-239)">
+                <g id="组_13954" data-name="组 13954" opacity="0">
+                  <g id="组_13953" data-name="组 13953">
+                    <g id="组_13952" data-name="组 13952" clip-path="url(#clip-path-239)">
+                      <path id="路径_23931" data-name="路径 23931" d="M20.032,36.03a1.808,1.808,0,1,1-1.383-2.15,1.809,1.809,0,0,1,1.383,2.15" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13957" data-name="组 13957" opacity="0.077">
+                  <g id="组_13956" data-name="组 13956">
+                    <g id="组_13955" data-name="组 13955" clip-path="url(#clip-path-241)">
+                      <path id="路径_23932" data-name="路径 23932" d="M19.942,36.011a1.717,1.717,0,1,1-1.313-2.042,1.716,1.716,0,0,1,1.313,2.042" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13960" data-name="组 13960" opacity="0.154">
+                  <g id="组_13959" data-name="组 13959">
+                    <g id="组_13958" data-name="组 13958" clip-path="url(#clip-path-242)">
+                      <path id="路径_23933" data-name="路径 23933" d="M19.854,35.991a1.627,1.627,0,1,1-1.245-1.934,1.627,1.627,0,0,1,1.245,1.934" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13963" data-name="组 13963" opacity="0.231">
+                  <g id="组_13962" data-name="组 13962">
+                    <g id="组_13961" data-name="组 13961" clip-path="url(#clip-path-243)">
+                      <path id="路径_23934" data-name="路径 23934" d="M19.764,35.972a1.535,1.535,0,1,1-1.173-1.824,1.535,1.535,0,0,1,1.173,1.824" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13966" data-name="组 13966" opacity="0.308">
+                  <g id="组_13965" data-name="组 13965">
+                    <g id="组_13964" data-name="组 13964" clip-path="url(#clip-path-244)">
+                      <path id="路径_23935" data-name="路径 23935" d="M19.675,35.953a1.444,1.444,0,1,1-1.1-1.717,1.446,1.446,0,0,1,1.1,1.717" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13969" data-name="组 13969" opacity="0.385">
+                  <g id="组_13968" data-name="组 13968">
+                    <g id="组_13967" data-name="组 13967" clip-path="url(#clip-path-245)">
+                      <path id="路径_23936" data-name="路径 23936" d="M19.586,35.934a1.353,1.353,0,1,1-1.034-1.608,1.353,1.353,0,0,1,1.034,1.608" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13972" data-name="组 13972" opacity="0.462">
+                  <g id="组_13971" data-name="组 13971">
+                    <g id="组_13970" data-name="组 13970" clip-path="url(#clip-path-246)">
+                      <path id="路径_23937" data-name="路径 23937" d="M19.5,35.914a1.261,1.261,0,1,1-.964-1.5,1.261,1.261,0,0,1,.964,1.5" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13975" data-name="组 13975" opacity="0.538">
+                  <g id="组_13974" data-name="组 13974">
+                    <g id="组_13973" data-name="组 13973" clip-path="url(#clip-path-247)">
+                      <path id="路径_23938" data-name="路径 23938" d="M19.408,35.9a1.17,1.17,0,1,1-.9-1.391,1.171,1.171,0,0,1,.9,1.391" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13978" data-name="组 13978" opacity="0.615">
+                  <g id="组_13977" data-name="组 13977">
+                    <g id="组_13976" data-name="组 13976" clip-path="url(#clip-path-248)">
+                      <path id="路径_23939" data-name="路径 23939" d="M19.318,35.875a1.079,1.079,0,1,1-.825-1.282,1.078,1.078,0,0,1,.825,1.282" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13981" data-name="组 13981" opacity="0.692">
+                  <g id="组_13980" data-name="组 13980">
+                    <g id="组_13979" data-name="组 13979" clip-path="url(#clip-path-249)">
+                      <path id="路径_23940" data-name="路径 23940" d="M19.229,35.855a.988.988,0,1,1-.755-1.174.988.988,0,0,1,.755,1.174" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13984" data-name="组 13984" opacity="0.769">
+                  <g id="组_13983" data-name="组 13983">
+                    <g id="组_13982" data-name="组 13982" clip-path="url(#clip-path-250)">
+                      <path id="路径_23941" data-name="路径 23941" d="M19.14,35.837a.9.9,0,1,1-.686-1.066.9.9,0,0,1,.686,1.066" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13987" data-name="组 13987" opacity="0.846">
+                  <g id="组_13986" data-name="组 13986">
+                    <g id="组_13985" data-name="组 13985" clip-path="url(#clip-path-251)">
+                      <path id="路径_23942" data-name="路径 23942" d="M19.051,35.817a.805.805,0,1,1-.615-.957.8.8,0,0,1,.615.957" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13990" data-name="组 13990" opacity="0.923">
+                  <g id="组_13989" data-name="组 13989">
+                    <g id="组_13988" data-name="组 13988" clip-path="url(#clip-path-252)">
+                      <path id="路径_23943" data-name="路径 23943" d="M18.962,35.8a.714.714,0,1,1-.546-.849.714.714,0,0,1,.546.849" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_13993" data-name="组 13993">
+                  <g id="组_13992" data-name="组 13992">
+                    <g id="组_13991" data-name="组 13991" clip-path="url(#clip-path-253)">
+                      <path id="路径_23944" data-name="路径 23944" d="M18.872,35.778a.623.623,0,1,1-.476-.74.623.623,0,0,1,.476.74" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23945" data-name="路径 23945" d="M18.229,35.115c-.038.3-1.239.5-1.239.5a6.7,6.7,0,0,1,1.289.09c.263.092.53,2.243.53,2.243s-.1-1.881-.106-2.28a8.451,8.451,0,0,1,1.933-.521s-1.355-.036-2.011-.046a14.271,14.271,0,0,1-.345-1.685s-.013,1.4-.051,1.7" fill="#fff"/>
+          <g id="组_14041" data-name="组 14041">
+            <g id="组_14040" data-name="组 14040">
+              <g id="组_14039" data-name="组 14039" clip-path="url(#clip-path-254)">
+                <g id="组_13999" data-name="组 13999" opacity="0">
+                  <g id="组_13998" data-name="组 13998">
+                    <g id="组_13997" data-name="组 13997" clip-path="url(#clip-path-254)">
+                      <path id="路径_23946" data-name="路径 23946" d="M25.64,7.442a1.809,1.809,0,1,1-.421-2.522,1.809,1.809,0,0,1,.421,2.522" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14002" data-name="组 14002" opacity="0.077">
+                  <g id="组_14001" data-name="组 14001">
+                    <g id="组_14000" data-name="组 14000" clip-path="url(#clip-path-256)">
+                      <path id="路径_23947" data-name="路径 23947" d="M25.565,7.39a1.717,1.717,0,1,1-.4-2.395,1.716,1.716,0,0,1,.4,2.395" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14005" data-name="组 14005" opacity="0.154">
+                  <g id="组_14004" data-name="组 14004">
+                    <g id="组_14003" data-name="组 14003" clip-path="url(#clip-path-257)">
+                      <path id="路径_23948" data-name="路径 23948" d="M25.491,7.336a1.626,1.626,0,1,1-.378-2.268,1.628,1.628,0,0,1,.378,2.268" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14008" data-name="组 14008" opacity="0.231">
+                  <g id="组_14007" data-name="组 14007">
+                    <g id="组_14006" data-name="组 14006" clip-path="url(#clip-path-258)">
+                      <path id="路径_23949" data-name="路径 23949" d="M25.417,7.283a1.535,1.535,0,1,1-.358-2.141,1.534,1.534,0,0,1,.358,2.141" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14011" data-name="组 14011" opacity="0.308">
+                  <g id="组_14010" data-name="组 14010">
+                    <g id="组_14009" data-name="组 14009" clip-path="url(#clip-path-259)">
+                      <path id="路径_23950" data-name="路径 23950" d="M25.343,7.23a1.444,1.444,0,1,1-.336-2.014,1.444,1.444,0,0,1,.336,2.014" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14014" data-name="组 14014" opacity="0.385">
+                  <g id="组_14013" data-name="组 14013">
+                    <g id="组_14012" data-name="组 14012" clip-path="url(#clip-path-260)">
+                      <path id="路径_23951" data-name="路径 23951" d="M25.268,7.177a1.352,1.352,0,1,1-.315-1.886,1.354,1.354,0,0,1,.315,1.886" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14017" data-name="组 14017" opacity="0.462">
+                  <g id="组_14016" data-name="组 14016">
+                    <g id="组_14015" data-name="组 14015" clip-path="url(#clip-path-261)">
+                      <path id="路径_23952" data-name="路径 23952" d="M25.194,7.124A1.261,1.261,0,1,1,24.9,5.365a1.262,1.262,0,0,1,.294,1.759" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14020" data-name="组 14020" opacity="0.538">
+                  <g id="组_14019" data-name="组 14019">
+                    <g id="组_14018" data-name="组 14018" clip-path="url(#clip-path-262)">
+                      <path id="路径_23953" data-name="路径 23953" d="M25.12,7.071a1.17,1.17,0,1,1-.273-1.632,1.169,1.169,0,0,1,.273,1.632" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14023" data-name="组 14023" opacity="0.615">
+                  <g id="组_14022" data-name="组 14022">
+                    <g id="组_14021" data-name="组 14021" clip-path="url(#clip-path-263)">
+                      <path id="路径_23954" data-name="路径 23954" d="M25.046,7.019A1.079,1.079,0,1,1,24.8,5.514a1.078,1.078,0,0,1,.251,1.505" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14026" data-name="组 14026" opacity="0.692">
+                  <g id="组_14025" data-name="组 14025">
+                    <g id="组_14024" data-name="组 14024" clip-path="url(#clip-path-264)">
+                      <path id="路径_23955" data-name="路径 23955" d="M24.972,6.965a.987.987,0,1,1-.23-1.377.987.987,0,0,1,.23,1.377" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14029" data-name="组 14029" opacity="0.769">
+                  <g id="组_14028" data-name="组 14028">
+                    <g id="组_14027" data-name="组 14027" clip-path="url(#clip-path-265)">
+                      <path id="路径_23956" data-name="路径 23956" d="M24.9,6.912a.9.9,0,1,1-.208-1.25.9.9,0,0,1,.208,1.25" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14032" data-name="组 14032" opacity="0.846">
+                  <g id="组_14031" data-name="组 14031">
+                    <g id="组_14030" data-name="组 14030" clip-path="url(#clip-path-266)">
+                      <path id="路径_23957" data-name="路径 23957" d="M24.823,6.859a.805.805,0,1,1-.187-1.123.8.8,0,0,1,.187,1.123" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14035" data-name="组 14035" opacity="0.923">
+                  <g id="组_14034" data-name="组 14034">
+                    <g id="组_14033" data-name="组 14033" clip-path="url(#clip-path-267)">
+                      <path id="路径_23958" data-name="路径 23958" d="M24.749,6.806a.714.714,0,1,1-.166-1,.713.713,0,0,1,.166,1" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14038" data-name="组 14038">
+                  <g id="组_14037" data-name="组 14037">
+                    <g id="组_14036" data-name="组 14036" clip-path="url(#clip-path-268)">
+                      <path id="路径_23959" data-name="路径 23959" d="M24.675,6.753a.623.623,0,1,1-.145-.868.623.623,0,0,1,.145.868" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23960" data-name="路径 23960" d="M24.345,5.891c-.154.263-1.335-.033-1.335-.033a6.587,6.587,0,0,1,1.15.592c.2.187-.4,2.269-.4,2.269s.648-1.768.8-2.138a8.456,8.456,0,0,1,1.982.286s-1.231-.569-1.828-.836a13.968,13.968,0,0,1,.347-1.685s-.567,1.283-.72,1.545" fill="#fff"/>
+          <g id="组_14086" data-name="组 14086">
+            <g id="组_14085" data-name="组 14085">
+              <g id="组_14084" data-name="组 14084" clip-path="url(#clip-path-269)">
+                <g id="组_14044" data-name="组 14044" opacity="0">
+                  <g id="组_14043" data-name="组 14043">
+                    <g id="组_14042" data-name="组 14042" clip-path="url(#clip-path-269)">
+                      <path id="路径_23961" data-name="路径 23961" d="M26.8,32.355a1.809,1.809,0,1,1-1.18-2.269,1.812,1.812,0,0,1,1.18,2.269" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14047" data-name="组 14047" opacity="0.077">
+                  <g id="组_14046" data-name="组 14046">
+                    <g id="组_14045" data-name="组 14045" clip-path="url(#clip-path-271)">
+                      <path id="路径_23962" data-name="路径 23962" d="M26.713,32.327a1.717,1.717,0,1,1-1.121-2.154,1.721,1.721,0,0,1,1.121,2.154" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14050" data-name="组 14050" opacity="0.154">
+                  <g id="组_14049" data-name="组 14049">
+                    <g id="组_14048" data-name="组 14048" clip-path="url(#clip-path-272)">
+                      <path id="路径_23963" data-name="路径 23963" d="M26.626,32.3a1.626,1.626,0,1,1-1.061-2.04,1.63,1.63,0,0,1,1.061,2.04" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14053" data-name="组 14053" opacity="0.231">
+                  <g id="组_14052" data-name="组 14052">
+                    <g id="组_14051" data-name="组 14051" clip-path="url(#clip-path-273)">
+                      <path id="路径_23964" data-name="路径 23964" d="M26.539,32.272a1.535,1.535,0,1,1-1-1.926,1.536,1.536,0,0,1,1,1.926" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14056" data-name="组 14056" opacity="0.308">
+                  <g id="组_14055" data-name="组 14055">
+                    <g id="组_14054" data-name="组 14054" clip-path="url(#clip-path-274)">
+                      <path id="路径_23965" data-name="路径 23965" d="M26.452,32.244a1.443,1.443,0,1,1-.942-1.811,1.443,1.443,0,0,1,.942,1.811" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14059" data-name="组 14059" opacity="0.385">
+                  <g id="组_14058" data-name="组 14058">
+                    <g id="组_14057" data-name="组 14057" clip-path="url(#clip-path-275)">
+                      <path id="路径_23966" data-name="路径 23966" d="M26.365,32.217a1.353,1.353,0,1,1-.883-1.7,1.354,1.354,0,0,1,.883,1.7" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14062" data-name="组 14062" opacity="0.462">
+                  <g id="组_14061" data-name="组 14061">
+                    <g id="组_14060" data-name="组 14060" clip-path="url(#clip-path-276)">
+                      <path id="路径_23967" data-name="路径 23967" d="M26.278,32.189a1.261,1.261,0,1,1-.823-1.582,1.262,1.262,0,0,1,.823,1.582" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14065" data-name="组 14065" opacity="0.538">
+                  <g id="组_14064" data-name="组 14064">
+                    <g id="组_14063" data-name="组 14063" clip-path="url(#clip-path-277)">
+                      <path id="路径_23968" data-name="路径 23968" d="M26.191,32.162a1.17,1.17,0,1,1-.764-1.468,1.171,1.171,0,0,1,.764,1.468" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14068" data-name="组 14068" opacity="0.615">
+                  <g id="组_14067" data-name="组 14067">
+                    <g id="组_14066" data-name="组 14066" clip-path="url(#clip-path-278)">
+                      <path id="路径_23969" data-name="路径 23969" d="M26.1,32.135a1.079,1.079,0,1,1-.7-1.354,1.08,1.08,0,0,1,.7,1.354" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14071" data-name="组 14071" opacity="0.692">
+                  <g id="组_14070" data-name="组 14070">
+                    <g id="组_14069" data-name="组 14069" clip-path="url(#clip-path-279)">
+                      <path id="路径_23970" data-name="路径 23970" d="M26.017,32.107a.988.988,0,1,1-.645-1.239.989.989,0,0,1,.645,1.239" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14074" data-name="组 14074" opacity="0.769">
+                  <g id="组_14073" data-name="组 14073">
+                    <g id="组_14072" data-name="组 14072" clip-path="url(#clip-path-280)">
+                      <path id="路径_23971" data-name="路径 23971" d="M25.93,32.079a.9.9,0,1,1-.585-1.124.9.9,0,0,1,.585,1.124" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14077" data-name="组 14077" opacity="0.846">
+                  <g id="组_14076" data-name="组 14076">
+                    <g id="组_14075" data-name="组 14075" clip-path="url(#clip-path-281)">
+                      <path id="路径_23972" data-name="路径 23972" d="M25.843,32.052a.8.8,0,1,1-.525-1.01.8.8,0,0,1,.525,1.01" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14080" data-name="组 14080" opacity="0.923">
+                  <g id="组_14079" data-name="组 14079">
+                    <g id="组_14078" data-name="组 14078" clip-path="url(#clip-path-282)">
+                      <path id="路径_23973" data-name="路径 23973" d="M25.756,32.024a.714.714,0,1,1-.466-.895.714.714,0,0,1,.466.895" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="组_14083" data-name="组 14083">
+                  <g id="组_14082" data-name="组 14082">
+                    <g id="组_14081" data-name="组 14081" clip-path="url(#clip-path-283)">
+                      <path id="路径_23974" data-name="路径 23974" d="M25.669,32a.622.622,0,1,1-.407-.781.621.621,0,0,1,.407.781" fill="#fff"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <path id="路径_23975" data-name="路径 23975" d="M25.088,31.278c-.065.3-1.28.38-1.28.38a6.7,6.7,0,0,1,1.277.208c.253.116.322,2.282.322,2.282s.07-1.882.1-2.28a8.391,8.391,0,0,1,1.974-.343s-1.347-.158-2-.229a14.169,14.169,0,0,1-.189-1.71s-.142,1.4-.207,1.692" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

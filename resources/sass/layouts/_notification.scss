@@ -1,0 +1,225 @@
+body.active-notifications .wrapper .section {
+  width: 100%;
+  margin: 0px;
+   transition: all 0.5s ease;
+}
+
+body.active-notifications .wrapper .notifications {
+  right: 0px;
+}
+.notifications__cards__item__header--btn-clear {
+    border: none;
+    background: #4c5b7200;
+    color: #a8acb2;
+    padding: 5px 6px;
+    border-radius: 6px;
+}
+.styled-tab-notifications {
+  height: 30px;
+  align-items: center;
+  display: flex;
+  font-weight: 500;
+  width: 100%;
+  margin-right: 0;
+  border-radius: 22px;
+  justify-content: center;
+  font-size: 14px;
+  color: #fff;
+  gap: 6px;
+  cursor: pointer;
+}
+#clear_all_notification {
+    border: none;
+}
+
+.styled-tab-notifications.my-tab1.active {
+  background: #2283f6;
+}
+
+.header__badge {
+
+    .badge__notifications {
+        position: absolute;
+        background: #fa2f5c;
+    }
+}
+
+.badge__notifications {
+  background-color: #2283f6;
+  width: 18px;
+  height: 18px;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 11px;
+}
+
+.mm_header_tab_active {
+  .badge__notifications {
+    background-color: #fff;
+    color: #2283f6;
+  }
+}
+
+.notifications{
+  background: #111923;
+  position: fixed;
+  top: 50px;
+  right: -260px;
+  height: 100vh;
+  max-height: 100%;
+  transition: all 0.5s ease;
+  font-family: "Montserrat", sans-serif;
+  min-width: 240px;
+  width: 260px;
+  z-index: 10;
+  border-radius: 12px;
+
+
+  &__body__scroller {
+    padding: 0 8px;
+    max-height: 100%;
+    overflow-y: scroll;
+    position: absolute;
+    width: 100%;
+
+    &::-webkit-scrollbar {
+      background-color: transparent;
+      width: 0px;
+    }
+
+    &::-webkit-scrollbar {
+      width: 0px;
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: transparent;
+      border-radius: 22px;
+    }
+
+  }
+
+  &__cards {
+    padding-bottom: 245px;
+  }
+
+  &__top {
+    background: #202a39;
+    height: 50px;
+    justify-content: center;
+    padding: 20px 15px;
+
+    h4 {
+      font-weight: 500;
+    }
+  }
+
+  &__header {
+    padding: 10px 8px;
+
+    &__tabs {
+      display: flex;
+      align-items: center;
+      margin: 20px 0;
+      background: #202a39;
+      border-radius: 22px;
+    }
+  }
+
+  &__footer {
+    position: absolute;
+    top: calc(100% - 100px);
+    padding: 15px 0;
+    background-color: #202a39;
+    width: 100%;
+  }
+
+  &__cards {
+
+    &__item {
+      border-radius: 8px;
+      background: #202a39;
+      // padding: 15px 8px;
+      margin-bottom: 10px;
+
+      &__header {
+        margin-bottom: 8px;
+        padding: 15px 8px 5px 8px;
+
+        &--date {
+          color: #55657e;
+          font-weight: 600;
+          font-size: 13px;
+        }
+      }
+
+      &__body {
+
+        &--title {
+          font-weight: 500;
+          font-size: 15px;
+          text-align: initial;
+          margin-bottom: 10px;
+          padding: 0px 8px 0px 8px
+        }
+
+        &--img {
+          width: 100%;
+          height: 130px;
+          // border-radius: 6px;
+          overflow: overlay;
+          margin-bottom: 8px;
+        }
+
+        &--paragraphy {
+          max-width: 100%;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          font-weight: 600;
+          padding: 0px 8px 10px 8px;
+          color: #93acd3;
+          white-space: nowrap;
+          font-size: 12px;
+        }
+
+      }
+
+      &__footer {
+        background: #202a39;
+        border-top: 1px solid #2a3546;
+        width: 100%;
+        padding: 10px 8px;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+
+        &__link {
+          display: flex;
+          align-items: center;
+          gap: 7px;
+          align-items: center;
+          font-size: 14px;
+          color: #2283f6;
+          font-weight: 600;
+          background: transparent;
+          border: none;
+
+          span {
+            margin-top: 4px;
+          }
+        }
+      }
+
+    }
+  }
+
+}
+
+
+
+@media screen and (max-width: 891px) {
+    .notifications{
+        height: calc(100vh - 70px);
+    }
+}

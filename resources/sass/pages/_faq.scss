@@ -1,0 +1,60 @@
+.center__faq {
+
+    &--title {
+        font-size: clamp(14px, 3vw, 20px);
+        text-transform: uppercase;
+        font-weight: 600;
+        line-height: 40px;
+        text-align: initial;
+
+        span {
+            font-size: clamp(30px, 4vw, 54px);
+            font-weight: 800;
+        }
+    }
+
+    &--description {
+        font-size: clamp(14px, 3vw, 16px);
+        font-weight: 300;
+        margin-top: 10px;
+        color: #fff;
+        max-width: 730px;
+    }
+
+    &--image {
+        max-width: 155px;
+        width: 100%;
+        transform: rotate(21deg);
+    }
+
+
+
+    &__card {
+        background: #161f2c;
+        border-radius: 12px;
+        overflow: hidden;
+        position: sticky;
+        top: 75px;
+
+        &--link {
+            display: block;
+            width: 100%;
+            background-color: #111923;
+            padding: 15px 20px;
+            font-size: 14px;
+            font-weight: 400;
+
+            &.active {
+                background-color: $color-primary-29bet;
+            }
+        }
+    }
+}
+
+
+.faq__accordion--title {
+    font-size: clamp(17px, 2vw, 20px);
+}
+.ui-accordion .ui-accordion-header {
+    padding: 0.7em 0.7em 0.7em 0.9em;
+}

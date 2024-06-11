@@ -1,0 +1,328 @@
+
+.i_game_overlay-keno {
+  background-image: url(https://cdn.29bet.com/assets/img/game/svg/keno_overlay.svg);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  top: -4%;
+  left: 47%;
+  width: 23%;
+  height: 43%;
+  position: absolute;
+  will-change: transform;
+  transition: all 0.3s ease 0s;
+}
+.i_game-keno {
+  background-position-y: 0 !important;
+}
+.i_game-keno:hover .i_game_overlay-keno {
+  transform: translateY(-5%);
+}
+#play:disabled, #playCrash:disabled {
+    cursor: not-allowed;
+    background-color: #c9264ade;
+    box-shadow: 0 0 0 1px #fa2f5c69, 0 8px 0 0 #b91739a8, 0 8px 8px 1px #b91739a6;
+    color: #b1b5b9;
+}
+.keno_grid {
+  display: grid;
+  grid-auto-flow: column;
+  position: relative;
+  width: 100%;
+  justify-content: center;
+  grid-gap: 11px;
+  grid-template-columns: repeat(8, clamp(50px, 30vw, 68px));
+  grid-template-rows: repeat(5, 60px);
+  left: inherit;
+  transform: initial;
+
+}
+
+.keno__selected {
+  padding: 15px 0px!important;
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.keno_mul {
+  position: initial;
+  background: transparent;
+  margin-top: 25px;
+  padding: 0;
+}
+@media (max-width: 771px) {
+  .keno_grid {
+    grid-template-columns: repeat(8, 8vw);
+    grid-template-rows: repeat(5, 8vw);
+    grid-gap: 1.5vw;
+  }
+  .keno_grid div span {
+    font-size: 11px;
+  }
+}
+.keno__description {
+
+  h3 {
+    color: #5b6773;
+    font-size: clamp(13px, 3vw, 18px);
+    text-align: center;
+    font-weight: 600;
+  }
+}
+.keno_grid div {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  font-size: 21px;
+  font-weight: 600;
+  background-color: #1866c3;
+  box-shadow: #{'0px 6px 0px 0px rgb(27 72 129)'};
+  border-radius: 0.5em;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  color: #fff;
+  position: relative;
+}
+.keno_grid div:hover {
+  cursor: pointer;
+  background-color: #2283f6;
+  top: 1px;
+}
+
+@media (max-width: 991px) {
+  .keno_mul {
+    position: relative;
+    margin-top: 50px;
+    margin-left: -15px;
+    width: calc(100% + 30px);
+    margin-bottom: 10px;
+  }
+}
+
+.keno_active {
+  background: #fa305c !important;
+  box-shadow: 0px 5px 0px 0px #7f0c2b!important;
+}
+
+.keno-picked{
+  background: #083b7b!important;
+  box-shadow: 0px 6px 0px 0px #06306380!important;
+}
+.keno-correct .keno__item__number::before {
+  background-image: url(https://cdn.29bet.com/assets/img/ball.webp);
+  background-size: cover;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: clamp(25px, 4vw, 55px);
+  left: 0px;
+  margin: auto;
+  position: absolute;
+  right: 0px;
+  top: 0;
+  width: clamp(25px, 4vw, 55px);
+  z-index: 1;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.keno-correct {
+  background: transparent!important;
+  border: 4px solid #fa305c;
+  box-shadow: 0px 5px 0px 0px #7f0c2b !important;
+
+  .keno__item__number {
+
+    span {
+      color: black !important;
+      font-size: clamp(10px, 2vw, 18px);
+      font-weight: 900;
+      position: relative;
+      z-index: 2;
+    }
+
+  }
+}
+
+// .keno_active span {
+//   color: #000 !important;
+// }
+// .keno-picked {
+//   background: #a22626 !important;
+// }
+
+
+.keno-correct span,
+.keno-picked span {
+  color: #fff !important;
+}
+.buttons-2 {
+  font-size: 0;
+  margin-top: 10px;
+}
+.buttons-2 div:first-child {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+.buttons-2 div:last-child {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.buttons-2 div {
+  font-size: 15px;
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  padding: 6px;
+  transition: background .3s ease;
+  background: hsla(0,0%,100%,.1);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  color: #fff;
+}
+.game-sidebar-tabs {
+  color: #fff;
+}
+
+@media(min-width: 992px){
+      ::-webkit-scrollbar {
+          -webkit-appearance:none;
+          width:6px;
+          background-color:#242323;
+      }
+
+      ::-webkit-scrollbar-thumb {
+          border-radius:4px;
+          background-color:#636363;
+      }
+  }
+
+
+  ::-webkit-input-placeholder {
+  color:#818181;
+  font-size:16px;
+  font-weight:400;
+  }
+
+  ::-moz-placeholder {
+  color:#818181;
+  font-size:16px;
+  font-weight:400;
+  }
+
+  :-ms-input-placeholder {
+  color:#818181;
+  font-size:16px;
+  font-weight:400;
+  }
+
+  :-moz-placeholder {
+  color:#818181;
+  font-size:16px;
+  font-weight:400;
+  }
+
+// -------------------------------------------------------------------
+
+//   .outcome-window{
+//       position: absolute;
+//       z-index: 50;
+//       background: rgba(36, 35, 35, 0.92);
+//       padding: 20px 40px;
+//       border-radius: 10px;
+//       border: 2px solid #44d13a;
+//       display: none;
+//       -moz-user-select: none;
+//   -khtml-user-select: none;
+//   user-select: none;
+//   }
+//   .outcome-window-lose {
+//       position: absolute;
+//       z-index: 50;
+//       background: rgba(36, 35, 35, 0.92);
+//       padding: 20px 40px;
+//       border-radius: 10px;
+//       border: 2px solid #FF3F3F;
+//       display: none;
+//       -moz-user-select: none;
+//       -khtml-user-select: none;
+//       user-select: none;
+//   }
+//   .outcome-window-demo{
+//       position: absolute;
+//       z-index: 50;
+//       background: rgba(36, 35, 35, 0.92);
+//       padding: 20px 40px;
+//       border-radius: 10px;
+//       border: 2px solid #ffc200;
+//       display: none;
+//       -moz-user-select: none;
+//   -khtml-user-select: none;
+//   user-select: none;
+//   }
+
+//   .tip_badge {
+//       position: absolute;
+//       top: -3px;
+//       width: 100%;
+//       left: 0;
+//       text-align: center;
+//       z-index: 2;
+//   }
+//   .tip_text {
+//       background: #ffc645;
+//       display: inline-block;
+//       color: #2b313f;
+//       padding: 2px 8px;
+//       text-transform: uppercase;
+//       font-size: .7em;
+//       font-weight: 500;
+//       border-radius: 0 0 5px 5px;
+//   }
+
+//   .outcome-window__coeff{
+//       font-size: 36px;
+//       font-weight: 800;
+//       text-align: center;
+
+//   }
+//   .outcome-window__coeff-demo{
+//       font-size: 36px;
+//       font-weight: 800;
+//       text-align: center;
+
+//   }
+//   .outcome-window_won__coeff{
+//       color: #44d13a;
+//   }
+
+//   .outcome-window_won__coeff-demo {
+//       color: #ffc200;
+//   }
+
+//   .outcome-window_lose__coeff {
+//       color: #FF3F3F;
+//   }
+
+//   .outcome-window__text{
+//       color: #b4b4b4;
+//       margin-top: 3px;
+//       font-size: 13px;
+//       text-align: center;
+//       white-space: nowrap;
+//   }
+//   .outcome-window_won-wrapper{
+//       color: #44d13a;
+//       font-size: 15px;
+//       font-weight: 500;
+//   }
+
+//   .outcome-window_won-wrapper-demo {
+//       color: #ffc200;
+//       font-size: 15px;
+//       font-weight: 500;
+//   }
+

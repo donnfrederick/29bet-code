@@ -1,0 +1,355 @@
+@import '../utilities/variables';
+
+// .mine_bomb span:before, .mine_safe span:before {
+//     content: "" !important;
+// }
+// .mine_bomb:after, .mine_safe:after {
+//     content: "" !important;
+// }
+// .mine_safe {
+//     background-image: url(../img/diamond-mines.png)!important;
+//     background-size: 50px 50px !important;
+//     background-repeat: no-repeat !important;
+//     background-position: 50% 50% !important;
+// }
+// .mine_bomb {
+//     background-image: url(../img/bomb-mines.png)!important;
+//     background-size: 50px 50px !important;
+//     background-repeat: no-repeat !important;
+//     background-position: 50% 50% !important;
+// }
+// .col-lg-4{
+//     flex: 0 0 auto;
+//     width: 33.33333333%;
+//     background: #1c2433;
+//     border-radius: 10px;
+//     padding-left: 15px;
+//     padding-top: 15px;
+//     padding-right: 15px;
+// }
+.mine_safe:after {
+    background-image: url('https://cdn.29bet.com/assets/img/diamond-mines.svg');
+    content: " ";
+    background-size: cover;
+    position: absolute;
+    top: 30%;
+    right: 19%;
+    width: 40px;
+    height: 30px;
+    transform: initial;
+    font-family: none;
+    filter: drop-shadow(0 0 10px #2ddc4b);
+}
+.mine_bomb:after {
+    background-image: url('https://cdn.29bet.com/assets/img/bomb-mines.svg');
+    content: " ";
+    background-size: cover;
+    position: absolute;
+    top: 22%;
+    right: 19%;
+    width: 40px;
+    height: 35px;
+    transform: initial;
+    font-family: none;
+    filter: drop-shadow(0 0 10px #796af6);
+}
+
+.mines_grid {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(5, clamp(53px, 17vw, 70px));
+    grid-template-rows: repeat(5, clamp(48px, 13vw, 65px));
+    grid-auto-flow: column;
+    position: relative;
+    transform: initial;
+    height: 100%;
+    justify-content: center;
+    position: initial;
+    width: 100%;
+    padding-top: 15px;
+    margin-bottom: 25px;
+}
+.mine_bomb {
+    background-color: #a22626!important;
+    box-shadow: #{'0px 6px 0px 0px rgb(97 19 19)'}!important;
+    border-color:  #{'rgb(97 19 19)'}!important;
+}
+.mines_grid div {
+    background-color: #215ea8;
+    box-shadow: #{'0px 6px 0px 0px rgb(17 49 87)'};
+    border-radius: 12px;
+    border-color: #{'rgb(17 49 87)'};
+    // border-radius: 12px;
+    // box-shadow: 0px 6px 0px 0px rgb(17 49 87);
+}
+.mine_safe {
+    background-color: #3b77bf !important;
+    box-shadow: #{'0px 6px 0px 0px rgb(27 77 139)'}!important;
+    border-color: #{'rgb(17 49 87)'}!important;
+}
+.sidebar__mines__icon__bomb {
+    filter: drop-shadow(0 0 20px rgb(45,220,75));
+
+}
+.sidebar__mines__icon__diamond {
+    filter: drop-shadow(0 0 20px rgb(121,106,246));
+}
+.mines_grid .mine_safe::after {
+    content: "" !important;
+}
+.mines_grid .mine_bomb::after {
+    content: "" !important;
+}
+.mines_grid .mine_disabled {
+    text-align:center;
+}
+.mines_grid .mine_disabled::after {
+    content: "?";
+    font-size: 45px;
+    // font-weight: 800;
+    color: #ffffff52;
+    padding: 0px 20px;
+}
+.mines_jus{
+    display: flex;
+    padding-right:6rem !important;
+}
+
+
+
+.sidebar__mines {
+    top: 0;
+    transform: initial;
+    background-color: #111924;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    max-width: 105px;
+    justify-content: center;
+
+    &__icon {
+        width: clamp(35px, 9vw, 55px);
+        animation: animated-icons 5s ease-in-out infinite;
+
+    }
+
+    &__number {
+        font-size: clamp(15px, 3vw, 20px);
+        font-weight: 800;
+        font-style: italic;
+    }
+
+    &__name {
+        font-size: 9px;
+        font-weight: 900;
+        font-style: italic;
+    }
+}
+.mines__history {
+    position: initial;
+    background: transparent;
+    padding: 0px 0px 10px 0px;
+    height: initial !important;
+}
+.mines__box__history {
+    display: flex!important;
+    flex-direction: column-reverse;
+    border: 1px solid #313c50;
+    border-radius: 8px;
+    margin: 0 10px;
+}
+.games__mines {
+    margin: 0;
+}
+.number__box__history {
+    background:#222C3D;
+    margin: 0!important;
+    color: #fff!important;
+    font-weight: 700;
+    font-size: clamp(12px, 2vw, 14px);
+    padding: 5px 0px;
+    border-radius: 8px 8px 0px 0px;
+}
+p.number__wins__history {
+    color: #ffffff82!important;
+    padding: 5px 0px;
+    font-size: clamp(11px, 2vw, 15px);
+    font-weight: 500;
+}
+.play__mines {
+    padding: 15px 16px;
+    font-size: clamp(19px, 3vw, 24px);
+    background: $color-primary-29bet;
+    box-shadow: $shadow-primary-29bet;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.mines__box__history.cf_active {
+    p {
+        text-shadow: 0 0 5px #ff9d00;
+        color: #ffa000!important;
+    }
+}
+.bombs__mines div {
+    // border: 1px solid #4b5b74;
+    margin: 0 4px;
+    border-radius: 8px;
+    font-weight: 600;
+    color: #fff;
+    background: #161f2c;
+    font-size: 20px;
+    padding: 9px 21px;
+}
+.boms__container__item.bc_active {
+    background-color: $color-primary-29bet!important;
+}
+.bombs__mines div:first-child {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+div#change_bombs {
+    height: 100%;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.mines__value {
+    border: 1px solid #4b5b74;
+    background: #161f2c;
+    border-radius: 12px;
+
+    &__amount {
+        background: transparent;
+        border-bottom: 1px solid #4b5b74;
+        padding: 15px 50px;
+        font-size: 20px;
+    }
+
+    &__quantity {
+        display: inline-block;
+        background: #0d131c;
+        padding: 6px 10px;
+        font-size: 23px;
+        color: #fff;
+    }
+
+    &__rs {
+        position: absolute;
+        bottom: 16px;
+        left: 17px;
+        font-weight: 700;
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+        font-style: italic;
+    }
+
+    &__buttons {
+        bottom: 16px;
+    }
+}
+.mines__footer {
+    background: transparent;
+}
+@keyframes animated-icons {
+    0% {
+        transform: translate(0%);
+    }
+    50% {
+        transform: translate(0%, -3px);
+    }
+    100% {
+        transform: translate(0%);
+    }
+}
+
+
+@media (max-width: 390px) {
+    .history__mines {
+        top: -60px;
+        gap: 10px;
+    }
+    .mines_grid {
+        margin-top: 5px;
+        padding-top: 0px;
+        margin-bottom: 5px;
+        grid-gap: 9px 7px;
+    }
+    .history__mines {
+        scale: 0.6;
+        top: -35px !important;
+        /* justify-content: start !important; */
+    }
+    .mines__config {
+        margin-bottom: 0rem!important;
+        justify-content: end!important;
+        bottom: 1px;
+    }
+    .mines__history {
+        padding: 10px 0px;
+        height: 55px;
+    }
+    .number__box__history {
+        padding: 3px 0px;
+    }
+    p.number__wins__history {
+        padding: 3px 0;
+    }
+    .bombs_container div {
+        padding: 7px 0.9rem!important;
+    }
+    .mines_grid .mine_disabled::after{
+        font-size: 45px;
+    }
+    .mines_jus{
+        display: flex;
+        padding-right:1rem !important;
+    }
+
+}
+
+@media (min-width: 412px) {
+    .mines_grid .mine_disabled::after{
+        font-size: 55px;
+    }
+
+}
+@media (min-width: 540px) {
+    .mines_grid .mine_disabled::after{
+        font-size: 55px;
+    }
+
+}
+
+
+@media (max-width: 771px) {
+
+    .history__mines {
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        top: -45px;
+        width: 100%;
+        gap: 20px;
+    }
+    .bombs_container {
+        margin: 5px 0px 0px 7px;
+    }
+
+    .sidebar__mines {
+        background-color: initial;
+        background-image: initial!important;
+        padding: 5px;
+
+        .status__mines {
+            display: flex;
+            gap: 10px;
+        }
+        .mines_grid{
+            padding-top: 40px;
+        }
+    }
+}
+

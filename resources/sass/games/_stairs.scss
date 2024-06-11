@@ -1,0 +1,1285 @@
+.gn_game--stairs {
+  background: url('https://cdn.29bet.com/assets/img/crash/parallax-bg-space.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+    background-color: #0d131c;
+    min-height: 450px;
+    padding: 0px;
+
+}
+
+.sb_game .g_btn {
+    background: $color-primary-29bet;
+    box-shadow: $shadow-primary-29bet;
+    margin-top: 5px;
+}
+
+.stairs-block {
+    height: clamp(15px, 3vw, 20px);
+    // width: 4.1%;
+    border-radius: 5px;
+}
+
+.stairs-centered {
+    transform: translateX(2%);
+}
+
+@media (max-width:628px) {
+    .stairs-centered {
+        transform: translateX(-2%);
+    }
+
+    .stairs-row {
+        height: 21px
+    }
+
+    .stairs {
+        min-height: 370px !important
+    }
+
+    .stairs-block {
+        height: 10px;
+        width: auto;
+        margin-right: 2px
+    }
+
+    .stairs-multiplier-table {
+        width: 55px
+    }
+
+    .stairs-multiplier-table .stairs-row {
+        width: 45px;
+        font-size: 10px
+    }
+
+    .stairs-container {
+        left: 65px
+    }
+}
+
+.i_game_overlay-stairs {
+    background-image: url(https://cdn.29bet.com/assets/img/game/svg/stairs_overlay.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    top: -4%;
+    left: 47%;
+    width: 23%;
+    height: 43%;
+    position: absolute;
+    will-change: transform;
+    transition: all 0.3s ease 0s;
+}
+
+.i_game-stairs {
+    background-position-y: 0 !important;
+}
+
+.i_game-stairs:hover .i_game_overlay-stairs {
+    transform: translateY(-5%);
+}
+
+.buttons-2-selected {
+    background: $color-primary-29bet !important;
+    color: #fff;
+}
+
+.buttons-2-selected:hover {
+    opacity: .8;
+}
+
+.bc_active {
+    background-color: $color-primary-29bet !important;
+    color: #fff;
+}
+
+.bombs_container div {
+    // border: 1px solid #4b5b74;
+    margin: 0 4px;
+    border-radius: 8px;
+    font-weight: 600;
+    color: #fff;
+    background: #1C2433;
+    font-size: 20px;
+    padding: 9px 21px;
+}
+
+div#change_games {
+    height: 100%;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.bombs_container:not(.tower_container):not(.stairs_container):not(.plinko_container) div:last-child {
+    width: initial !important;
+}
+
+.stairs_mul {
+    background: none !important;
+    border: 1px solid #4b5b74;
+    border-radius: 12px;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+    position: relative;
+    display: block;
+    margin-top: 50px;
+}
+
+.stairs_grid {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(8, 10%);
+    grid-template-rows: repeat(5, 80px);
+    grid-auto-flow: column;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, calc(16% - 30px));
+    width: 100%;
+    justify-content: center;
+}
+
+.stairs_grid div {
+    background: #4986f5;
+    text-align: center;
+    border-radius: 2px;
+    transition: background-color 0.3s ease;
+}
+
+.stairs_grid div:hover {
+    cursor: pointer;
+    background: #467ce7;
+}
+
+.stairs_grid div span {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.controls .b_label {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+#cf_slick p {
+    color: $color-primary-29bet;
+}
+
+.stairs__value {
+    position: relative;
+}
+
+.game-sidebar-tab:first-child {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.game-sidebar-tab:last-child {
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.buttons-3 div:first-child {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.buttons-3 div:last-child {
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.g_sidebar_footer {
+    background: none !important;
+}
+
+.stairs_active {
+    background: #fff !important;
+}
+
+.stairs_active span {
+    color: #000 !important;
+}
+
+.stairs-picked {
+    background: #a22626 !important;
+}
+
+.stairs-correct {
+    background: #0a8 !important;
+}
+
+.stairs-correct span,
+.stairs-picked span {
+    color: #fff !important;
+}
+
+.gn_game--stairs .stairs-multiplier-table {
+    background: none;
+}
+
+.gn_game--stairs .stairs-multiplier-table .stairs-row {
+    background: #fa2f5c;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.gn_game--stairs .bombs_container {
+    display: block;
+    font-size: 7px;
+    margin-bottom: 10px;
+}
+
+.gn_game--stairs .bombs_container div {
+    margin: 10px 2px;
+    font-size: 15px;
+    padding: 8px 32px;
+    display: inline;
+}
+
+.gn_game--stairs .g_c {
+    background-color: #0d131c !important;
+}
+
+.controls .g_sidebar_footer {
+    background: none !important;
+    margin-top: 10px;
+}
+
+.controls .bombs_container {
+    display: inline-block;
+    font-size: 7px;
+    margin-bottom: 10px;
+}
+
+.controls .bombs_container div {
+    margin: 10px 6px;
+    font-size: 20px;
+    padding: 8px 32px;
+    display: inline;
+}
+
+.controls .g_sidebar_footer {
+    margin-top: 10px;
+}
+
+@media (max-width: 991px) {
+    .stairs_mul {
+        position: relative;
+        margin-top: 50px;
+        margin-left: -15px;
+        width: calc(100% + 30px);
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 771px) {
+    .stairs_grid {
+        grid-template-columns: repeat(8, 10vw);
+        grid-template-rows: repeat(5, 10vw);
+        grid-gap: 1.5vw;
+    }
+
+    .stairs_grid div span {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 650px) {
+    .stairs__value .b_input_bottom div {
+        font-size: 0.8em !important;
+    }
+
+    .stairs-row {
+        width: calc(100% - 65px);
+    }
+
+    .stairs_mul {
+        margin-top: 30px;
+    }
+
+    .stairs__controls .sb_game {
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+    }
+
+    .stairs_value .b_input {
+        font-size: 16px !important;
+    }
+
+    .stairs__controls .bombs_container div {
+        padding: 16px;
+    }
+
+    .gn_game--stairs {
+        min-height: 335px;
+    }
+
+    .stairs-multiplier-table .stairs-row {
+        width: 45px !important;
+    }
+
+}
+
+@media (max-width: 390px) {
+
+    // alien_buddy
+    .alien_walking_left,
+    .alien_walking_right,
+    .alien_buddy {
+        opacity: 1;
+        left: -8.7%;
+        top: 90%;
+
+    }
+
+    .stairs-container {
+        left: 50px;
+    }
+
+    .stairs-block {
+        border-radius: 3px;
+    }
+
+    .stairs-row {
+        width: calc(100% - 63px) !important;
+    }
+}
+
+.stairs-container {
+    position: absolute;
+    top: calc(50% + -3.5px);
+    left: 75px;
+    width: 96%;
+    transform: translateY(-50%);
+}
+
+/* hagdanan ni buddy  */
+// .stairs-ladder {
+//     background: no-repeat;
+//     bottom: 10px;
+//     height: 100%;
+//     max-width: 256px;
+//     width: auto;
+//     z-index: 4;
+//     background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/hagdanan.webp');
+//     background-size: cover;
+//     position: absolute;
+//     pointer-events: none;
+// }
+
+.stairs-ladder {
+   background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/hagdanan.webp');
+    background-size: cover;
+    position: absolute;
+    pointer-events: none
+}
+
+.box-container {
+    padding: 25px 25px 0
+}
+
+/* .bato_plataporma {
+  animation: bato_plataporma 5s linear infinite reverse;
+  transition: transform 0.3s ease;
+} */
+
+/* .bato_plataporma:hover,
+.bato_plataporma.clicked {
+  transform: scale(3);
+} */
+
+// @keyframes bato_plataporma {
+//     0% {
+//         transform: translate(0, 0);
+//     }
+
+//     25% {
+//         transform: translate(0, -2px);
+//     }
+
+//     50% {
+//         transform: translate(0, -12px);
+//     }
+
+//     75% {
+//         transform: translate(0, -2px);
+//     }
+
+//     100% {
+//         transform: translate(0, 0);
+//     }
+// }
+
+
+// .itim_na_ulap {
+//     animation: ulap 2s linear infinite, reverse_ulap 5s linear infinite;
+//     animation-fill-mode: forwards;
+// }
+
+// @keyframes ulap {
+//     0% {
+//         transform: translate(0, 0) scale(0) rotate(0);
+//     }
+
+//     25% {
+//         transform: translate(0, -5px) scale(0.5) rotate(30deg);
+//     }
+
+//     50% {
+//         transform: translate(0, -10px) scale(0.6) rotate(60deg);
+//     }
+
+//     75% {
+//         transform: translate(0, -5px) scale(0.5) rotate(30deg);
+//     }
+
+//     100% {
+//         transform: translate(0, 0) scale(0) rotate(0);
+//     }
+// }
+
+// @keyframes reverse_ulap {
+//   0% {
+//       transform: translate(0, 0) scale(0) rotate(0);
+//   }
+
+//   25% {
+//       transform: translate(0, -5px) scale(0.5) rotate(30deg);
+//   }
+
+//   50% {
+//       transform: translate(0, -10px) scale(0.6) rotate(60deg);
+//   }
+
+//   75% {
+//       transform: translate(0, -5px) scale(0.5) rotate(30deg);
+//   }
+
+//   100% {
+//       transform: translate(0, 0) scale(0) rotate(0);
+//   }
+// }
+
+// @keyframes lightning {
+//     0% {
+//         opacity: 0;
+//     }
+
+//     25%,
+//     50%,
+//     75% {
+//         opacity: 1;
+//     }
+
+//     100% {
+//         opacity: 0;
+//     }
+// }
+
+
+/* Common styles for the character */
+.alien_walking_left,
+.alien_walking_right,
+.alien_idle,
+.alien_buddy {
+    display: block;
+    left: 0%;
+    top: 97%;
+    /* max-width: 34px; */
+    /* max-height: 39px; */
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 7;
+    background-size: 100% 100%;
+
+}
+
+@media (max-width:390px) {
+    .alien_idle {
+        left: -7.2%;
+        top: 93%;
+    }
+}
+
+@media (max-width:430px) {
+  .alien_idle {
+    left: -25px;
+    top: 314px;
+  }
+}
+
+
+/* Common styles for position and animation */
+.stairs-centered .alien_buddy {
+    transition: left 1s ease, top 1s ease, transform 1s ease;
+}
+
+/* Idle animation */
+.alien_idle {
+    visibility: visible;
+    opacity: 1;
+    // left: 0%;
+    // top: 97%;
+    background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/1.webp');
+    animation: walking_idle 1s linear infinite reverse;
+}
+
+/* Walking left animation */
+.alien_walking_right {
+    left: -3%;
+    top: 93%;
+    background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left_to_right/1.webp');
+    animation: walking_right 1s infinite;
+}
+
+/* Walking right animation */
+.alien_walking_left {
+    left: -3%;
+    top: 93%;
+    background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/1.webp');
+    animation: walking_left 1s infinite;
+}
+
+/* Climbing animation */
+.alien_climbing {
+    left: -3%;
+    top: 93%;
+    background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/1.webp');
+    animation: climbing_animation 1s infinite;
+}
+
+.alien_hurt {
+    left: -3%;
+    top: 93%;
+    background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/hurt/1.webp');
+    animation: hurt_animation 1s infinite;
+    transition: none;
+}
+
+// deat explosion effet
+.explosion_death{
+  animation: explosion_animation 1s linear infinite;
+  transition: none;
+}
+// explosion frames section
+@keyframes explosion_animation {
+  0%, 100% {
+    background-image: url('https://cdn.29bet.com/assets/img/crash/1.webp');
+    transform: scale(0.5);
+  }
+  16.666% {
+    background-image: url('https://cdn.29bet.com/assets/img/crash/2.webp');
+    transform: scale(0.9);
+  }
+  33.333% {
+    background-image: url('https://cdn.29bet.com/assets/img/crash/3.webp');
+    transform: scale(1.3);
+  }
+  50% {
+    background-image: url('https://cdn.29bet.com/assets/img/crash/4.webp');
+    transform: scale(1);
+  }
+  66.666% {
+    background-image: url('https://cdn.29bet.com/assets/img/crash/5.webp');
+    transform: scale(1);
+  }
+  83.333% {
+    background-image: url('https://cdn.29bet.com/assets/img/crash/6.webp');
+    transform: scale(0.5);
+  }
+}
+
+
+/* alien_climbing */
+@keyframes climbing_animation {
+
+    0%,
+    100% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/1.webp');
+    }
+
+    11.1% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/2.webp');
+    }
+
+    22.2% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/3.webp');
+    }
+
+    33.3% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/4.webp');
+    }
+
+    44.4% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/5.webp');
+    }
+
+    55.5% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/6.webp');
+    }
+
+    66.6% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/7.webp');
+    }
+
+    77.7% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/8.webp');
+    }
+
+    88.8% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/climb/9.webp');
+    }
+}
+
+/* walking idle */
+@keyframes walking_idle {
+
+    0%,
+    100% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/1.webp');
+    }
+
+    14.2857% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/2.webp');
+    }
+
+    28.5714% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/3.webp');
+    }
+
+    42.8571% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/4.webp');
+    }
+
+    57.1428% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/5.webp');
+    }
+
+    71.4285% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/6.webp');
+    }
+
+    85.7142% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/7.webp');
+    }
+
+    100% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_idle/8.webp');
+    }
+}
+
+/* walking left to right */
+@keyframes walking_left {
+
+    0%,
+    100% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/1.webp');
+    }
+
+    11.1% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/2.webp');
+    }
+
+    22.2% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/3.webp');
+    }
+
+    33.3% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/4.webp');
+    }
+
+    44.4% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/5.webp');
+    }
+
+    55.5% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/6.webp');
+    }
+
+    66.6% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/7.webp');
+    }
+
+    77.7% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/8.webp');
+    }
+
+    88.8% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_left/9.webp');
+    }
+}
+
+/* walking right to left */
+@keyframes walking_right {
+
+    0%,
+    100% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/1.webp');
+    }
+
+    11.1% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/2.webp');
+    }
+
+    22.2% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/3.webp');
+    }
+
+    33.3% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/4.webp');
+    }
+
+    44.4% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/5.webp');
+    }
+
+    55.5% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/6.webp');
+    }
+
+    66.6% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/7.webp');
+    }
+
+    77.7% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/8.webp');
+    }
+
+    88.8% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/walking_right/9.webp');
+    }
+}
+
+/* hurt animaiton */
+@keyframes hurt_animation {
+    0% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/hurt/1.webp');
+    }
+
+    20% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/hurt/2.webp');
+    }
+
+    40% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/hurt/3.webp');
+    }
+
+    60% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/hurt/4.webp');
+    }
+
+    80% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/hurt/5.webp');
+    }
+
+    100% {
+        background-image: url('https://cdn.29bet.com/asset-uat/img/stairs/character_sprites/hurt/1.webp');
+    }
+}
+
+.stairs-block:hover {
+    background: #2b92cd;
+    cursor: pointer
+}
+
+/* TODO Change the background to more dynamic assets */
+// pang apply ng grayscle sa row pag disabled
+.stairs-block.stairs-block-disabled:not(.stairs-good) {
+    filter: grayscale(100%);
+    cursor: not-allowed !important;
+}
+
+.stairs-block.stairs-good,
+.stairs-block.stairs-bad {
+    filter: grayscale(0%) !important;
+}
+
+.stairs-block.stairs-good {
+    background: #27ae60 !important;
+}
+
+.stairs-block.stairs-bad {
+    background: #a22626 !important;
+}
+
+
+
+/* button sa stairs */
+/* .btn-class-stairs {
+  --primary: 255, 90, 120;
+  --secondary: 150, 50, 60;
+  width: 60%;
+  height: 50px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  user-select: none;
+  touch-action: manipulation;
+  outline: 10px solid rgb(var(--primary), .5);
+  border-radius: 10px;
+  position: relative;
+  transition: .3s;
+}
+
+.btn-class-stairs .back {
+  background: rgb(var(--secondary));
+  border-radius: 10px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.btn-class-stairs .front {
+  background: linear-gradient(0deg, rgba(var(--primary), .6) 20%, rgba(var(--primary)) 50%);
+  box-shadow: 0 .5em 1em -0.2em rgba(var(--secondary), .5);
+  border-radius: 10px;
+  position: absolute;
+  border: 1px solid rgb(var(--secondary));
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  font-family: inherit;
+  transform: translateY(-15%);
+  transition: .15s;
+  color: rgb(var(--secondary));
+}
+
+.btn-class-stairs:active .front {
+  transform: translateY(0%);
+  box-shadow: 0 0;
+} */
+
+
+/* butotn part 2 */
+.button_stairs {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.button_stairs .btn_stairs {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button_stairs .btn_stairs a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+    padding: 10px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    overflow: hidden;
+    color: #fff;
+    font-weight: 400px;
+    z-index: 1;
+    transition: 0.5s;
+    backdrop-filter: blur(15px);
+}
+
+.button_stairs .btn_stairs:hover a {
+    letter-spacing: 3px;
+}
+
+.button_stairs .btn_stairs a::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0.15), transparent);
+    transform: skewX(45deg) translate(0);
+    transition: 0.5s;
+    filter: blur(0px);
+}
+
+.button_stairs .btn_stairs:hover a::before {
+    transform: skewX(45deg) translate(200px);
+}
+
+.button_stairs .btn_stairs::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    bottom: -5px;
+    width: 30px;
+    height: 10px;
+    background: #f00;
+    border-radius: 10px;
+    transition: 0.5s;
+    transition-delay: 0.5;
+}
+
+.button_stairs .btn_stairs:hover::before
+
+/*lightup button*/
+    {
+    bottom: 0;
+    height: 50%;
+    width: 80%;
+    border-radius: 30px;
+}
+
+.button_stairs .btn_stairs::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    top: -5px;
+    width: 30px;
+    height: 10px;
+    background: #f00;
+    border-radius: 10px;
+    transition: 0.5s;
+    transition-delay: 0.5;
+}
+
+.button_stairs .btn_stairs:hover::after
+
+/*lightup button*/
+    {
+    top: 0;
+    height: 50%;
+    width: 80%;
+    border-radius: 30px;
+}
+
+.button_stairs .btn_stairs:nth-child(1)::before,
+.button_stairs .btn_stairs:nth-child(1)::after {
+    background: #1eff45;
+    box-shadow: 0 0 5px #1eff45, 0 0 15px #1eff45, 0 0 30px #1eff45,
+        0 0 60px #1eff45;
+}
+
+
+// button attributes
+
+.btn-stairs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%rem;
+  overflow: hidden;
+  height: 4rem;
+  background-size: 300% 300%;
+  backdrop-filter: blur(1rem);
+  border-radius: 15px;
+  transition: 0.5s;
+  animation: gradient_301 5s ease infinite;
+  border: double 4px transparent;
+  background-image: linear-gradient(#212121, #212121),  linear-gradient(137.48deg, #ffdb3b 10%,#FE53BB 45%, #8F51EA 67%, #0044ff 87%);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  }
+
+  #container-stars {
+    right: 58px;
+    position: absolute;
+    width: 87%;
+    height: 100%;
+    overflow: hidden;
+    transition: 0.5s;
+    backdrop-filter: blur(1rem);
+    border-radius: 10px;
+  }
+
+
+  #glow {
+  position: absolute;
+  display: flex;
+  width: 12rem;
+  }
+
+  .circle {
+  width: 100%;
+  height: 40px;
+  filter: blur(2rem);
+  animation: pulse_3011 4s infinite;
+  z-index: -1;
+  }
+
+  .circle:nth-of-type(1) {
+  background: rgba(254, 83, 186, 0.636);
+  }
+
+  .circle:nth-of-type(2) {
+  background: rgba(142, 81, 234, 0.704);
+  }
+
+  .btn-stairs:hover #container-stars {
+  z-index: 1;
+  background-color: #1C2433;
+  }
+
+
+  // star properties
+  // .btn:hover {
+  // transform: scale(1)
+  // }
+  .btn-stairs:hover #bet_btn {
+    z-index: 2;
+  }
+  .btn-stairs:active {
+  border: double 4px #FE53BB;
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  animation: none;
+  }
+
+  .btn-stairs:active .circle {
+  background: #FE53BB;
+  }
+
+  @keyframes gradient_301 {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+  }
+
+  @keyframes pulse_3011 {
+  0% {
+    transform: scale(0.75);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+  }
+
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+  }
+
+  100% {
+    transform: scale(0.75);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+  }
+  }
+
+// apoy
+@keyframes scaleUpDown {
+    0%, 100% {
+      transform: scaleY(1) scaleX(1);
+    }
+
+    50%, 90% {
+      transform: scaleY(1.1);
+    }
+
+    75% {
+      transform: scaleY(0.95);
+    }
+
+    80% {
+      transform: scaleX(0.95);
+    }
+  }
+
+  @keyframes shake {
+    0%, 100% {
+      transform: skewX(0) scale(1);
+    }
+
+    50% {
+      transform: skewX(5deg) scale(0.9);
+    }
+  }
+
+  @keyframes particleUp {
+    0% {
+      opacity: 0;
+    }
+
+    20% {
+      opacity: 1;
+    }
+
+    80% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+      top: -100%;
+      transform: scale(0.5);
+    }
+  }
+
+  @keyframes glow {
+    0%, 100% {
+      background-color: #ef5a00;
+    }
+
+    50% {
+      background-color: #ff7800;
+    }
+  }
+
+  .fire {
+    top: 2px;
+    max-height: 51%;
+    max-width: 4%;
+    position: relative;
+    /* top: calc(100% - 16px); */
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 9px;
+  }
+
+  .fire-center {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    animation: scaleUpDown 3s ease-out;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+  }
+
+  .fire-center .main-fire {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(farthest-corner at 10px 0, #d43300 0%, #ef5a00 95%);
+    transform: scaleX(0.8) rotate(45deg);
+    border-radius: 0 40% 60% 40%;
+    filter: drop-shadow(0 0 10px #d43322);
+  }
+
+  .fire-center .particle-fire {
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    width: 10px;
+    height: 10px;
+    background-color: #ef5a00;
+    border-radius: 50%;
+    filter: drop-shadow(0 0 10px #d43322);
+    animation: particleUp 2s ease-out 0;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+  }
+
+  .fire-right {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    animation: shake 2s ease-out 0;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+  }
+
+  .fire-right .main-fire {
+    position: absolute;
+    top: 15%;
+    right: -25%;
+    width: 80%;
+    height: 80%;
+    background-color: #ef5a00;
+    transform: scaleX(0.8) rotate(45deg);
+    border-radius: 0 40% 60% 40%;
+    filter: drop-shadow(0 0 10px #d43322);
+  }
+
+  .fire-right .particle-fire {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    width: 15px;
+    height: 15px;
+    background-color: #ef5a00;
+    transform: scaleX(0.8) rotate(45deg);
+    border-radius: 50%;
+    filter: drop-shadow(0 0 10px #d43322);
+    animation: particleUp 2s ease-out 0;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+  }
+
+  .fire-left {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    animation: shake 3s ease-out 0;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+  }
+
+  .fire-left .main-fire {
+    position: absolute;
+    top: 15%;
+    left: -20%;
+    width: 80%;
+    height: 80%;
+    background-color: #ef5a00;
+    transform: scaleX(0.8) rotate(45deg);
+    border-radius: 0 40% 60% 40%;
+    filter: drop-shadow(0 0 10px #d43322);
+  }
+
+  .fire-left .particle-fire {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    width: 10%;
+    height: 10%;
+    background-color: #ef5a00;
+    border-radius: 50%;
+    filter: drop-shadow(0 0 10px #d43322);
+    animation: particleUp 3s infinite ease-out 0;
+    animation-fill-mode: both;
+  }
+
+  .fire-bottom .main-fire {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    width: 75%;
+    height: 75%;
+    background-color: #ff7800;
+    transform: scaleX(0.8) rotate(45deg);
+    border-radius: 0 40% 100% 40%;
+    filter: blur(10px);
+    animation: glow 2s ease-out 0;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+  }
+

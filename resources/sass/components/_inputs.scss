@@ -1,0 +1,31 @@
+.login_fields .icon {
+    opacity: 1!important;
+    color: #3f516c;
+    position: absolute;
+    z-index: 1;
+    left: 25px;
+    top: 32px;
+    transform: translateY(-50%);
+}
+.login_fields input[type="text"], body .login_fields input[type="password"] {
+    color: #ffffff94;
+    width: 100%;
+    background: #2a35460d;
+    padding: 15px 65px;
+    border: 1px solid #2a3546;
+    margin: 8px 0px;
+    border-radius: 12px;
+    transition: 0.4s;
+
+    &:hover {
+        border: 1px solid #fa2f5c;
+    }
+
+    &:focus {
+        border: 1px solid #fa2f5c;
+    }
+}
+.register-email-info {
+    top: 50%;
+    color: #3f516c;
+}

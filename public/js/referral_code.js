@@ -1,0 +1,1 @@
+$.on("/".concat($.currentRoute()),function(){});

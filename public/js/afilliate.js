@@ -1,0 +1,1 @@
+$.on("/afilliate",function(){});

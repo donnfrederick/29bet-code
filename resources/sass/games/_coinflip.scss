@@ -1,0 +1,1130 @@
+.gn_game--coin {
+  height: 77%;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  font: 5vmin / 1.3 Serif;
+  overflow: hidden;
+  background: #043400;
+  border-radius: 15px;
+}
+// media section
+@media(min-width:650px){
+    .container{
+        max-width: 720px;
+    }
+}
+// .coinflip__status {
+//     top: 55%;
+// }
+
+.coin {
+    display: block !important;
+}
+
+@keyframes move {
+    from {
+        transform: rotate(0deg) scale(12) translateX(-20px);
+    }
+
+    to {
+        transform: rotate(360deg) scale(18) translateX(20px);
+    }
+}
+
+.side-a {
+    font-size: 200px;
+    width: 100%;
+    height: 1em;
+    margin: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform-style: preserve-3d;
+    background: url(https://cdn.29bet.com/assets/img/all/pages/games/coin-red.webp) top center no-repeat;
+    background-size: contain;
+}
+
+.coin.active {
+    background: #{'hsl(346.7deg 95.31% 58.24% / 43%)'};
+}
+
+.coin.active span {
+    color: white;
+    font-weight: 600;
+}
+
+.side-b {
+    font-size: 200px;
+    width: 100%;
+    height: 1em;
+    margin: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform-style: preserve-3d;
+    background: url(https://cdn.29bet.com/assets/img/all/pages/games/coin-black.webp) top center no-repeat;
+    background-size: contain;
+}
+
+.coinflip__historic {
+    background: transparent;
+}
+
+#coin {
+    width: 180px;
+    height: 180px;
+}
+
+.gn_game--coin .cf_s {
+    font-family: "Montserrat", sans-serif;
+}
+
+.cf_red {
+    // background: #b00;
+    background: url(https://cdn.29bet.com/assets/img/all/pages/games/coin-red.webp) top center no-repeat;
+    background-size: contain;
+}
+
+.cf_black {
+    // background: #3e3e3e;
+    background: url(https://cdn.29bet.com/assets/img/all/pages/games/coin-black.webp) top center no-repeat;
+    background-size: contain;
+}
+
+.gn_game--coin .cf_history {
+    height: 60px;
+    z-index: 1;
+    top: 0px;
+    padding: 3px 3px;
+    border-bottom: 4px solid #ffffff;
+    background: transparent;
+}
+
+.gn_game--coin #coin {
+    z-index: 2;
+}
+
+.gn_game--coin .cf_status {
+    font-family: "Montserrat", sans-serif;
+    left: 0px;
+}
+
+.gn_game--coin .lose-ribbon {
+    background: #E91E63;
+}
+
+.gn_game--coin .lose-ribbon:after,
+.gn_game--coin .lose-ribbon:before {
+    border: 1.5em solid #e91e63;
+}
+
+.coinflip__series {
+    left: 15px;
+    top: 50%;
+}
+
+.coinflip__coeficient {
+    right: 15px;
+    top: 50%;
+}
+
+.gn_game--coin .cf_s span {
+    font-size: 34px;
+    font-weight: bold;
+    color: #c8c8c8;
+}
+
+.gn_game--coin .cf_s p {
+    color: #c8c8c8;
+    font-size: 14px;
+}
+
+.border-gradient {
+    border: 14px solid;
+    border-image-slice: 1;
+}
+
+.border-gold {
+    // border-image-source: linear-gradient(to left, #a75800, #ffc301);
+    border-image-source: linear-gradient(to left, #ff195b, #fc144e);
+}
+
+.head-coin {
+    position: absolute;
+    top: -60px;
+    left: 0px;
+    z-index: 3;
+    text-align: center;
+    width: 100%;
+}
+
+.foot-coin {
+    position: absolute;
+    bottom: -45px;
+    left: 0px;
+    z-index: 2;
+    text-align: center;
+    width: 100%;
+    display: none;
+}
+
+@media (max-width: 650px) {
+
+    #coin {
+        width: 110px;
+        height: 110px;
+    }
+
+    .gn_game--coin .ribbon-wide {
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width: 450px) {
+
+    .gn_game--coin .ribbon-wide {
+        font-size: 12px !important;
+    }
+}
+
+//   kamay ni mecky
+
+.hand {
+
+  top: 74px;
+  scale: .8;
+  --skin-color: #e4c97f;
+  --tap-speed: 0.6s;
+  --tap-stagger: 0.1s;
+  position: relative;
+  width: 78px;
+  height: 60px;
+  left: 84%;
+
+    // margin-left: 449px;
+}
+
+
+@media (max-width:350px) {
+    .hand {
+        left: 76%;
+    }
+}
+
+@media(max-width:430px) {
+    .hand {
+        left: 81%;
+    }
+}
+
+@media(max-width:560px) {
+    .hand {
+        left: 86%;
+    }
+}
+
+
+.hand:before {
+    content: "";
+    display: block;
+    width: 180%;
+    height: 75%;
+    position: absolute;
+    top: 70%;
+    right: 20%;
+    background-color: black;
+    border-radius: 40px 10px;
+    filter: blur(10px);
+    opacity: 0.3;
+}
+
+.palm {
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--skin-color);
+    border-radius: 10px 40px;
+}
+
+.thumb {
+    position: absolute;
+    width: 120%;
+    height: 38px;
+    background-color: var(--skin-color);
+    bottom: -18%;
+    right: 1%;
+    transform-origin: calc(100% - 20px) 20px;
+    transform: rotate(-20deg);
+    border-radius: 30px 20px 20px 10px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+    border-left: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.thumb:after {
+    width: 20%;
+    height: 60%;
+    content: "";
+    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    bottom: -8%;
+    left: 5px;
+    border-radius: 60% 10% 10% 30%;
+    border-right: 2px solid rgba(0, 0, 0, 0.05);
+}
+
+.index-finger {
+    position: absolute;
+    width: 80%;
+    height: 35px;
+    background-color: var(--skin-color);
+    bottom: 32%;
+    right: 64%;
+    transform-origin: 100% 20px;
+    animation-duration: calc(var(--tap-speed) * 2);
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    transform: rotate(10deg);
+}
+
+.index-finger:before {
+    content: "";
+    position: absolute;
+    width: 140%;
+    height: 30px;
+    background-color: var(--skin-color);
+    bottom: 8%;
+    right: 65%;
+    transform-origin: calc(100% - 20px) 20px;
+    transform: rotate(-60deg);
+    border-radius: 20px;
+}
+
+.index-finger:nth-child(1) {
+    animation-delay: 0;
+    filter: brightness(70%);
+    animation-name: tap-upper-1;
+}
+
+.index-finger:nth-child(2) {
+    animation-delay: var(--tap-stagger);
+    filter: brightness(80%);
+    animation-name: tap-upper-2;
+}
+
+.index-finger:nth-child(3) {
+    animation-delay: calc(var(--tap-stagger) * 2);
+    filter: brightness(90%);
+    animation-name: tap-upper-3;
+}
+
+.index-finger:nth-child(4) {
+    animation-delay: calc(var(--tap-stagger) * 3);
+    filter: brightness(100%);
+    animation-name: tap-upper-4;
+}
+
+.wrist {
+    content: "";
+    // border-top-radius: 10px;
+    position: absolute;
+    width: 140%;
+    height: 105%;
+    background-color: var(--skin-color);
+    bottom: 10%;
+    right: -100%;
+    left: 40%;
+    transform-origin: calc(100% - 20px) 20px;
+    transform: rotate(-9deg);
+    border-radius: 25px;
+}
+
+@keyframes tap-upper-1 {
+
+    0%,
+    50%,
+    100% {
+        transform: rotate(10deg) scale(0.4);
+    }
+
+    40% {
+        transform: rotate(50deg) scale(0.4);
+    }
+}
+
+@keyframes tap-upper-2 {
+
+    0%,
+    50%,
+    100% {
+        transform: rotate(10deg) scale(0.6);
+    }
+
+    40% {
+        transform: rotate(50deg) scale(0.6);
+    }
+}
+
+@keyframes tap-upper-3 {
+
+    0%,
+    50%,
+    100% {
+        transform: rotate(10deg) scale(0.8);
+    }
+
+    40% {
+        transform: rotate(50deg) scale(0.8);
+    }
+}
+
+@keyframes tap-upper-4 {
+
+    0%,
+    50%,
+    100% {
+        transform: rotate(10deg) scale(1);
+    }
+
+    40% {
+        transform: rotate(50deg) scale(1);
+    }
+}
+
+
+
+// 3D coin
+/* Coin Flip Container */
+
+
+// .coin_flip {
+//   scale: 0.4;
+//   font-size: 200px;
+//   width: 0.1em;
+//   height: 1em;
+//   background: linear-gradient(#faa504, #141001);
+//   margin: auto;
+//   position: relative;
+//   top: 17px;
+//   left: 17px;
+//   right: 0;
+//   bottom: 0;
+//   transform-style: preserve-3d;
+//   animation: rotate_only 4s forwards;
+// //   animation: rotate_only 2s cubic-bezier(0.68, 0.05, 1, 1.4) forwards;
+//   transition: transform 2s cubic-bezier(0.68, 0.05, 1, 1.4);
+
+
+// }
+
+// .coin_flip.final-state {
+//   animation: none;
+//   transform: rotateY(var(--final-rotation)) scale(1);
+//   transition: transform 2s cubic-bezier(0.68, 0.05, 1, 1.4);
+// }
+//   .coin_flip {
+//     --final-rotation: 0;
+
+//   }
+//   // pang update ng rotation flip
+//   @keyframes rotate_only {
+//     0% {
+//       visibility: hidden;
+//     }
+//     100% {
+//       visibility: visible;
+//     //   transform: scale(2) rotateY(-14400deg) rotateY(var(--final-rotation)) translate(0, -120px);
+//       transform: scale(2) rotateY(-720deg) rotateY(var(--final-rotation)) translate(0, -120px);
+//     }
+//   }
+// /* Add a new keyframe animation for the smooth transition back */
+// @keyframes return_to_original {
+//   0% {
+//     transform: scale(2) rotateY(var(--final-rotation)) translateY(-200px);
+//   }
+//   100% {
+//     transform: scale(1) rotateY(var(--final-rotation)) translateY(0);
+//   }
+// }
+
+// /* Apply the return_to_original animation in the final-state */
+// .coin_flip.final-state {
+//   animation: none;
+//   transform: rotateY(var(--final-rotation));
+//   animation: return_to_original 2s forwards;
+// }
+
+// /* Coin Face */
+// .head_coin {
+//   background: cover;
+//   width: 100%;
+//   height: 100%;
+// }
+
+// /* Coin Sides and Faces */
+// .coin_flip .side,
+// .coin_flip:before,
+// .coin_flip:after {
+//   content: "";
+//   position: absolute;
+//   width: 1em;
+//   height: 1em;
+//   overflow: hidden;
+//   border-radius: 50%;
+//   left: -101px;
+//   text-align: center;
+//   line-height: 1;
+//   transform: rotateY(-90deg);
+//   -moz-backface-visibility: hidden;
+//   -webkit-backface-visibility: hidden;
+//   backface-visibility: hidden;
+
+// }
+
+// /* Tails Side */
+// .coin_flip .tails_red,
+// .coin_flip:after {
+//   left: -79px;
+//   transform: rotateY(90deg) ;
+// }
+
+// /* Heads and Tails Faces */
+// .coin_flip:before,
+// .coin_flip:after {
+//   background: linear-gradient(#faa504, #141001);
+//   backface-visibility: hidden;
+//   transform: rotateY(90deg);
+// }
+
+// /* Black Head */
+// .coin_flip .head_black,
+// .coin_flip:after {
+//   transform: rotateY(-90deg);
+// }
+
+// .coin_flip.final-state {
+//   animation: none;
+//   transform: rotateY(var(--final-rotation));
+// }
+
+.coin_flip {
+    scale: 0.4;
+    font-size: 200px;
+    width: 0.1em;
+    height: 1em;
+    background: linear-gradient(#faa504, #141001);
+    margin: auto;
+    position: relative;
+    top: 17px;
+    left: 17px;
+    right: 0;
+    bottom: 0;
+    transform-style: preserve-3d;
+    animation: rotate_only 2s forwards cubic-bezier(0.68, 0.05, 1, 1.4);
+  }
+  .coin_flip{
+    --final-rotation: 0;
+  }
+  @keyframes rotate_only {
+    0% {
+      visibility: hidden;
+      transform: scale(1) rotateY(0) translateY(0px);
+    }
+    100% {
+      visibility: visible;
+      transform: scale(2) rotateY(-1080deg) rotateY(var(--final-rotation)) translateY(-120px);
+    }
+  }
+
+  .coin_flip.final-state {
+    animation: none;
+    transform: rotateY(var(--final-rotation)) scale(1);
+  }
+
+  .head_coin {
+    background: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  .coin_flip .side,
+  .coin_flip:before,
+  .coin_flip:after {
+    content: "";
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    overflow: hidden;
+    border-radius: 50%;
+    left: -101px;
+    text-align: center;
+    line-height: 1;
+    transform: rotateY(-90deg);
+    backface-visibility: hidden;
+  }
+
+  .coin_flip .tails_red,
+  .coin_flip:after {
+    left: -79px;
+    transform: rotateY(90deg);
+  }
+
+  .coin_flip:before,
+  .coin_flip:after {
+    background: linear-gradient(#faa504, #141001);
+    transform: rotateY(90deg);
+  }
+
+  .coin_flip .head_black,
+  .coin_flip:after {
+    transform: rotateY(-90deg);
+  }
+
+.coin_flip.final-state {
+  animation: none;
+  transform: rotateY(var(--final-rotation));
+}
+
+
+// coin_idle attributes 270 black 90 red
+
+// pangalawang kamay
+.hand_2 {
+
+  scale: 0.66;
+  --skin-color: #e4c97f;
+  --tap-speed: 0.6s;
+  --tap-stagger: 0.1s;
+  position: absolute;
+  width: 80px;
+  height: 60px;
+  left: 91%;
+  top: 11%;
+  animation-name: usod_animation;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  transform: rotate(338deg) translate(-12%, -20px);
+  }
+  .hand_2:before {
+    content: "";
+    display: block;
+    width: 180%;
+    height: 75%;
+    position: absolute;
+    top: 70%;
+    right: 20%;
+    background-color: black;
+    border-radius: 40px 10px;
+    filter: blur(10px);
+    opacity: 0.3;
+  }
+  .palm_2 {
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--skin-color);
+    border-radius: 20px 50px;
+  }
+  .thumb_2 {
+    z-index: 5;
+    position: absolute;
+    width: 120%;
+    height: 38px;
+    background-color: var(--skin-color);
+    bottom: -18%;
+    right: 1%;
+    transform-origin: calc(100% - 20px) 20px;
+    transform: rotate(-50deg);
+    border-radius: 30px 20px 20px 10px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+    border-left: 2px solid rgba(0, 0, 0, 0.1);
+  }
+  .thumb_2:after {
+    width: 20%;
+    height: 50%;
+    content: "";
+    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    bottom: -8%;
+    left: 5px;
+    border-radius: 60% 10% 10% 30%;
+    border-right: 2px solid rgba(0, 0, 0, 0.05);
+  }
+  .index-finger_2 {
+    position: absolute;
+    width: 90%;
+    height: 33px;
+    background-color: var(--skin-color);
+    bottom: 32%;
+    right: 64%;
+    transform-origin: calc(100% - 5px);
+    animation-duration: calc(var(--tap-speed) * 2);
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+    transform: rotate(-50deg);
+  }
+  .index-finger_2:before {
+    content: "";
+    position: absolute;
+    width: 140%;
+    height: 30px;
+    background-color: var(--skin-color);
+    bottom: 8%;
+    right: 75%;
+    transform-origin: calc(100% - 15px) 15px;
+    transform: rotate(-20deg);
+    border-radius: 20px;
+    animation-name: rotate-finger;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1; //set to 1
+    animation-fill-mode: forwards;
+  }
+
+  @keyframes rotate-finger {
+    100% {
+      transform: rotate(-80deg);
+    }
+  }
+  /* second animation for thumb *grab* */
+  .thumb_2 {
+    animation-name: thumb_animation;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1; //set to 1
+    animation-fill-mode: forwards;
+    animation-delay: 0;
+    transform: rotate(-41deg);
+  }
+//   pang flick
+  .thumb_2_flick {
+    animation-name:thumb_flick ;
+    animation-duration: 0.3s;
+    // animation-timing-function: ease-in-out;
+    animation-iteration-count: 1; //set to 1
+    animation-fill-mode: forwards;
+    animation-delay: 0;
+    transform: rotate(-10deg);
+  }
+
+  @keyframes thumb_flick{
+
+    100%{
+        transform: rotate(-41deg) ;
+    }
+    0%{
+        transform: rotate(-10deg);
+    }
+  }
+
+  @keyframes thumb_animation {
+    100% {
+      transform: rotate(-10deg);
+    }
+  }
+  // animation section ro usod_animation
+  @keyframes usod_animation{
+    100%{
+       left: 56%;
+       transform:translate(10%, 179px);
+
+    }
+  }
+  /*for the flick animations */
+//   @keyframes thumb_flick_animation {
+//     100% {
+//       transform: rotate(-10deg) scale(1);
+//     }
+//   }
+
+  .index-finger_2:nth-child(1) {
+    animation-delay: 0;
+    filter: brightness(70%);
+    animation-name: finger-1;
+    transform: rotate(-20deg) scale(0.7);
+  }
+  .index-finger_2:nth-child(2) {
+    animation-delay: var(--tap-stagger);
+    filter: brightness(80%);
+    animation-name: finger-2;
+    transform: rotate(-10deg) scale(0.8);
+  }
+  .index-finger_2:nth-child(3) {
+    animation-delay: calc(var(--tap-stagger) * 2);
+    filter: brightness(90%);
+    animation-name: finger-3;
+    transform: rotate(10deg) scale(0.9);
+  }
+  .index-finger_2:nth-child(4) {
+    animation-delay: calc(var(--tap-stagger) * 3);
+    filter: brightness(100%);
+    animation-name: finger-4;
+    transform: rotate(-320deg);
+  }
+  .wrist_2 {
+    content: "";
+    position: absolute;
+    width: 337%;
+    height: 105%;
+    background-color: var(--skin-color);
+    bottom: 56%;
+    right: -100%;
+    left: 40%;
+    transform-origin: calc(100% - 20px) 20px;
+    transform: rotate(-10deg);
+    border-radius: 35px
+  }
+
+
+.coin_section, .coin_pang_kamay{
+   visibility: hidden;
+    max-width: 256px;
+    max-height: 256px;
+    width: 39%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    display: block;
+    border-radius: 50%;
+    box-shadow: 1px 2px 3px 0 #14100173;
+}
+
+.unang_kamay{
+    visibility: visible;
+}
+.pangalawang_kamay{
+    display: none;
+}
+// arch section
+.arch_border {
+    z-index: 0;
+    background-image: url(https://cdn.29bet.com/assets/img/coinflip/arch.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 65%;
+    position: absolute;
+    top: 95%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+}
+/* Styles for devices up to 767px (typical mobile phones) */
+@media only screen and (max-width: 767px) {
+
+  .coin_flip {
+
+    scale: 0.3;
+    font-size: 200px;
+    width: 0.1em;
+    height: 1em;
+    background: linear-gradient(#faa504, #141001);
+    margin: auto;
+    position: relative;
+    top: -24px;
+    left: 11px;
+    right: 0;
+    bottom: 0;
+    transform-style: preserve-3d;
+    animation: rotate_only 4s forwards;
+    // animation: rotate_only 2s cubic-bezier(0.68, 0.05, 1, 1.4) forwards;
+    transition: transform 2s cubic-bezier(0.68, 0.05, 1, 1.4);
+
+
+  }
+}
+
+/* Styles for devices between 768px and 991px (typical tablets in portrait mode) */
+// @media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* Your tablet styles go here */
+// }
+
+/* Styles for devices between 992px and 1199px (larger tablets and smaller desktops) */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+  .coin_flip {
+
+    scale: 0.3;
+    font-size: 200px;
+    width: 0.1em;
+    height: 1em;
+    background: linear-gradient(#faa504, #141001);
+    margin: auto;
+    position: relative;
+    top: -24px;
+    left: 11px;
+    right: 0;
+    bottom: 0;
+    transform-style: preserve-3d;
+    animation: rotate_only 4s forwards;
+    transition: transform 2s cubic-bezier(0.68, 0.05, 1, 1.4);
+
+
+  }
+}
+
+/* Styles for devices 1200px and above (typical desktops) */
+@media only screen and (min-width: 1200px) {
+ .hand_2{
+  scale: 0.86;
+ }
+}
+
+
+@media(max-width:1120px) {
+  .gn_game--coin{
+    height: 36%;
+
+  }
+
+    .arch_border {
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 50%;
+        position: absolute;
+        top: 95%;
+        left: 0;
+        right: 0;
+        transform: translateY(-50%);
+
+    }
+
+
+}
+
+@media(max-width: 650px) {
+    .arch_border {
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 50%;
+        position: absolute;
+        top: 95%;
+        left: 0;
+        right: 0;
+        transform: translateY(-50%);
+
+    }
+
+}
+
+@media(max-width: 430px) {
+    .arch_border {
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 35%;
+      position: absolute;
+      top: 82%;
+      left: 0;
+      right: 0;
+      transform: translateY(-50%);
+
+    }
+    .coin_section {
+
+        max-width: 256px;
+        max-height: 256px;
+        width: 58%;
+        height: auto;
+        position: absolute;
+        top: 64%;
+        left: 24%;
+        display: block;
+        border-radius: 50%;
+        box-shadow: 1px 2px 3px 0 #14100173;
+    }
+
+}
+
+@media(max-width: 353px) {
+    .arch_border {
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 35%;
+        position: absolute;
+        top: 95%;
+        left: 0;
+        right: 0;
+        transform: translateY(-50%);
+
+    }
+
+}
+
+
+// coin mess assets
+.Coin_mess2_larger{
+  z-index: 1;
+  position: relative;
+  display: ruby-text-group;
+  position: relative;
+  top: 64px;
+  right: -462px;
+  .coin_1, .coin_2,
+  .coin_3{
+    box-shadow: 0 0 10px 0 #141001;
+    border-radius: 50%;
+
+  }
+
+  .coin_1{
+    z-index: 1;
+    position: relative;
+    top: 159px;
+    left: -13px;
+    bottom: -11px;
+    transform: rotate(60deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+  }
+  .coin_2{
+    z-index: 1;
+    position: relative;
+    top: 142px;
+    left: -44px;
+    bottom: 0;
+    transform: rotate(-10deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+  }
+  .coin_3{
+    z-index: 1;
+    position: relative;
+    top: 148px;
+    left: -101px;
+    bottom: 0;
+    transform: rotate(324deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+
+  }
+  .coin_4{
+    position: relative;
+    top: 154px;
+    left: -103px;
+    bottom: 0;
+    transform: rotate(324deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+}
+
+  }
+
+
+.Coin_mess1_larger{
+  top: -3px;
+  left: 30px;
+  position: absolute;
+  .coin_1, .coin_2,
+  .coin_3{
+    box-shadow: 0 0 10px 0 #141001;
+    border-radius: 50%;
+    display: ruby-text-group;
+  }
+
+  .coin_1{
+    position: relative;
+    top: 159px;
+    left: -13px;
+    bottom: -11px;
+    transform: rotate(60deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+  }
+  .coin_2{
+    position: relative;
+    top: 142px;
+    left: -44px;
+    bottom: 0;
+    transform: rotate(-10deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+  }
+  .coin_3{
+    position: relative;
+    top: 101px;
+    left: 4px;
+    bottom: 0;
+    transform: rotate(324deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.Coin_mess1_larger{
+  top: -3px;
+  left: 30px;
+  position: absolute;
+
+  .coin_1, .coin_2,
+  .coin_3{
+    box-shadow: 0 0 10px 0 #141001;
+    border-radius: 50%;
+    display: ruby-text-group;
+  }
+
+  .coin_1{
+    position: relative;
+    top: 159px;
+    left: -13px;
+    bottom: -11px;
+    transform: rotate(60deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+  }
+  .coin_2{
+    position: relative;
+    top: 142px;
+    left: -44px;
+    bottom: 0;
+    transform: rotate(-10deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+  }
+  .coin_3{
+    position: relative;
+    top: 101px;
+    left: 4px;
+    bottom: 0;
+    transform: rotate(324deg);
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+  }
+}

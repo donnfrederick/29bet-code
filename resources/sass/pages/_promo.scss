@@ -1,0 +1,339 @@
+.centro_promocoes {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.card__item {
+    backdrop-filter: blur(25px);
+    background: linear-gradient(180deg,hsla(0,0%,100%,.1),hsla(0,0%,100%,0));
+    background-size: 100%;
+    border-radius: 0.75rem;
+    margin: 0 auto;
+    min-height: 315px;
+}
+.filter__itempromo.active {
+    background: linear-gradient(3360deg,#db0a49 .8%,#fb2b57)!important;
+    box-shadow: #{'0 3px 20px rgba(255,35,65,.6), inset 0 4px 4px hsla(0,0%,100%,.37)'};
+}
+.card__item:hover {
+    background-size: 150%;
+}
+.card__item--img {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 0.75rem;
+    overflow: hidden;
+    img {
+        width: 100%;
+    }
+}
+.card__item--dados {
+    padding: 15px;
+}
+.card__item--titulo {
+    font-size: 15px;
+    line-height: 1.3;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.card__item--txt {
+    color: #648eb1;
+    font-weight: 600;
+    font-size: 10px;
+    height: 76px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    text-align: left;
+}
+.card__item--btn{
+    text-align: center;
+}
+.card__item--btn a{
+    color: #fa2f5c;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.right {
+    text-align:right;
+}
+img.acende:hover {
+	opacity: 0.9;
+	-moz-opacity: 0.9;
+	Filter: Alpha(Opacity=85)
+}
+img.acende {
+	opacity: 1.0;
+	-moz-opacity: 1.0;
+	Filter: Alpha(Opacity=100)
+}
+.voltarpromo a{
+    background: #333;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 10px;
+    color: #fff;
+}
+.voltarpromo a:hover{
+    background: #1f1f1f;
+}
+.space2 {
+    margin-top: 30px;
+    padding: 80px 40px;
+    background: #252a35;
+    border-radius: 10px;
+}
+.container__promo {
+    margin: 0px 0px 80px 0px;
+}
+.card__exibe--img {
+    margin-top: 7px;
+}
+.card__exibe--img img{
+    border-radius: 10px;
+    -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
+}
+.card__exibe--dados {
+    padding-left: 20px;
+}
+.card__exibe--titulo {
+    color: #eee;
+    font-size: 24px;
+    font-weight: bold;
+}
+.card__exibe--texto {
+    margin: 5px 0px;
+    color: #a2a6ac;
+    line-height: 25px;
+    text-align:justify;
+    font-size: 14px;
+}
+.banner__flu {
+    border-radius: 20px;
+    background-image: white;
+    max-width: 673px;
+    margin: 0 auto;
+    position: relative;
+    background: linear-gradient(261deg, rgba(14,21,32,0), #184b888c);
+    width: 100%;
+    height: 140px;
+}
+.banner__flu00 {
+    overflow:hidden;
+    padding: 10px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.banner__flu--confete {
+    position:absolute;
+    left: 0px;
+    bottom: 0px;
+    animation: move 20s linear infinite;
+
+    img {
+        width: 100%;
+    }
+}
+@keyframes move {
+    0% {
+        bottom: 0
+    }
+
+    to {
+        bottom: -1389px
+    }
+}
+.banner__flu--ico {
+    position: absolute;
+    top:0px;
+    left: -22px;
+}
+.banner__flu--txt {
+    color: #fff;
+    font-weight: 700;
+    font-size: clamp(25px, 4vw, 31px);
+    font-style: initial;
+    padding: 14px 0px 10px 74px;
+    margin-top: 8px;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+}
+.banner__flu--btn {
+    padding: 20px 0px;
+    display: none;
+}
+.banner__flu--btn a{
+    background: #333;
+    color: #fff;
+    padding: 15px 10px;
+    border-radius: 10px;
+}
+.banner__flu--btn a:hover{
+    background: #201f22;
+}
+.bannerbtn:link,
+.bannerbtn:visited {
+    transition: all .2s;
+    position: absolute;
+}
+
+.bannerbtn:hover {
+    transform: translateY(-1px);
+}
+
+.bannerbtn:active {
+    transform: translateY(-1px);
+}
+
+.bannerbtn-white {
+
+}
+
+.bannerbtn::after {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    transition: all .4s;
+}
+.center__promotions {
+
+    h2 {
+        font-size: clamp(14px, 3vw, 20px);
+        text-transform: uppercase;
+        font-weight: 600;
+        line-height: 34px;
+        text-align: initial;
+
+        span {
+            font-size: clamp(30px, 4vw, 54px);
+            font-weight: 800;
+        }
+    }
+
+    p {
+        font-size: clamp(14px, 3vw, 16px);
+        font-weight: 300;
+        margin-top: 10px;
+        max-width: 730px;
+    }
+}
+.images__promotions {
+    position: relative;
+
+    &--present {
+        max-width: 155px;
+        position: absolute;
+        width: 100%;
+        transform: rotate(21deg);
+        z-index: 1;
+        left: 135px;
+    }
+
+    &--conffet {
+        width: 115%;
+    }
+}
+.bannerbtn-white::after {
+    background-color: #333;
+}
+
+.bannerbtn:hover::after {
+    transform: scaleX(1.4) scaleY(1.6);
+    opacity: 0;
+}
+
+.bannerbtn-animated {
+    animation: moveInBottom 5s ease-out;
+    animation-fill-mode: backwards;
+}
+.containerfiltro {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.containerfiltro .active{
+    margin-bottom: 20px;
+    background: #0879e9;
+    color: #fff;
+}
+.filter__itempromo {
+    padding: 10px 10px;
+    font-size: 13px;
+    border-radius: 10px;
+    color: #bebebe;
+}
+.filter__itempromo:hover {
+    color: #fff;
+    cursor: pointer;
+}
+@keyframes moveInBottom {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+@media screen and (max-width: 650px) {
+
+    .filter__itempromo {
+        width: 100%;
+        text-align: center;
+    }
+    .profile__body {
+        margin: 10px 0px;
+    }
+    .cards {
+        flex-wrap: wrap;
+    }
+    .filter__itempromo {
+        padding: 10px 10px;
+    }
+    .card__item {
+        width: 100%;
+    }
+    .card__item--txt {
+        font-size: 12px;
+        height: initial;
+        line-height: 22px;
+    }
+    .space2 {
+        padding: 20px;
+    }
+    .voltarpromo {
+        margin-bottom: 20px;
+    }
+    .banner__flu {
+        width: 100%;
+    }
+    .banner__flu--txt {
+        padding: 0px;
+        text-align: center;
+    }
+    .card__exibe--dados {
+        padding: 0px;
+    }
+    .bannerbtn:link, .bannerbtn:visited {
+        position: initial;
+    }
+    .banner__flu--btn {
+        text-align: center;
+    }
+    .banner__flu--btn a{
+        font-size: 12px;
+    }
+}

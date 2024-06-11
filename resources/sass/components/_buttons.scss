@@ -1,0 +1,122 @@
+.btn {
+    color: white;
+}
+.btn-popup-promotions {
+    border-radius: 10px;
+    font-size: clamp(13px, 3vw, 16px);
+    padding: 15px 40px;
+    background-color: #1c2532;
+    color: #a7b2c2;
+    border-color: transparent;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    transition: color 0.1s ease-in-out, background-color 0.1s ease-in-out, border-color 0.1s ease-in-out;
+}
+.centered-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-cc {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    width: 100px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    background: #ffa600;
+    text-align: center;
+    color: #202a39;
+    text-decoration: none;
+    -webkit-transition: .2s linear;
+    -o-transition: .2s linear;
+    transition: .2s linear;
+    line-height: 39px;
+    margin: 7px 10px 7px 5px;
+    cursor: pointer;
+}
+
+.navbar .btn-vk {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    width: 100px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    background: #2283F6;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    -webkit-transition: .2s linear;
+    -o-transition: .2s linear;
+    transition: .2s linear;
+    line-height: 39px;
+    margin: 7px 5px;
+    cursor: pointer;
+}
+.sport-bet-tab {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px 20px;
+    width: 48%;
+    text-align: center;
+    border-radius: 50px;
+}
+.sport-bet-tab-active {
+    background: #fa2f5c;
+}
+.btn-29 {
+    background: rgb(250, 47, 92);
+    padding: 10px 27px;
+    box-shadow: 0 0 0 1px #fa2f5c, 0 8px 0 0 #b91739, 0 8px 8px 1px #b91739;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.5s;
+    color: #fff;
+    text-decoration: none;
+
+    &:hover, &:active, &:disabled {
+        box-shadow: 0 1px 0 1px #fa2f5c, 0 7px 0 0 #b91739, 0 6px 6px 1px #b91739;
+        color: #ffffffe6;
+    }
+}
+.login_fields__submit input {
+    border-radius: 12px;
+    padding: 10px 50px;
+    color: #fff;
+    width: 99%;
+    font-size: 17px;
+    transition-property: background, color;
+    transition-duration: 0.2s;
+    border: none;
+    letter-spacing: 1px;
+    // background: linear-gradient(180deg,#0a9dff,#1a52ee);
+    background: #fa2f5c;
+    margin-bottom: 15px;
+    text-transform: initial;
+}

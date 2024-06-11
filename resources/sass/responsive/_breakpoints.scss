@@ -1,0 +1,188 @@
+$desktopScreens: (
+
+    Desktop1400px: (
+        minWidth: 1351px,
+        maxWidth: 1399px,
+    ),
+
+    Desktop1350px: (
+        minWidth: 1221px,
+        maxWidth: 1350px,
+    ),
+
+    Desktop1200px: (
+        minWidth: 1025px,
+        maxWidth: 1200px,
+    ),
+
+    Desktop1024px: (
+        minWidth: 992px,
+        maxWidth: 1024px,
+    ),
+
+    Desktop991px: (
+        minWidth: 885px,
+        maxWidth: 991px,
+    ),
+
+);
+
+$tabletScreens: (
+
+    // iPad PRO 11,
+    Tablet834px: (
+        minWidth: 821px,
+        maxWidth: 834px,
+    ),
+
+    // iPad Air 4
+    Tablet820px: (
+        minWidth: 801px,
+        maxWidth: 820px,
+    ),
+
+    // iPad Tab S7
+    Tablet800px: (
+        minWidth: 769px,
+        maxWidth: 800px,
+    ),
+
+    // iPad Mini
+    Tablet768px: (
+        minWidth: 600px,
+        maxWidth: 768px,
+    ),
+
+);
+
+$mobileScreens: (
+
+    // IPHONE 14 PRO MAX
+    Mobile428x928: (
+        minWidth: 415px,
+        maxWidth: 428px,
+        minHeight: 927px,
+        maxHeight: 928px,
+    ),
+
+
+    // IPHONE 13 PRO MAX, IPHONE 14 PLUS
+    Mobile428x926: (
+        minWidth: 415px,
+        maxWidth: 428px,
+        minHeight: 915px,
+        maxHeight: 926px,
+    ),
+
+
+    // IPHONE XR, IPHONE MAX, IPHONE 11, IPHONE 11 PRO MAX
+    Mobile414x896: (
+        minWidth: 413px,
+        maxWidth: 414px,
+        minHeight: 890px,
+        maxHeight: 896px,
+    ),
+
+    // IPHONE 7 PLUS, IPHONE 8 PLUS, IPHONE 6S PLUS
+    Mobile414x736: (
+        minWidth: 413px,
+        maxWidth: 414px,
+        minHeight: 730px,
+        maxHeight: 736px,
+    ),
+
+    // Galaxy Note20 Ultra
+    Mobile412x883: (
+        minWidth: 412px,
+        maxWidth: 410px,
+        minHeight: 883px,
+        maxHeight: 880px,
+    ),
+
+    // IPHONE 12, IPHONE 12 PRO, IPHONE 13, IPHONE 12 PRO, IPHONE 13 PROM IPHONE 14, IPHONE 14 PRO
+    Mobile390x844: (
+        minWidth: 385px,
+        maxWidth: 390px,
+        minHeight: 840px,
+        maxHeight: 844px,
+    ),
+
+    // IPHONE XS, IPHONE X, IPHONE 11 PRO, IPHONE 13 MINI
+    Mobile375x812: (
+        minWidth: 371px,
+        maxWidth: 375px,
+        minHeight: 810px,
+        maxHeight: 812px,
+    ),
+
+    // IPHONE 6, IPHONE 7, IPHONE 8,
+    Mobile375x667: (
+        minWidth: 371px,
+        maxWidth: 375px,
+        minHeight: 660px,
+        maxHeight: 667px,
+    ),
+
+    // SAMSUNG GALAXY S20, XIAOMI Mi 11i, Galaxy Z Flip3, Galaxy A12, Galaxy S21 Ultra, Xiaomi 12
+    Mobile360x800: (
+        minWidth: 355px,
+        maxWidth: 360px,
+        minHeight: 791px,
+        maxHeight: 800px,
+    ),
+
+    // IPHONE 12 MINI, HUAWEI P30 PRO
+    Mobile360x780: (
+        minWidth: 355px,
+        maxWidth: 360px,
+        minHeight: 775px,
+        maxHeight: 780px,
+    ),
+
+    // IPHONE S22 ULTRA
+    Mobile360x772: (
+        minWidth: 355px,
+        maxWidth: 360px,
+        minHeight: 770px,
+        maxHeight: 772px,
+    ),
+
+    // IPHONE 5, IPHONE SE - MOBILES MINIMAL 320px
+    Mobile320x568: (
+        minWidth: 1px,
+        maxWidth: 320px,
+        minHeight: 1px,
+        maxHeight: 670px,
+    ),
+);
+
+@mixin mediaQueryMobile($breakpoint) {
+  $bp: map-get($mobileScreens, $breakpoint);
+  @media (min-width: map-get($bp, minWidth)) and
+         (max-width: map-get($bp, maxWidth)) and
+         (min-height: map-get($bp, minHeight)) and
+         (max-height: map-get($bp, maxHeight)) {
+    @content;
+  }
+}
+
+@mixin mediaQueryTablet($breakpoint) {
+    $bp: map-get($tabletScreens, $breakpoint);
+    @media (min-width: map-get($bp, minWidth)) and (max-width: map-get($bp, maxWidth)){
+      @content;
+    }
+}
+
+@mixin mediaQueryDesktop($breakpoint) {
+    $bp: map-get($desktopScreens, $breakpoint);
+    @media (min-width: map-get($bp, minWidth)) and (max-width: map-get($bp, maxWidth)){
+      @content;
+    }
+}
+
+
+// @include mediaQueryMobile(Mobile360x800) {
+//   body {
+//     background-color: rgb(166, 0, 100);
+//   }
+// }
